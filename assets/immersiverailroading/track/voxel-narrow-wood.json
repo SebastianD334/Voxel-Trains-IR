@@ -1,0 +1,17 @@
+{
+  "name": "Wooden Narrow Gauge",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-narrow-wood/voxel-narrow-wood.obj",
+    ">0": "immersiverailroading:models/track/voxel-narrow-wood/voxel-narrow-wood.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,31 @@
+{
+	"name": "BNSF Rotary Aluminum Gondola",
+	"works": "FCA",
+	"modeler": "BOSSK160",
+	"model": "immersiverailroading:models/rolling_stock/freight/gondola/gondola.obj",
+	"darken_model": "0",
+	"properties": {
+		"weight_kg": 19000
+	},
+	"passenger": {
+		"slots": 0,
+		"center_x": 0,
+		"center_y": 1.85,
+		"length": 6.5,
+		"width": 2
+	},
+	"freight": {
+		"slots": 14,
+		"width": 2,
+		"cargo": ["all"],
+		"show_current_loads_only": true
+	},
+	"trucks": {
+		"front": 6.031, 
+		"rear": -6.094
+	},
+	"couplers": {
+		"front_offset": -0.062,
+		"rear_offset": -0.062
+	}
+}

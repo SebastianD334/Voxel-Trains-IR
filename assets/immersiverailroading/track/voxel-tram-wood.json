@@ -1,0 +1,17 @@
+{
+  "name": "Tram Wood Rails",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-tram-wood/tramwood.obj",
+    ">0": "immersiverailroading:models/track/voxel-tram-wood/tramwood.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,58 @@
+{
+	"era": "steam",
+	"name": "Big Boy(Oil)",
+	"works": "American Locomotive Company",
+	"modeler": "Bossk",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/bigboy/bigboy.obj",
+	"tex_variants": {
+		"Big Boy Deflector": "bigboydeflector",
+		"Big Boy Greyhound": "bigboygh",
+		"Big Boy Greyhound Deflector": "bigboyghdeflector",
+		"Big Boy Painted": "bigboypainted",
+		"Big Boy Painted Deflector": "bigboypainteddeflector"
+	},
+	"properties": {
+		"max_psi": 300,
+		"water_capacity_l": 95000, 
+		"horsepower": 6290,
+		"tractive_effort_lbf": 135375,
+		"max_speed_kmh": 130,
+		"valve_gear": "mallet_walschaerts",
+		"weight_kg": 345600
+	},
+	"firebox": {
+		"slots": 36,
+		"width": 9
+	},
+	"passenger": {
+		"slots": 3,
+		"center_x": -11.5,
+		"center_y": 2.35,
+		"length": 1.5,
+		"width": 2.5
+	},
+	"trucks": {
+		"front": -2.29, 
+		"rear": -7.62
+	},
+	"couplers": {
+		"front_offset": -0.0625,
+		"rear_offset": -1	
+	},
+	"sounds": {
+		"whistle": "sounds/bigboy/whistle.ogg",
+		"idle": "sounds/bigboy/idle.ogg",
+		"pressure": "sounds/bigboy/pressure.ogg",
+		"chuff": "sounds/bigboy/chuff.ogg",
+		"quilling": [
+			{
+				"pull_start": 0.25,
+				"pull_end": 0.55,
+				"pitch_start": 0.7,
+				"pitch_end": 1.0,
+				"sample": "sounds/bigboy/bbquilling.ogg"
+			}
+		]
+	}
+
+}

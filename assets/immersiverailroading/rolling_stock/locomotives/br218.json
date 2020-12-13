@@ -1,0 +1,37 @@
+{
+	"era": "diesel",
+	"name": "BR218",
+	"works": "DB Fernverkehr",
+	"pack": "Voxel Voss",
+	"modeler": "CaptainSkipper",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/br218/br218.obj",
+	"darken_model": "0",
+	"properties": {
+		"fuel_efficiency_%": 95,
+		"fuel_capacity_l": 3200,
+		"horsepower": 2718,
+		"tractive_effort_lbf": 52830,
+		"max_speed_kmh": 160,
+		"weight_kg": 80000
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": 0,
+		"center_y": 1.937,
+		"length": 6.5,
+		"width": 2.1
+	},
+	"trucks": {
+		"front": 4.281, 
+		"rear": -4.281
+	},
+	"couplers": {
+		"front_offset": 0,
+		"rear_offset": 0
+	},
+	"sounds": {
+		"horn": "sounds/sound/horn.ogg",
+		"idle": "sounds/ice_t_stand.ogg",
+		"track_wheels": "sounds/ice_t_fahrt.ogg"
+	}
+}

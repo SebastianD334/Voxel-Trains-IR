@@ -1,0 +1,18 @@
+{
+  "types" : [
+	"voxel-default",
+	"voxel-railsonly",
+	"voxel-concrete",
+	"voxel-low-profile",
+	"voxel-buffer",
+	"voxel-catenary-mast",
+	"voxel-narrow-wood",
+	"voxel-narrow-concrete",
+	"voxel-narrow-railsonly",
+	"voxel-narrow-low-profile",
+	"voxel-tram-wood",
+	"voxel-tram-concrete",
+	"voxel-tram-twoblock",
+	"voxel-tram-midprofile"
+  ]
+}

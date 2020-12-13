@@ -1,0 +1,36 @@
+{
+	"era": "diesel",
+	"name": "SBB Re 450",
+	"works": "SLM Winterthur",
+	"modeler": "SebastianD334",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/re450loco/re450loco.obj",
+	"darken_model": "0",
+	"properties": {
+		"fuel_efficiency_%": 95,
+		"fuel_capacity_l": 4000,
+		"horsepower": 4291,
+		"tractive_effort_lbf": 53954,
+		"max_speed_kmh": 130,
+		"weight_kg": 74000
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": 0,
+		"center_y": 1.6625,
+		"length": 7.594,
+		"width": 2.1
+	},
+	"trucks": {
+		"front": 5.125, 
+		"rear": -5.188
+	},
+	"couplers": {
+		"front_offset": -0.1875,
+		"rear_offset": -0.0625
+	},
+	"sounds": {
+		"horn": "sounds/swisshorn.ogg",
+		"idle": "sounds/sound/idle.ogg",
+		"track_wheels": "sounds/sound/drive.ogg"
+	}
+}

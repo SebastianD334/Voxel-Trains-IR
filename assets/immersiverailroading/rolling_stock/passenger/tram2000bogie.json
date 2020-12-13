@@ -1,0 +1,29 @@
+{
+	"era": "diesel",
+	"name": "Tram 2000 Bogie",
+	"works": "SWS, SWP, SIG",
+	"modeler": "SebastianD334",
+	"model": "immersiverailroading:models/rolling_stock/passenger/tram2000bogie/tram2000bogie.obj",
+	"darken_model": "0",
+	"properties": {
+		"weight_kg": 2000
+	},
+	"passenger": {
+		"slots": 4,
+		"center_x": 0,
+		"center_y": 0.75,
+		"length": 2,
+		"width": 1.6
+	},
+	"trucks": {
+		"front": 0.844, 
+		"rear": -0.844
+	},
+	"couplers": {
+		"front_offset": -0.937,
+		"rear_offset": -0.937
+	},
+	"sounds": {
+	}
+}
+

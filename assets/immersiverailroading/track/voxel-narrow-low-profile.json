@@ -1,0 +1,20 @@
+{
+  "name": "Narrow Gauge Low Profile Rails",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-narrow-low-profile/narrow-low-profile.obj",
+    ">0": "immersiverailroading:models/track/voxel-narrow-low-profile/narrow-low-profile.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|7",
+      "cost": 1
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"era": "diesel",
+	"name": "Siemens Nexas Wagon",
+	"works": "Siemens",
+	"modeler": "CaptainSkipper",
+	"model": "immersiverailroading:models/rolling_stock/passenger/siemensnexaswagon/siemensnexaswagon.obj",
+	"darken_model": "0",
+	"properties": {
+		"max_speed_kmh": 115,
+		"weight_kg": 41000
+	},
+	"passenger": {
+		"slots": 72,
+		"center_x": 0,
+		"center_y": 1.814,
+		"length": 11.563,
+		"width": 2
+	},
+	"trucks": {
+		"front": 8.05, 
+		"rear": -8.05
+	},
+	"couplers": {
+		"front_offset": -0.062,
+		"rear_offset": -0.062
+	}
+}

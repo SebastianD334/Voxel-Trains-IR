@@ -1,0 +1,19 @@
+{
+  "name": "catenarymast",
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-catenary-mast/catenary-mast.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|8",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 8
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

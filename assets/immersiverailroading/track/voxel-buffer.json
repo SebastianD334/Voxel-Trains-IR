@@ -1,0 +1,19 @@
+{
+  "name": "buffer",
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-buffer/buffer.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|7",
+      "cost": 3
+    },{
+      "item": "ore:ingotIron",
+      "cost": 6
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 6
+    }]
+  }
+}
