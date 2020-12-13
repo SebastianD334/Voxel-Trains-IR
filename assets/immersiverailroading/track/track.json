@@ -13,6 +13,7 @@
 	"voxel-tram-wood",
 	"voxel-tram-concrete",
 	"voxel-tram-twoblock",
-	"voxel-tram-midprofile"
+	"voxel-tram-midprofile",
+	"trtrack"
   ]
 }
