@@ -2,6 +2,7 @@ INSTALLATION
 
 You will need:
 - Immersive Railroading 		https://www.curseforge.com/minecraft/mc-mods/immersive-railroading
+- Universal Mod Core 			https://www.curseforge.com/minecraft/mc-mods/universal-mod-core
 - TrackAPI 				https://www.curseforge.com/minecraft/mc-mods/track-api
 - Immersive Engineering (optional)	https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
 
