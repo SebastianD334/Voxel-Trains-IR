@@ -1,0 +1,37 @@
+{
+	"era": "diesel",
+	"name": "VT 98",
+	"works": "Waggonfabrik Uerdinge, MAN, WMD",
+	"modeler": "SebastianD334",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/vt98/vt98.obj",
+	"darken_model": "0",
+	"properties": {
+		"fuel_efficiency_%": 100,
+		"fuel_capacity_l": 1600,
+		"horsepower": 295,
+		"tractive_effort_lbf": 5000,
+		"max_speed_kmh": 90,
+		"weight_kg": 18900
+	},
+	"passenger": {
+		"slots": 58,
+		"center_x": 0,
+		"center_y": 1.25,
+		"length": 5.8125,
+		"width": 2.25
+	},
+	"trucks": {
+		"front": 2.906, 
+		"rear": -2.906
+	},
+	"couplers": {
+		"front_offset": 0,
+		"rear_offset": 0
+	},
+	"sounds": {
+		"horn": "sounds/kofhorn.ogg",
+		"idle": "sounds/kofidle.ogg",
+		"wheels": "sounds/kofdrive.ogg"
+	}
+}
+
