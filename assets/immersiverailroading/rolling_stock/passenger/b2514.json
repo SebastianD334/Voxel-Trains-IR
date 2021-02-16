@@ -1,0 +1,29 @@
+{
+	"era": "diesel",
+	"name": "B 94 85 2 514",
+	"works": "Siemens",
+	"pack": "Voxel Trains",
+	"modeler": "SebastianD334",
+	"model": "immersiverailroading:models/rolling_stock/passenger/b2514/b2514.obj",
+	"darken_model": "0",
+	"properties": {
+		"fuel_efficiency_%": 100,
+		"max_speed_kmh": 140,
+		"weight_kg": 56250
+	},
+	"passenger": {
+		"slots": 102,
+		"center_x": 0,
+		"center_y": 0.6876,
+		"length": 5.75,
+		"width": 2
+	},
+	"trucks": {
+		"front": 9.3125,
+		"rear": -9.3125
+	},
+	"couplers": {
+		"front_offset": -0.03125,
+		"rear_offset": -0.03125
+	}
+}
