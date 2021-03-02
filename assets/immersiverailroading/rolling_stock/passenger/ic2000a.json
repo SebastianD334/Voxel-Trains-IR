@@ -2,6 +2,7 @@
 	"name": "IC 2000 A",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ic2000a/ic2000a.obj",
 	"darken_model": "0",
 	"properties": {

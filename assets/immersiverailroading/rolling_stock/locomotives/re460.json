@@ -3,6 +3,7 @@
 	"name": "Re 460",
 	"works": "SLM, ABB",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re460/re460.obj",
 	"darken_model": "0",
 	"properties": {
