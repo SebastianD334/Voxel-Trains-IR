@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png
 
 newmtl palette.001
 Ns 0.000000
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png
 
 newmtl palette.002
 Ns 0.000000
@@ -32,7 +32,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png
 
 newmtl palette.003
 Ns 0.000000
@@ -43,7 +43,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png
 
 newmtl palette.004
 Ns 0.000000
@@ -54,7 +54,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png
 
 newmtl palette.005
 Ns 0.000000
@@ -65,7 +65,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png
 
 newmtl palette.006
 Ns 0.000000
@@ -76,7 +76,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png
 
 newmtl palette.007
 Ns 0.000000
@@ -87,4 +87,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd trsbbwrb.png
+map_Kd trsbbwr.png

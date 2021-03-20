@@ -1,9 +1,9 @@
 {
 	"era": "diesel",
-	"name": "SBB Transrapid WRB",
+	"name": "SBB Transrapid WR",
 	"works": "Stadler",
 	"modeler": "SebastianD334",
-	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbbwrb/trsbbwrb.obj",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbbwr/trsbbwr.obj",
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 99,
