@@ -28,6 +28,7 @@
 		"rear_offset": 0
 	},
 	"sounds": {
-		"wheels": "sounds/bufferscreech.ogg"
+		"wheels": "sounds/bufferscreech.ogg",
+		"idle": "sounds/stille.ogg"
 	}
 }
