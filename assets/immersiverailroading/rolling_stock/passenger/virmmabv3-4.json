@@ -1,0 +1,27 @@
+{
+	"name": "VIRMm ABv3-4",
+	"works": "Bombardier",
+	"modeler": "Foxy",
+	"model": "immersiverailroading:models/rolling_stock/passenger/virmmabv3-4/virmmabv3-4.obj",
+	"darken_model": "0",
+	"properties": {
+		"max_speed_kmh": 160,
+		"weight_kg": 51000
+	},
+	"passenger": {
+		"slots": 104,
+		"center_x": 0,
+		"center_y": 3.25,
+		"length": 6.65625,
+		"width": 2,
+		"should_sit": true
+	},
+	"trucks": {
+		"front": 10.1875,
+		"rear": -10.1875
+	},
+	"couplers": {
+		"front_offset": -0.0625,
+		"rear_offset": -0.0625
+	}
+}
