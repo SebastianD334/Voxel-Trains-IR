@@ -23,8 +23,8 @@
 		"should_sit": true
 	},
 	"trucks": {
-		"front": 10.1875,
-		"rear": -10.1875
+		"front": 10.625,
+		"rear": -9.75
 	},
 	"couplers": {
 		"front_offset": -0.0625,

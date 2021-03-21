@@ -3,6 +3,11 @@
 	"works": "Bombardier",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/virmmabv6/virmmabv6.obj",
+	"tex_variants": {
+		"No Pantograph": "np",
+		"Back Pantograph": "bp",
+		"Both Pantographs": "fbp"
+	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 160,
