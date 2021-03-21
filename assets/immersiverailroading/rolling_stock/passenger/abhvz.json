@@ -2,6 +2,7 @@
 	"name": "AB HVZ",
 	"works": "SLM",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/abhvz/abhvz.obj",
 	"tex_variants": {
 		"Right": "dr",

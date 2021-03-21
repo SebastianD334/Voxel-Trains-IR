@@ -4,6 +4,11 @@
 	"works": "SLM",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re420lion/re420lion.obj",
+	"tex_variants": {
+			"Both Pantographs": "fbp",
+			"Back Pantograph": "bp",
+			"No Pantograph": "np"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 95,
