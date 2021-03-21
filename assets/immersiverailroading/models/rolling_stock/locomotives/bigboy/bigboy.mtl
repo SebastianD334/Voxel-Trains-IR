@@ -1,15 +1,49 @@
 # Blender MTL File: 'bigboy.blend'
-# Material Count: 7
+# Material Count: 8
 
-newmtl None
-Ns 225.000000
+newmtl bigboyletteringleft
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
-illum 2
+illum 1
+map_Kd bigboyletteringleft.png
+
+newmtl bigboyletteringright
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bigboyletteringright.png
+
+newmtl door
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd door.png
+
+newmtl dooropen
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dooropen.png
 
 newmtl palette
 Ns 0.000000
@@ -22,7 +56,7 @@ d 1.000000
 illum 1
 map_Kd bigboy.png
 
-newmtl palette.001
+newmtl smokedeflectors
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -31,9 +65,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd bigboyshell.png
+map_Kd deflectors.png
 
-newmtl palette.002
+newmtl smokehood
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -42,9 +76,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd bigboysmokebox.png
+map_Kd hood.png
 
-newmtl palette.003
+newmtl smokehoodretracted
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -53,26 +87,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd bigboydeflector.png
-
-newmtl paletteletteringleft
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd bigboyletteringleft.png
-
-newmtl paletteletteringright
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd bigboyletteringright.png
+map_Kd hoodretracted.png
