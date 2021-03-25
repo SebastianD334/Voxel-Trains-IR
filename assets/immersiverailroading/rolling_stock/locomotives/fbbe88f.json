@@ -3,7 +3,7 @@
 	"name": "Forchbahn Be 8/8 front",
 	"works": "SWS, SWP, SIG",
 	"modeler": "SebastianD334",
-	"model": "immersiverailroading:models/rolling_stock/locomotives/fbbe88/fbbe88.obj",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/fbbe88f/fbbe88f.obj",
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,

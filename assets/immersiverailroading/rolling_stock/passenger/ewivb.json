@@ -5,8 +5,17 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ewivb/ewivb.obj",
 	"tex_variants": {
-		"Open Doors Left": "dl",
-		"Open Doors Right": "dr"
+		"Right": "dr",
+		"Front Left": "fcdl",
+		"Front": "fc",
+		"Front Right": "fcdr",
+		"Both Left": "fbcdl",
+		"Both": "fbc",
+		"Both Right": "fbcdr",
+		"Back Left": "bcdl",
+		"Back": "bc",
+		"Back Right": "bcdr",
+		"Left": "dl"
 	},
 	"darken_model": "0",
 	"properties": {
@@ -14,7 +23,7 @@
 		"weight_kg": 35000
 	},
 	"passenger": {
-		"slots": 88,
+		"slots": 90,
 		"center_x": 0,
 		"center_y": 1.25,
 		"length": 12.25,
