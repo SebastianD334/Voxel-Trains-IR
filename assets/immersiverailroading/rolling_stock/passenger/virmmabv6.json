@@ -4,9 +4,17 @@
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/virmmabv6/virmmabv6.obj",
 	"tex_variants": {
-		"No Pantograph": "np",
+		"Right Doors": "dropen",
+		"Left Doors": "dlopen",
 		"Back Pantograph": "bp",
-		"Both Pantographs": "fbp"
+		"Back Pantograph Right Doors": "bpdropen",
+		"Back Pantograph Left Doors": "bpdlopen",
+		"No Pantograph": "np",
+		"No Pantograph Right Doors": "npdropen",
+		"No Pantograph Left Doors": "npdlopen",
+		"Both Pantographs": "fbp",
+		"Both Pantographs Right Doors": "fbpdropen",
+		"Both Pantographs Left Doors": "fbpdlopen"
 	},
 	"darken_model": "0",
 	"properties": {
