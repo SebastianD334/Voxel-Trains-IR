@@ -5,6 +5,10 @@
 	"pack": "Voxel Trains",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/virmmmbv7/virmmmbv7.obj",
+	"tex_variants": {
+		"Open Doors Left": "dlopen",
+		"Open Doors Right": "dropen"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
