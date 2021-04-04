@@ -35,7 +35,7 @@
 		"rear_offset": -0.0625
 	},
 	"sounds": {
-		"horn": "sounds/br481horn.ogg",
+		"horn": "sounds/nsvirmhorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	}
