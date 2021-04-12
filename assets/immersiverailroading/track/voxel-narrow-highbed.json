@@ -1,5 +1,5 @@
 {
-  "name": "Narrow Gauge High Bed Rails (experimental)",
+  "name": "Meter Gauge High Bed Rails (experimental)",
   "models": {
     ">0.2": "immersiverailroading:models/track/voxel-narrow-highbed/voxel-narrow-highbed.obj",
     ">0": "immersiverailroading:models/track/voxel-narrow-highbed/voxel-narrow-highbed.obj"

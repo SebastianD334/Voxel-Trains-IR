@@ -1,5 +1,5 @@
 {
-  "name": "Narrow Gauge Rails Only",
+  "name": "Meter Gauge Rails Only",
   "models": {
     ">0.2": "immersiverailroading:models/track/voxel-narrow-railsonly/voxel-narrow-railsonly.obj",
     ">0": "immersiverailroading:models/track/voxel-narrow-railsonly/voxel-narrow-railsonly.obj"
