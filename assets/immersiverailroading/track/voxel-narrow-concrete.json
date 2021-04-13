@@ -1,5 +1,5 @@
 {
-  "name": "Concrete Narrow Gauge",
+  "name": "Concrete Meter Gauge",
   "models": {
     ">0.2": "immersiverailroading:models/track/voxel-narrow-concrete/voxel-narrow-concrete.obj",
     ">0": "immersiverailroading:models/track/voxel-narrow-concrete/voxel-narrow-concrete.obj"

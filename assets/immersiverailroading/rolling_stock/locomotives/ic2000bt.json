@@ -30,7 +30,7 @@
 		"rear_offset": -0.0
 	},
 	"sounds": {
-		"horn": "sounds/swisshorn.ogg",
+		"horn": "sounds/re460horn.ogg",
 		"idle": "sounds/stille.ogg"
 	}
 }

@@ -3,6 +3,10 @@
 	"works": "Bombardier",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/virmmabv5/virmmabv5.obj",
+	"tex_variants": {
+		"Open Doors Left": "dlopen",
+		"Open Doors Right": "dropen"
+	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 160,
