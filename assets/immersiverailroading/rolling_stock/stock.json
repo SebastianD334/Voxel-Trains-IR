@@ -6,7 +6,7 @@
 	//otherwise, add the everything in the order of the numbers
 	
 	"freight": ["eanos", "falns121", "samms710", "franz", "hbbillnss", "gondola", "up809"],
-    
+
 	"locomotives": ["br143", "br218", "v320", "wiebe", "kof", "traktor", "dabbuzfa", "bnrbdzf480", "icsteuerwagen", "vt98", "front", "heck", "ngtcab", "b80dfront", "b80dback", "br481", "acs", "alco", "bigboy", "gtel", "siemensnexasfront", "cd810_b", "cd810_r", "cp1400", "cp1800", "cp2600", "cp5600", "re420swissex", "re420sbb", "re420cargo", "re420lion", "re420bls", "at1514", "bt4514", "re450loco", "btdpzplus", "re460", "re465", "ic2000bt", "sbb_ee922", "sbb_eem923_1", "sbb_eem923_2", "tram20001front", "tram20001bkfront", "tram20002front", "tram20002pony", "tram20003front", "tram20003pony", "forchbahnfront", "fbbe88f", "trsbbbt", "trsbbb", "trsbbwr", "trsbba", "trsbbat", "virmmmbvk1-2", "virmmmbv7", "traxx2", "buffer", "bufferzh"],
 
 	"passenger": ["bnrz451", "dbuza", "108", "109", "111", "134", "207", "mitte", "panto", "ngtbridge", "ngtcenter", "ngtbellow", "b80dbogie", "br481wagon", "upp7015", "siemensnexaswagon", "firstclass", "secondclass", "b2514", "b3514", "bhvz", "abhvz", "bdpzndw", "abdpzplus", "ewiva", "ewivb", "ic2000ad", "ic2000a", "ic2000wrb", "ic2000b", "tram2000bogie", "tram20001rear", "tram20001bkrear", "tram20002rear", "tram20003middle", "tram20003rear", "forchbahnmitte", "virmmabv6", "virmmabv5", "virmmabv3-4", "icrb", "icrbd", "icra"],
