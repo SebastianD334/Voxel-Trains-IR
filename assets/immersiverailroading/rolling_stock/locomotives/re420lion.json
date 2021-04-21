@@ -3,7 +3,6 @@
 	"name": "Re 420 Lion",
 	"works": "SLM",
 	"modeler": "SebastianD334",
-	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re420lion/re420lion.obj",
 	"tex_variants": {
 			"Both Pantographs": "fbp",

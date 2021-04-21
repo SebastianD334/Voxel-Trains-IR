@@ -21,16 +21,14 @@
 	},
 	"tender": {
 		"slots": 40,
-		"width": 8,
-		"cargo": ["all"],
-		"show_current_loads_only": true
+		"width": 8
 	},
 	"trucks": {
 		"front": 5,
 		"rear": -0.5
 	},
 	"couplers": {
-        	"front_offset": -1.0625,
+        	"front_offset": -1,
         	"rear_offset": -0.0625
 	}
 }

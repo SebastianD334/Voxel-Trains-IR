@@ -14,7 +14,7 @@
 		"weight_kg": 10000
 	},
 	"passenger": {
-		"slots": 43,
+		"slots": 60,
 		"center_x": -0.375,
 		"center_y": 1.0875,
 		"length": 6.5,
