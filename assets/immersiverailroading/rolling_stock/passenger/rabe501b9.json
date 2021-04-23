@@ -25,6 +25,7 @@
 		"rear_offset": -0.4375
 	},
 	"sounds": {
+		"track_wheels": "sounds/stille.ogg"
 	}
 }
 
