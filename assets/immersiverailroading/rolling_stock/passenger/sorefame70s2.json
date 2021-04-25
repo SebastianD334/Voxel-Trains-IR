@@ -1,0 +1,27 @@
+{
+	"name": "CP Sorefame 70s 2nd Class",
+	"works": "Sorefame",
+	"modeler": "Joao Da Fonseca",
+	"pack": "Voxel Trains",
+	"model": "immersiverailroading:models/rolling_stock/passenger/sorefame70s2/sorefame70s2.obj",
+	"darken_model": "0",
+	"properties": {
+		"max_speed_kmh": 140,
+		"weight_kg": 43500
+	},
+	"passenger": {
+		"slots": 96,
+		"center_x": 0,
+		"center_y": 1.3125,
+		"length": 12.375,
+		"width": 2.125
+	},
+	"trucks": {
+		"front": 9.4375,
+		"rear": -9.4375
+	},
+	"couplers": {
+		"front_offset": -0,
+		"rear_offset": -0
+	}
+}
