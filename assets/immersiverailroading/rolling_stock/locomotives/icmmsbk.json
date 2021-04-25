@@ -1,0 +1,41 @@
+{
+	"era": "diesel",
+	"name": "ICMm sBk",
+	"works": "Schindler Waggon/Talbot",
+	"pack": "Voxel Trains",
+	"modeler": "Foxy",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/icmmsbk/icmmsbk.obj",
+	"tex_variants": {
+		"Open Doors Left": "dl",
+		"Open Doors Right": "dr"
+	},
+	"darken_model": "0",
+	"properties": {
+		"fuel_efficiency_%": 100,
+		"fuel_capacity_l": 4000,
+		"horsepower": 0,
+		"tractive_effort_lbf": 26977,
+		"max_speed_kmh": 160,
+		"weight_kg": 42000
+	},
+	"passenger": {
+		"slots": 80,
+		"center_x": 10.243,
+		"center_y": 3.8125,
+		"length": 0.675,
+		"width": 1.25,
+		"should_sit": true
+	},
+	"trucks": {
+		"front": 9.875,
+		"rear": -9.9375
+	},
+	"couplers": {
+		"front_offset": -0.25,
+		"rear_offset": -0.0625
+	},
+	"sounds": {
+		"horn": "sounds/nsicmmhorn.ogg",
+		"idle": "sounds/sound/idle.ogg"
+	}
+}
