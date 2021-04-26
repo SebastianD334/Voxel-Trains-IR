@@ -1,7 +1,7 @@
 # Blender MTL File: 'None'
 # Material Count: 9
 
-newmtl bpdown
+newmtl bdown
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd bpdown.png
+map_Kd bdown.png
 
 newmtl bpup
 Ns 0.000000
@@ -78,7 +78,7 @@ d 1.000000
 illum 1
 map_Kd fpdown.png
 
-newmtl fpup
+newmtl palette.001
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -95,7 +95,7 @@ Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
-Ni 1.450000
+Ni 1.000000
 d 1.000000
 illum 1
 map_Kd texture.png
