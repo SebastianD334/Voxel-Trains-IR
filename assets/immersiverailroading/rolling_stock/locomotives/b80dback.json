@@ -29,8 +29,10 @@
 		"rear_offset": -1.563
 	},
 	"sounds": {
-		"horn": "sounds/ngtbell.ogg",
-		"idle": "sounds/sfrontdrive.ogg"
+		"horn": "sounds/b80d/bell.ogg",
+		"idle": "sounds/b80d/wheels.ogg",
+		"wheels": "sounds/stille.ogg",
+		"clack": "sounds/b80d/clack.ogg"
 	}
 }
 
