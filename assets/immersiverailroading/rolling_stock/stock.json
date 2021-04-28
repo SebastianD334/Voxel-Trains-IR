@@ -50,6 +50,7 @@
 		"re460", 
 		"re465", 
 		"ic2000bt", 
+		"ic2020bt", 
 		"sbb_ee922", 
 		"sbb_eem923_1", "sbb_eem923_2", 
 		"tram20001front", "tram20001bkfront", "tram20002front", "tram20002pony", "tram20003front", "tram20003pony", 
@@ -104,6 +105,7 @@
 		"bhvz", "abhvz", 
 		"ewiva", "ewivb", 
 		"ic2000ad", "ic2000a", "ic2000wrb", "ic2000b", 
+		"ic2020ad", "ic2020a", "ic2020wrb", "ic2020b",
 		"tram2000bogie", "tram20001rear", "tram20001bkrear", "tram20002rear", "tram20003middle", "tram20003rear", 
 		"forchbahnmitte", 
 		
