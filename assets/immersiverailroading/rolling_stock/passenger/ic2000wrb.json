@@ -5,15 +5,15 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ic2000wrb/ic2000wrb.obj",
 	"tex_variants": {
-		"Open Back Left Door": "bdl",
-		"Open Left Doors": "dl",
-		"Open Front Left Door": "fdl",
+		"Open Back Right Door": "bdr", 
+		"Open Right Doors": "dr",
+		"Open Front Right Door": "fdr",
 		"Front Cover": "fc",
 		"Both Covers": "fbc",
 		"Back Cover": "bc",
-		"Open Front Right Door": "fdr",
-		"Open Right Doors": "dr",
-		"Open Back Right Door": "bdr"
+		"Open Front Left Door": "fdl",
+		"Open Left Doors": "dl",
+		"Open Back Left Door": "bdl"
 	},
 	"darken_model": "0",
 	"properties": {
