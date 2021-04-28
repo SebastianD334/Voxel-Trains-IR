@@ -1,0 +1,112 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl bdlclosed
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-11-bdlclosed.png
+
+newmtl bdlopen
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-9-bdlopen.png
+
+newmtl bdrclosed
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-8-bdrclosed.png
+
+newmtl bdropen
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-7-bdropen.png
+
+newmtl fc
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-10-fc.png
+
+newmtl fdlclosed
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-4-fdlclosed.png
+
+newmtl fdlopen
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-3-fdlopen.png
+
+newmtl fdrclosed
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-6-fdrclosed.png
+
+newmtl fdropen
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-5-fdropen.png
+
+newmtl texture
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\sebas\\Documents\\MV09963\\Blender OBJ\\IC 2020\\AD\\ic2020ad-0-FRAME_REAR.png
