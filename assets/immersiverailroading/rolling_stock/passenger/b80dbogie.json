@@ -24,6 +24,8 @@
 		"rear_offset": 0
 	},
 	"sounds": {
+		"wheels": "sounds/stille.ogg",
+		"clack": "sounds/stille.ogg"
 	}
 }
 
