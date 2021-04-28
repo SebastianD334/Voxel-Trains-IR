@@ -36,6 +36,6 @@
 	},
 	"sounds": {
 		"horn": "sounds/nsicmmhorn.ogg",
-		"idle": "sounds/sound/stille.ogg"
+		"idle": "sounds/stille.ogg"
 	}
 }
