@@ -1,0 +1,32 @@
+{
+	"era": "diesel",
+	"name": "VBG Be 5/6 Cobra 2",
+	"works": "ADtranz, Bombardier",
+	"modeler": "SebastianD334",
+	"model": "immersiverailroading:models/rolling_stock/passenger/vbg2/vbg2.obj",
+	"tex_variants": {
+		"Open Doors": "open"
+	},
+	"properties": {
+		"weight_kg": 6000
+	},
+	"passenger": {
+		"slots": 24,
+		"center_x": 0,
+		"center_y": 0.75,
+		"length": 2.65625,
+		"width": 1.75
+	},
+	"trucks": {
+		"front": 2.96875, 
+		"rear": -2.96875
+	},
+	"couplers": {
+		"front_offset": -0.8125,
+		"rear_offset": -0.8125
+	},
+	"sounds": {
+		"track_wheels": "sounds/stille.ogg"
+	}
+}
+
