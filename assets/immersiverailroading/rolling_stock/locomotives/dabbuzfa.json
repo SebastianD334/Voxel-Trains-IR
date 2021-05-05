@@ -1,6 +1,7 @@
 {
 	"era": "diesel",
 	"name": "Dabbuzfa 778",
+	"pack": "Has to be coupled with a locomotive to be able to drive!",
 	"works": "RAW Wittenberge",
 	"modeler": "CaptainSkipper",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/dabbuzfa/dabbuzfa.obj",

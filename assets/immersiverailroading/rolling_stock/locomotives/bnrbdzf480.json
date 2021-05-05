@@ -1,6 +1,7 @@
 {
 	"era": "diesel",
 	"name": "Bnrbdzf 480.1",
+	"pack": "Has to be coupled with a locomotive to be able to drive!",
 	"works": "AW Neumünster",
 	"modeler": "Fail",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/bnrbdzf480/bnrbdzf480.obj",

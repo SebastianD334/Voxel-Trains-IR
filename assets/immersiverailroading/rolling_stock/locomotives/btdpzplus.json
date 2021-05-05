@@ -1,6 +1,7 @@
 {
 	"era": "diesel",
 	"name": "Bt DPZplus",
+	"pack": "Has to be coupled with a locomotive to be able to drive!",
 	"works": "SLM",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/btdpzplus/btdpzplus.obj",
