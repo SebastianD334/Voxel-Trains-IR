@@ -3,7 +3,13 @@
 	"name": "Re 420 SBB",
 	"works": "SLM",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re420sbb/re420sbb.obj",
+	"tex_variants": {
+			"Both Pantographs": "fbp",
+			"Back Pantograph": "bp",
+			"No Pantograph": "np"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 95,
