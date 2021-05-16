@@ -5,17 +5,17 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ewiva/ewiva.obj",
 	"tex_variants": {
-		"Right": "dr",
-		"Front Left": "fcdl",
-		"Front": "fc",
-		"Front Right": "fcdr",
-		"Both Left": "fbcdl",
-		"Both": "fbc",
-		"Both Right": "fbcdr",
-		"Back Left": "bcdl",
-		"Back": "bc",
+		"Left": "dl",
 		"Back Right": "bcdr",
-		"Left": "dl"
+		"Back": "bc",
+		"Back Left": "bcdl",
+		"Both Right": "fbcdr",
+		"Both": "fbc",
+		"Both Left": "fbcdl",
+		"Front Right": "fcdr",
+		"Front": "fc",
+		"Front Left": "fcdl",
+		"Right": "dr"
 	},
 	"darken_model": "0",
 	"properties": {
