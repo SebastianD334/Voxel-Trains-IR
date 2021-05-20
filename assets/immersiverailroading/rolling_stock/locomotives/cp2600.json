@@ -3,7 +3,13 @@
 	"name": "CP 2600",
 	"works": "Trafo Union",
 	"modeler": "JoaoDaFonseca",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/cp2600/cp2600.obj",
+	"tex_variants": {
+			"No Pantograph": "np",
+			"Front Pantograph": "fp",
+			"Both Pantographs": "fbp"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
