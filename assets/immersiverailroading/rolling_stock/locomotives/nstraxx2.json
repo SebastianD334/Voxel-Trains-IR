@@ -2,7 +2,7 @@
 	"era": "diesel",
 	"name": "NS Traxx 2",
 	"works": "Bombardier",
-	"modeler": "SlenderMC/Foxy",
+	"modeler": "SlenderMC, Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/nstraxx2/nstraxx2.obj",
 	"tex_variants": {
