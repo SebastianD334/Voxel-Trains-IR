@@ -1,33 +1,40 @@
 {
 	"era": "diesel",
 	"name": "Bt DPZplus",
-	"pack": "Has to be coupled with a locomotive to be able to drive!",
-	"works": "SLM",
+	"pack": "Voxel Trains, Has to be coupled with a locomotive to be able to drive!",
+	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/btdpzplus/btdpzplus.obj",
 	"darken_model": "0",
+"tex_variants": {
+		"Open Right Doors": "dr",
+		"Rear Open Left Doors": "rdl",
+		"Rear": "r",
+		"Rear Open Right Doors": "rdr",
+		"Open Left Doors": "dl"
+	},
 	"properties": {
-		"fuel_efficiency_%": 1000,
-		"fuel_capacity_l": 1000,
-		"horsepower": 1000,
+		"fuel_efficiency_%": 0,
+		"fuel_capacity_l": 0,
+		"horsepower": 0,
 		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 130,
-		"weight_kg": 35000
+		"weight_kg": 49000
 	},
 	"passenger": {
-		"slots": 129,
+		"slots": 134,
 		"center_x": 0,
 		"center_y": 1.6625,
 		"length": 11.844,
 		"width": 2
 	},
 	"trucks": {
-		"front": 10.156,
-		"rear": -9.875
+		"front": 9.875,
+		"rear": -10.156
 	},
 	"couplers": {
-		"front_offset": -0.0625,
-		"rear_offset": -0.1875
+		"front_offset": -0.1875,
+		"rear_offset": -0.0625
 	},
 	"sounds": {
 		"idle": "sounds/stille.ogg",
