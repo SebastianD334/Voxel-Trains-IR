@@ -1,9 +1,9 @@
 {
-	"name": "Big Boy Centipede Tender(Oil)",
+	"name": "UP 4884-1 Centipede Tender",
 	"model": "immersiverailroading:models/rolling_stock/tender/centipede/centipede.obj",
 	"modeler": "Bossk",
 	"tex_variants": {
-		"Centipede GH": "centipedegh",
+		"Centipede GreyHound": "centipedegreyhound",
 		"Centipede Painted": "centipedepainted"
 	},
 	"properties": {

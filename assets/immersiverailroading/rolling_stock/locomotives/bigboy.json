@@ -1,14 +1,14 @@
 {
 	"era": "steam",
-	"name": "Big Boy(Oil)",
+	"name": "UP 4884-1 'Big Boy'",
 	"works": "American Locomotive Company",
 	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/bigboy/bigboy.obj",
 	"tex_variants": {
-		"Big Boy New": "bigboynew",
-		"Big Boy Black and White": "bigboypainted",
-		"Big Boy Greyhound": "bigboygreyhound",
 		"Door Open": "dooropen",
+		"Big Boy Black and White": "bigboypainted",
+		"Big Boy Black and White with Deflectors": "bigboypainteddeflectors",
+		"Big Boy Greyhound": "bigboygreyhound",
 		"Smoke Deflectors Door Closed": "deflectorsdc",
 		"Smoke Deflectors Door Open": "deflectorsdo",
 		"Smoke Delfectors and Smoke Hood Door Closed": "deflectorshooddc",

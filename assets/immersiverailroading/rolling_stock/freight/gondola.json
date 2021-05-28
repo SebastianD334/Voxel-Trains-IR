@@ -1,7 +1,7 @@
 {
 	"name": "BNSF Rotary Aluminum Gondola",
 	"works": "FCA",
-	"modeler": "BOSSK160",
+	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/freight/gondola/gondola.obj",
 	"darken_model": "0",
 	"properties": {
