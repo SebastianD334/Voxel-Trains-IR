@@ -1,7 +1,14 @@
 {
-	"name": "Union Pacific Auxiliary Tender #814",
+	"name": "UPP Auxiliary Tender #814",
 	"model": "immersiverailroading:models/rolling_stock/tender/upp814/upp814.obj",
 	"modeler": "Bossk",
+	"tex_variants": {
+		"F1R2": "f1r2",
+		"F2R1": "f2r1",
+		"F2R2": "f2r2",
+		"F3R1": "f3r1",
+		"F3R2": "f3r2"
+	},
 	"properties": {
 		"weight_kg": 155220
 	},
