@@ -1,22 +1,27 @@
 {
 	"name": "AB DPZplus",
-	"works": "SLM",
+	"works": "Schindler Waggon",
+	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/passenger/abdpzplus/abdpzplus.obj",
+	"tex_variants": {
+		"Right": "dr",
+		"Left": "dl"
+	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 130,
-		"weight_kg": 35000
+		"weight_kg": 49000
 	},
 	"passenger": {
-		"slots": 129,
+		"slots": 115,
 		"center_x": 0,
 		"center_y": 2.5,
 		"length": 7.125,
 		"width": 2
 	},
 	"trucks": {
-		"front": 10.031,
+		"front": 10,
 		"rear": -10
 	},
 	"couplers": {

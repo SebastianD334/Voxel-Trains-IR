@@ -20,10 +20,10 @@
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 130,
-		"weight_kg": 35000
+		"weight_kg": 48000
 	},
 	"passenger": {
-		"slots": 129,
+		"slots": 114,
 		"center_x": 0,
 		"center_y": 2.5,
 		"length": 7.125,

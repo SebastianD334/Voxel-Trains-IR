@@ -6,8 +6,10 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re460/re460.obj",
 	"tex_variants": {
-			"No Pantograph": "np",
 			"Front Pantograph": "fp",
+			"No Pantograph": "np",
+			"Front Pantograph Reversed": "rfp",
+			"Back Pantograph Reversed": "rbp",
 			"Both Pantographs": "fbp"
 	},
 	"darken_model": "0",
