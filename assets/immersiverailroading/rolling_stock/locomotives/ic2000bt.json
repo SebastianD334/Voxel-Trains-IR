@@ -1,7 +1,7 @@
 {
 	"era": "diesel",
 	"name": "IC 2000 Bt",
-	"pack": "Has to be coupled with a locomotive to be able to drive!",
+	"pack": "Voxel Trains, Has to be coupled with a locomotive to be able to drive!",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/ic2000bt/ic2000bt.obj",
