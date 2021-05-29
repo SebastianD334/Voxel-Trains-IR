@@ -6,15 +6,15 @@
 	"tex_variants": {
 		"Right Doors": "dropen",
 		"Left Doors": "dlopen",
-		"Back Pantograph": "bp",
-		"Back Pantograph Right Doors": "bpdropen",
-		"Back Pantograph Left Doors": "bpdlopen",
-		"No Pantograph": "np",
-		"No Pantograph Right Doors": "npdropen",
-		"No Pantograph Left Doors": "npdlopen",
-		"Both Pantographs": "fbp",
-		"Both Pantographs Right Doors": "fbpdropen",
-		"Both Pantographs Left Doors": "fbpdlopen"
+		"Both Pantographs": "p",
+		"Both Pantographs Right Doors": "dropenp",
+		"Both Pantographs Left Doors": "dlopenp",
+		"Front Pantograph": "fp",
+		"Front Pantograph Right Doors": "dropenfp",
+		"Front Pantograph Left Doors": "dlopenfp",
+		"No Pantographs": "np",
+		"No Pantographs Right Doors": "dropennp",
+		"No Pantographs Left Doors": "dlopennp"
 	},
 	"darken_model": "0",
 	"properties": {
