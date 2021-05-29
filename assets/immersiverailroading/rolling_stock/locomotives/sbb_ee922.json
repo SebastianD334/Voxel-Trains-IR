@@ -1,9 +1,13 @@
 {
 	"era": "diesel",
 	"name": "SBB Ee 922",
-	"works": "Stadler Rail",
+	"works": "Stadler",
+	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/sbb_ee922/sbb_ee922.obj",
+	"tex_variants": {
+		"Lowered Pantograph": "p"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
