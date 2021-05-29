@@ -3,6 +3,7 @@
 	"name": "Tram 2000 Bogie",
 	"works": "SWS, SWP, SIG",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/tram2000bogie/tram2000bogie.obj",
 	"darken_model": "0",
 	"properties": {

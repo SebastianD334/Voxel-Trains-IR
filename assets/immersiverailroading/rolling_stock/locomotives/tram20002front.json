@@ -3,7 +3,11 @@
 	"name": "Tram 2000 2nd Gen Front",
 	"works": "SWS, SWP, SIG",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/tram20002front/tram20002front.obj",
+	"tex_variants": {
+		"Open Doors": "open"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
