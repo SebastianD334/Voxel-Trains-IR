@@ -27,9 +27,6 @@
 		"acs", 
 		"alco", 
 		"bigboy", 
-		"gtel", 
-		"bigblow_a",
-		"bigblow_b",
 		
 		//---------Australia-------------------------------------- 
 		/*"siemensnexasfront", */
@@ -189,7 +186,7 @@
     	//---------USA-------------------------------------------- 
     	"centipede", 
     	"upp809", "upp814",
-	"aux_tender"
+	"auxiliarytender"
     	
     	//---------Australia-------------------------------------- 
 		
