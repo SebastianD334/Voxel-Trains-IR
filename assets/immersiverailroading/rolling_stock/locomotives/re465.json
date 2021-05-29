@@ -6,8 +6,23 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re465/re465.obj",
 	"tex_variants": {
-		"Re 465 Blue New": "re465bluenew",
-		"Re 465 Blue Old": "re465blueold"
+			"Front Pantograph": "fp",
+			"No Pantograph": "np",
+			"Front Pantograph Reversed": "rfp",
+			"Back Pantograph Reversed": "rbp",
+			"Both Pantographs": "fbp",
+			"New Blue": "bn",
+			"New Blue Front Pantograph": "fpbn",
+			"New Blue No Pantograph": "npbn",
+			"New Blue Front Pantograph Reversed": "rfpbn",
+			"New Blue Back Pantograph Reversed": "rbpbn",
+			"New Blue Both Pantographs": "fbpbn",
+			"Old Blue": "bo",
+			"Old Blue Front Pantograph": "fpbo",
+			"Old Blue No Pantograph": "npbo",
+			"Old Blue Front Pantograph Reversed": "rfpbo",
+			"Old Blue Back Pantograph Reversed": "rbpbo",
+			"Old Blue Both Pantographs": "fbpbo"
 	},
 	"darken_model": "0",
 	"properties": {
