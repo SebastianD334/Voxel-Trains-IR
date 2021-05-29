@@ -3,6 +3,7 @@
 	"name": "VBG Be 5/6 Cobra Bellow",
 	"works": "ADtranz, Bombardier",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/vbgbellow/vbgbellow.obj",
 	"properties": {
 		"weight_kg": 500

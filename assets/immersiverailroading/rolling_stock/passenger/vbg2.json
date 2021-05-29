@@ -3,6 +3,7 @@
 	"name": "VBG Be 5/6 Cobra 2",
 	"works": "ADtranz, Bombardier",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/vbg2/vbg2.obj",
 	"tex_variants": {
 		"Open Doors": "open"

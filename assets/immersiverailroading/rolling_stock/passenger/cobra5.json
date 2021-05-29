@@ -3,6 +3,7 @@
 	"name": "VBZ Be 5/6 Cobra 5",
 	"works": "ADtranz, Bombardier",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/cobra5/cobra5.obj",
 	"tex_variants": {
 		"Open Doors": "open"
