@@ -4,6 +4,13 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ic2000a/ic2000a.obj",
+	"tex_variants": {
+		"Open Right Doors": "dr",
+		"Front Cover": "fc",
+		"Both Covers": "fbc",
+		"Back Cover": "bc",
+		"Open Left Doors": "dl"
+	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
@@ -21,7 +28,7 @@
 		"rear": -10.09375
 	},
 	"couplers": {
-		"front_offset": 0.0,
-		"rear_offset": -0.0
+		"front_offset": -0.0625,
+		"rear_offset": -0.0625
 	}
 }

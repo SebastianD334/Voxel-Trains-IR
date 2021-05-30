@@ -10,7 +10,9 @@
 	"locomotives": [
 		
 		//---------Germany---------------------------------------- 
-		"br143", 
+		"br143",
+		"br146",
+		"br185", 
 		"br218", 
 		"v320", "wiebe", 
 		"kof", 
@@ -107,6 +109,7 @@
 		"bdpzndw", "abdpzplus", 
 		"bhvz", "abhvz", 
 		"ewivas", "ewiva", "ewivb", "ewivasmod", "ewivamod", "ewivbmod",
+		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", 
 		"ic2000ad", "ic2000a", "ic2000wrb", "ic2000b", 
 		"ic2020ad", "ic2020a", "ic2020wrb", "ic2020b",
 		"tram2000bogie", "tram20001rear", "tram20001bkrear", "tram20002rear", "tram20003middle", "tram20003rear", 

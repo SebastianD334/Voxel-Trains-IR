@@ -5,6 +5,17 @@
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/ic2000bt/ic2000bt.obj",
+	"tex_variants": {
+		"Open Right Doors": "dr",
+		"Park Open Left Doors": "pdl",
+		"Park": "p",
+		"Park Open Right Doors": "pdr",
+		"Back Cover": "bc",
+		"Rear Open Left Doors": "rdl",
+		"Rear": "r",
+		"Rear Open Right Doors": "rdr",
+		"Open Left Doors": "dl"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 1000,
@@ -27,7 +38,7 @@
 	},
 	"couplers": {
 		"front_offset": 0.0,
-		"rear_offset": -0.0
+		"rear_offset": -0.0625
 	},
 	"sounds": {
 		"horn": "sounds/re460horn.ogg",

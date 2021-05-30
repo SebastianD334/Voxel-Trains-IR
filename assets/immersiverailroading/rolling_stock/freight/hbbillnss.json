@@ -2,21 +2,33 @@
 	"name": "SBB Cargo Hbbillnss",
 	"works": "SBB Cargo",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/hbbillnss/hbbillnss.obj",
+	"tex_variants": {
+		"Open Back Right Door": "bdr",
+		"Open Front Right Door": "fdr",
+		"Undivided Open Back Right Door": "bdrd",
+		"Undivided Open Front Right Door": "fdrd",
+		"Undivided": "d",
+		"Undivided Open Front Left Door": "fdld",
+		"Undivided Open Back Left Door": "bdld",
+		"Open Front Left Door": "fdl",
+		"Open Back Left Door": "bdl"
+	},
 	"darken_model": "0",
 	"properties": {
 		"weight_kg": 20000
 	},
 	"passenger": {
-		"slots": 12,
+		"slots": 2,
 		"center_x": 0,
-		"center_y": 1.85,
+		"center_y": 1.5625,
 		"length": 8.25,
 		"width": 2
 	},
 	"freight": {
-		"slots": 24,
-		"width": 2,
+		"slots": 27,
+		"width": 9,
 		"cargo": ["all"]
 	},
 	"trucks": {
