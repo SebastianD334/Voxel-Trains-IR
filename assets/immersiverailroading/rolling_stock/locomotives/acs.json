@@ -2,9 +2,13 @@
 	"era": "diesel",
 	"name": "Amtrak ACS-64",
 	"works": "Siemens Mobility",
-	"modeler": "BOSSK160",
+	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/acs/acs.obj",
-	"darken_model": "0",
+	"tex_variants": {
+		"F1R1": "f1r1",
+		"F2R1": "f2r1",
+		"F2R2": "f2r2"
+	},
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 2000,

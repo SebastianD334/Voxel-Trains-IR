@@ -2,7 +2,7 @@
 	"era": "diesel",
 	"name": "ALCO S4",
 	"works": "ALCO",
-	"modeler": "BOSSK160",
+	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/alco/alco.obj",
 	"darken_model": "0",
 	"properties": {
