@@ -20,15 +20,15 @@
 		"weight_kg": 20000
 	},
 	"passenger": {
-		"slots": 12,
+		"slots": 2,
 		"center_x": 0,
-		"center_y": 1.85,
+		"center_y": 1.5625,
 		"length": 8.25,
 		"width": 2
 	},
 	"freight": {
-		"slots": 24,
-		"width": 2,
+		"slots": 27,
+		"width": 9,
 		"cargo": ["all"]
 	},
 	"trucks": {

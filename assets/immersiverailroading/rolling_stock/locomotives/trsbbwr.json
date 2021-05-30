@@ -3,7 +3,16 @@
 	"name": "SBB Transrapid WR",
 	"works": "Stadler",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbbwr/trsbbwr.obj",
+	"tex_variants": {
+		"Open Back Right Door": "bdr", 
+		"Open Right Doors": "dr",
+		"Open Front Right Door": "fdr",
+		"Open Front Left Door": "fdl",
+		"Open Left Doors": "dl",
+		"Open Back Left Door": "bdl"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 99,

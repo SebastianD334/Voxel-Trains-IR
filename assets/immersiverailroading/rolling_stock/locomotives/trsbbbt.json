@@ -3,7 +3,12 @@
 	"name": "SBB Transrapid Bt",
 	"works": "Stadler",
 	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbbbt/trsbbbt.obj",
+	"tex_variants": {
+		"Right": "dr",
+		"Left": "dl"
+	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 99,
