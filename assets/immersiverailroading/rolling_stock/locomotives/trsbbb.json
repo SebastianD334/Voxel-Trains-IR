@@ -36,6 +36,6 @@
 	"sounds": {
 		"horn": "sounds/stille.ogg",
 		"idle": "sounds/sound/idle.ogg",
-		"track_wheels": "sounds/sound/drive.ogg"
+		"track_wheels": "sounds/stille.ogg"
 	}
 }
