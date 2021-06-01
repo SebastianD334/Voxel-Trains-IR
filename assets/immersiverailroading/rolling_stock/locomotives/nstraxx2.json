@@ -6,13 +6,20 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/nstraxx2/nstraxx2.obj",
 	"tex_variants": {
-		"pantographs 2 and 3": "p23up",
-		"pantograph 3": "p3up",
-		"no pantographs": "nop",
-		"pantograph 4": "p4up",
-		"panotgraphs 1 and 4": "p14up",
-		"pantograph 1": "p1up"
-		
+		"Front Lights, Pantographs 2 and 3": "fp23up",
+		"Front Lights, Pantograph 3": "fp3up",
+		"Front Lights, No pantographs": "fnop",
+		"Front Lights, Pantograph 4": "fp4up",
+		"Front Lights, Panotgraphs 1 and 4": "fp14up",
+		"Front Lights, Pantograph 1": "fp1up",
+		"Rear Lights, Pantograph 1": "rp1up",
+		"Rear Lights, Panotgraphs 1 and 4": "rp14up",
+		"Rear Lights, Pantograph 4": "rp4up",
+		"Rear Lights, No Pantographs": "rnop",
+		"Rear Lights, Pantograph 3": "rp3up",
+		"Rear Lights, Pantographs 2 and 3": "rp23up",
+		"Rear Lights, Pantograph 2": "rp2up"
+	
 	},
 	"darken_model": "0",
 	"properties": {
