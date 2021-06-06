@@ -1,8 +1,8 @@
 {
-  "name": "Concrete 3rd Rail Catenary",
+  "name": "3rd Rail Catenary Right",
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-3rdrail/3rdrail.obj",
-    ">0": "immersiverailroading:models/track/voxel-3rdrail/3rdrail.obj"
+    ">0.2": "immersiverailroading:models/track/voxel-3rdrail-right/3rdrail.obj",
+    ">0": "immersiverailroading:models/track/voxel-3rdrail-right/3rdrail.obj"
   },
   "materials": {
     "TIE": [{
