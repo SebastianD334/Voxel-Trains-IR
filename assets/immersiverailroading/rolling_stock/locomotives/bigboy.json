@@ -18,23 +18,24 @@
 	},
 	"properties": {
 		"max_psi": 300,
-		"water_capacity_l": 95000, 
+		"water_capacity_l": 91000, 
 		"horsepower": 6290,
 		"tractive_effort_lbf": 135375,
 		"max_speed_kmh": 130,
 		"valve_gear": "mallet_walschaerts",
-		"weight_kg": 345600
+		"weight_kg": 346000
 	},
 	"firebox": {
 		"slots": 36,
 		"width": 9
 	},
 	"passenger": {
-		"slots": 3,
-		"center_x": -1,
-		"center_y": 2.5625,
-		"length": 12,
-		"width": 2.5
+		"slots": 4,
+		"center_x": -11.8,
+		"center_y": 3.2,
+		"length": .9,
+		"width": 2.6,
+		"should_sit": true
 	},
 	"trucks": {
 		"front": 0.5, 
