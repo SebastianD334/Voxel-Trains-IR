@@ -17,9 +17,9 @@
 	"passenger": {
 		"slots": 4,
 		"center_x": 0,
-		"center_y": 4.2,
+		"center_y": 4.6,
 		"length": 4.7,
-		"width": 2.4
+		"width": 2.1
 	},
 	"tank": {
 		"capacity_l":  91000
