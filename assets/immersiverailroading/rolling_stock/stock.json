@@ -30,8 +30,8 @@
 		"alco", 
 		"alco_s-4",
 		"gtel_1st",
-		"bigblow_a",
-		"bigblow_b",
+		"gtel_3rd_a",
+		"gtel_3rd_b",
 		"bigboy", 
 		"bigboy_old",
 		
@@ -43,6 +43,7 @@
 		"cd810_r", 
 		
 		//---------Portugal--------------------------------------- 
+		"cp0180",
 		"cp1400", 
 		"cp1800", 
 		"cp2600", 
