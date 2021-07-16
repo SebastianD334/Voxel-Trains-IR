@@ -1,8 +1,8 @@
 {
 	"era": "diesel",
-	"name": "BR218",
-	"works": "DB Fernverkehr",
-	"pack": "Voxel Voss",
+	"name": "DB BR 218",
+	"works": "Krupp, Henschel, Krauss Maffei, MaK",
+	"pack": "Voxel Trains",
 	"modeler": "CaptainSkipper",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/br218/br218.obj",
 	"darken_model": "0",
