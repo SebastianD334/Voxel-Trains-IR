@@ -46,8 +46,7 @@
 		"cp0180",
 		"cp1400", 
 		"cp1800", 
-		"cp2600", 
-		"cp2600_freight",
+		"cp2600", "cp2600_freight",
 		"cp5600", 
 		
 		//---------Switzerland------------------------------------ 
@@ -57,7 +56,7 @@
 		"re450", "btdpzplus", 
 		"re460", 
 		"re465", 
-		"icbt", 
+		"icbt", "icbtmod", 
 		"ic2000bt", 
 		"ic2020bt", 
 		"sbb_ee922", 
@@ -117,7 +116,7 @@
 		"b2514", "b3514", 
 		"bdpzndw", "abdpzplus", 
 		"bhvz", "abhvz", 
-		"ewivas", "ewiva", "ewivb", "ewivasmod", "ewivamod", "ewivbmod",
+		"ewivas", "ewiva", "sbbwrm", "ewivb", "ewivasmod", "ewivamod", "ewivbmod", 
 		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano", 
 		"ic2000ad", "ic2000a", "ic2000wrb", "ic2000b", 
 		"ic2020ad", "ic2020a", "ic2020wrb", "ic2020b",
