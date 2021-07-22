@@ -1,12 +1,21 @@
 {
 	"era": "diesel",
-	"name": "RABe 511 Bt 1/6",
+	"name": "ZVV RABe 511 Bt 1/6",
 	"works": "Stadler",
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/bt16511/bt16511.obj",
 	"tex_variants": {
 		"Right": "dr",
+		"Rear Left": "dlr",
+		"Rear": "r",
+		"Rear Right": "drr",
+		"Rear Panto Left": "dlrp",
+		"Rear Panto": "rp",
+		"Rear Panto Right": "drrp",
+		"Panto Left": "dlp",
+		"Panto": "p",
+		"Panto Right": "drp",
 		"Left": "dl"
 	},
 	"darken_model": "0",
@@ -30,7 +39,7 @@
 		"rear": -9.375
 	},
 	"couplers": {
-		"front_offset": -0.1875,
+		"front_offset": -0.09375,
 		"rear_offset": -0.09375
 	},
 	"sounds": {
