@@ -5,6 +5,14 @@
 	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/gtel_3rd_b/gtel_3rd_b.obj",
 	"darken_model": "0",
+	"tex_variants": {
+		"#1": "1",
+		"#6": "6",
+		"#7": "7",
+		"#8": "8",
+		"#17": "17",
+		"#30": "30"
+	},
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 2400,
