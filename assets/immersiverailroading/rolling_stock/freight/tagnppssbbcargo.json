@@ -5,9 +5,9 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/tagnppssbbcargo/tagnppssbbcargo.obj",
 	"tex_variants": {
-		"G": "g",
-		"C": "c",
-		"O": "o"
+		"Grain": "g",
+		"Cacao": "c",
+		"Oilseed": "o"
 	},
 	"darken_model": "0",
 	"passenger": {
@@ -24,7 +24,7 @@
 		"slots": 27,
 		"width": 9,
 		"cargo": ["all"],
-		"show_current_loads_only": true
+		"show_current_load": true
 	},
 	"trucks": {
 		"front": 7.5, 
