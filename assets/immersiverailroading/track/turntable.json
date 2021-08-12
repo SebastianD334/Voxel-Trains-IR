@@ -1,0 +1,17 @@
+{
+  "name": "Turntable",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/turntable/turntable.obj",
+    ">0": "immersiverailroading:models/track/turntable/turntable.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

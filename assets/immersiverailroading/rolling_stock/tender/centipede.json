@@ -3,8 +3,11 @@
 	"model": "immersiverailroading:models/rolling_stock/tender/centipede/centipede.obj",
 	"modeler": "Bossk",
 	"tex_variants": {
+		"Clean2": "2",
+		"Clean3": "3",
 		"Centipede GreyHound": "centipedegreyhound",
-		"Centipede Painted": "centipedepainted"
+		"Centipede Painted": "centipedepainted",
+		"Centipede 4019": "4019"
 	},
 	"properties": {
 		"weight_kg": 155220
