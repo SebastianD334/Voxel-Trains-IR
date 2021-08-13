@@ -19,6 +19,7 @@
 	"voxel-tram-concrete",
 	"voxel-tram-twoblock",
 	"voxel-tram-midprofile",
-	"trtrack"
+	"trtrack",
+	"concreted-track-l-channel"
   ]
 }

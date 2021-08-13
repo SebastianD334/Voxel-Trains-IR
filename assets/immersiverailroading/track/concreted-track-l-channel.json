@@ -1,0 +1,20 @@
+{
+  "name": "Concreted Track with L channel",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/concreted-track-l-channel/concreted-track-l-channel.obj",
+    ">0": "immersiverailroading:models/track/concreted-track-l-channel/concreted-track-l-channel.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|8",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}
