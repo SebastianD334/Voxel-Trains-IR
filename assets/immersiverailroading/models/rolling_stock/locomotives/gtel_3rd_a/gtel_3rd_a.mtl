@@ -1,5 +1,5 @@
-# Blender MTL File: 'gtel_3rd.blend'
-# Material Count: 1
+# Blender MTL File: 'gtel_3rd_a.blend'
+# Material Count: 3
 
 newmtl palette
 Ns 0.000000
@@ -11,3 +11,25 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd gtel_3rd_a.png
+
+newmtl palette.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 1-8.png
+
+newmtl palette.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 17-30.png
