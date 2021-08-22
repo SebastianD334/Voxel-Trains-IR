@@ -31,7 +31,7 @@
 	},
 	"couplers": {
 		"front_offset": -0.0625,
-		"rear_offset": -1	
+		"rear_offset": -0.5	
 	},
 	"sounds": {
 		"whistle": "sounds/bigboy/whistle.ogg",
