@@ -67,7 +67,7 @@ d 1.000000
 illum 1
 map_Kd fpup.png
 
-newmtl palette.017
+newmtl rpdown
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -76,9 +76,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd bpdown.png
+map_Kd rpdown.png
 
-newmtl palette.019
+newmtl rpup
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -87,7 +87,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd bpup.png
+map_Kd rpup.png
 
 newmtl texture
 Ns 0.000000

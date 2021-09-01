@@ -7,8 +7,12 @@
 	"model": "immersiverailroading:models/rolling_stock/locomotives/virmmmbvk1-2/virmmmbvk1-2.obj",
 	"tex_variants": {
 		"Open Doors Left": "dlopen",
-		"Open Doors Right": "dropen",
-		"graffiti": "grafiti"
+		"Open Doors Right Reverse Lights": "dropenlr",
+		"Reverse Lights": "lr",
+		"Open Doors Left Reverse Lights": "dlopenlr",
+		"Open Doors Right": "dropen"
+		
+		
 	},
 	"darken_model": "0",
 	"properties": {

@@ -1,5 +1,5 @@
 # Blender MTL File: 'None'
-# Material Count: 5
+# Material Count: 7
 
 newmtl dlclosed
 Ns 0.000000
@@ -44,6 +44,28 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd dropen.png
+
+newmtl lf
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd lf.png
+
+newmtl lr
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd lr.png
 
 newmtl texture
 Ns 0.000000
