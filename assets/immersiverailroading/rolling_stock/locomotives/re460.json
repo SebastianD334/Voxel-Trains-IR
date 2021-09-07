@@ -5,13 +5,6 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re460/re460.obj",
-	"tex_variants": {
-			"Front Pantograph": "fp",
-			"No Pantograph": "np",
-			"Front Pantograph Reversed": "rfp",
-			"Back Pantograph Reversed": "rbp",
-			"Both Pantographs": "fbp"
-	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 95,
