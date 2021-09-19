@@ -1,4 +1,16 @@
-# OBJ Combiner @ SebastianD334 feat. juliand665
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl bottom
+Ns 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ni 1.45
+d 1
+Illum 1
+map_Kd bottom.png
 
 newmtl texture
 Ns 0
@@ -9,4 +21,4 @@ Ke 0 0 0
 Ni 1.45
 d 1
 Illum 1
-map_Kd texture.png
+map_Kd body.png

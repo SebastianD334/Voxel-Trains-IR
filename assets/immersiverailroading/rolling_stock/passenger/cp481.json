@@ -6,12 +6,17 @@
 	"model": "immersiverailroading:models/rolling_stock/passenger/cp481/cp_481.obj",
 	"darken_model": "0",
 	"tex_variants": {
-		"Front Clean": "clean_front",
-		"None Clean": "clean_none",
-		"Rear Clean": "clean_rear",
-		"Front Dirty": "dirty_front",
-		"None Dirty": "dirty_none",
-		"Rear Dirty": "dirty_rear"
+		"HERITAGE End Car FRONT": "hf",
+		"HERITAGE End Car REAR": "hr",
+		"NORMAL Not End Car": "nn",
+		"NORMAL End Car FRONT": "nf",
+		"NORMAL End Car REAR": "nr",
+		"DIRTY Not End Car": "dn",
+		"DIRTY End Car FRONT": "df",
+		"DIRTY End Car REAR": "dr",
+		"OLD Not End Car": "on",
+		"OLD End Car FRONT": "of",
+		"OLD End Car REAR": "or"		
 	},
 	"properties": {
 		"max_speed_kmh": 100,
