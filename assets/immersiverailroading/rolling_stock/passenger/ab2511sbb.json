@@ -12,7 +12,8 @@
 	"properties": {
 		"fuel_efficiency_%": 102,
 		"max_speed_kmh": 160,
-		"weight_kg": 42000
+		"weight_kg": 42000,
+		"interior_light_level": 0.75
 	},
 	"passenger": {
 		"slots": 100,

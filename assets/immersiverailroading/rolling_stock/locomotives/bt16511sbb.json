@@ -5,19 +5,6 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/bt16511sbb/bt16511sbb.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Rear Left": "dlr",
-		"Rear": "r",
-		"Rear Right": "drr",
-		"Rear Panto Left": "dlrp",
-		"Rear Panto": "rp",
-		"Rear Panto Right": "drrp",
-		"Panto Left": "dlp",
-		"Panto": "p",
-		"Panto Right": "drp",
-		"Left": "dl"
-	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
@@ -25,7 +12,8 @@
 		"horsepower": 2682,
 		"tractive_effort_lbf": 44962,
 		"max_speed_kmh": 160,
-		"weight_kg": 63000
+		"weight_kg": 63000,
+		"interior_light_level": 0.75
 	},
 	"passenger": {
 		"slots": 80,
