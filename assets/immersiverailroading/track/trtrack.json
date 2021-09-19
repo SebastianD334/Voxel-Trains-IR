@@ -1,5 +1,6 @@
 {
   "name": "Transrapid Track",
+    "clack": false,
   "models": {
     ">0.2": "immersiverailroading:models/track/trtrack/trtrack.obj",
     ">0": "immersiverailroading:models/track/trtrack/trtrack.obj"

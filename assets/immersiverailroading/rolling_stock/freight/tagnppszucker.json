@@ -6,7 +6,7 @@
 	"model": "immersiverailroading:models/rolling_stock/freight/tagnppszucker/tagnppszucker.obj",
 	"darken_model": "0",
 	"passenger": {
-		"slots": 0,
+		"slots": 10,
 		"center_x": 0,
 		"center_y": 1.5,
 		"length": 10,
@@ -19,7 +19,8 @@
 		"slots": 27,
 		"width": 9,
 		"cargo": ["all"],
-		"show_current_load": true
+		"show_current_load": true,
+		"independent_brake": true
 	},
 	"trucks": {
 		"front": 7.5, 

@@ -1,6 +1,8 @@
 {
   "types" : [
 	"wood-track-16x",
+	"voxel-concrete-track",
+	
 	"voxel-default",
 	"voxel-railsonly",
 	"voxel-concrete",
