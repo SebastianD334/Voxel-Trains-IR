@@ -5,17 +5,6 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains, Has to be coupled with a locomotive to be able to drive!",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/icbt/icbt.obj",
-	"tex_variants": {
-		"Open Right Doors": "dr",
-		"Park Open Left Doors": "pdl",
-		"Park": "p",
-		"Park Open Right Doors": "pdr",
-		"Back Cover": "bc",
-		"Rear Open Left Doors": "rdl",
-		"Rear": "r",
-		"Rear Open Right Doors": "rdr",
-		"Open Left Doors": "dl"	
-	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 1000,
@@ -23,7 +12,9 @@
 		"horsepower": 1000,
 		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 200,
-		"weight_kg": 45000
+		"weight_kg": 45000,
+		"interior_light_level": 0.5,
+		"cab_car": true
 	},
 	"passenger": {
 		"slots": 64,
