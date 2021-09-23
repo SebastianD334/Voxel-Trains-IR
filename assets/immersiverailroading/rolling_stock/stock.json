@@ -1,7 +1,7 @@
 {
 	/*
 	Order:
-	DE, US, AU, CZ, PT, CH, NL, FR, DK, Misc
+	DE, US, AU, CZ, H, PT, CH, NL, FR, DK, Misc
 	loco, cab car, multiple unit, tram
 	if cab car and loco belong together put them together
 	otherwise, add the everything in the order of the numbers
@@ -42,6 +42,9 @@
 		//---------Czech Republic--------------------------------- 
 		"cd810_b", 
 		"cd810_r", 
+
+		//---------Hungary--------------------------------- 
+		"traxx2mav",
 		
 		//---------Portugal--------------------------------------- 
 		"cp0180",
@@ -52,6 +55,7 @@
 		
 		//---------Switzerland------------------------------------ 
 		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls", 
+		"traxx2sbbcargoac", "traxx2sbbcargoms",
 		"bt1501", 
 		"bt16511", 
 		"bt16511sbb", 
@@ -110,6 +114,8 @@
 		/*"siemensnexaswagon", */
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		"cp481",
@@ -124,7 +130,7 @@
 		"bdpzndw", "abdpzplus", 
 		"bhvz", "abhvz", 
 		"ewivas", "ewiva", "sbbwrm", "ewivb", "ewivasmod", "ewivamod", "ewivbmod", 
-		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano", 
+		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano",  
 		"ic2000ad", "ic2000a", "ic2000wrb", "ic2000b", 
 		"ic2020ad", "ic2020a", "ic2020wrb", "ic2020b",
 		"tram2000bogie", "tram20001rear", "tram20001bkrear", "tram20002rear", "tram20003middle", "tram20003rear", 
@@ -160,6 +166,8 @@
 		//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		"cp_ekklo_40s",
@@ -187,6 +195,8 @@
 		//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
@@ -215,6 +225,8 @@
     	//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
@@ -239,6 +251,8 @@
 		//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
