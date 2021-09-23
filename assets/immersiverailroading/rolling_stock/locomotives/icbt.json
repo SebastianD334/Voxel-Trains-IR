@@ -3,7 +3,7 @@
 	"name": "SBB IC-Bt",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
-	"pack": "Voxel Trains, Has to be coupled with a locomotive to be able to drive!",
+	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/icbt/icbt.obj",
 	"darken_model": "0",
 	"properties": {
