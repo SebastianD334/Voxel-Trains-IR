@@ -13,6 +13,7 @@
 		"tractive_effort_lbf": 44962,
 		"max_speed_kmh": 160,
 		"weight_kg": 63000,
+		"linear_brake_control": true,
 		"interior_light_level": 0.75
 	},
 	"passenger": {
