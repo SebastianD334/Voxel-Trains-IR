@@ -1,6 +1,6 @@
 {
 	"era": "diesel",
-	"name": "IC 2000 Bt",
+	"name": "IC2000 Bt",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
@@ -13,7 +13,7 @@
 		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 200,
 		"weight_kg": 47000,
-		"interior_light_level": 0.5,
+		"interior_light_level": 0.55,
 		"cab_car": true
 	},
 	"passenger": {
