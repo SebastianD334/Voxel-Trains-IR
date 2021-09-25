@@ -8,8 +8,7 @@
 	"properties": {
 		"max_speed_kmh": 200,
 		"weight_kg": 45000,
-		"interior_light_level": 0.55,
-		"cab_car": true
+		"interior_light_level": 0.55
 	},
 	"passenger": {
 		"slots": 126,
