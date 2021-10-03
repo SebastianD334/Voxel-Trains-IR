@@ -5,19 +5,11 @@
 	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/gtel_3rd_b/gtel_3rd_b.obj",
 	"darken_model": "0",
-	"tex_variants": {
-		"#1": "1",
-		"#6": "6",
-		"#7": "7",
-		"#8": "8",
-		"#17": "17",
-		"#30": "30"
-	},
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 2400,
-		"horsepower": 4000,
-		"tractive_effort_lbf": 57500,
+		"horsepower": 4250,
+		"tractive_effort_lbf": 106156,
 		"max_speed_kmh": 96,
 		"weight_kg": 100000
 	},
@@ -25,7 +17,7 @@
 		"slots": 2,
 		"center_x": 0,
 		"center_y": 1.875,
-		"length": 6.4,
+		"length": 9.2,
 		"width": 2.25
 	},
 	"trucks": {
