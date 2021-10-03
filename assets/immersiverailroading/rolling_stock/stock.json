@@ -1,7 +1,7 @@
 {
 	/*
 	Order:
-	DE, US, AU, CZ, PT, CH, NL, FR, DK, Misc
+	DE, US, AU, CZ, H, PT, CH, NL, FR, DK, Misc
 	loco, cab car, multiple unit, tram
 	if cab car and loco belong together put them together
 	otherwise, add the everything in the order of the numbers
@@ -24,6 +24,7 @@
 		"ngtcab", 
 		"b80dfront", "b80dback", 
 		"br481",
+		"traxx2hectorail",
 		
 		//---------USA-------------------------------------------- 
 		"acs",
@@ -40,6 +41,9 @@
 		//---------Czech Republic--------------------------------- 
 		"cd810_b", 
 		"cd810_r", 
+
+		//---------Hungary--------------------------------- 
+		"traxx2mav",
 		
 		//---------Portugal--------------------------------------- 
 		"cp0180",
@@ -50,8 +54,10 @@
 		
 		//---------Switzerland------------------------------------ 
 		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls", 
-		"rabe501bt1", 
+		"traxx2sbbcargoac", "traxx2sbbcargoms",
+		"bt1501", 
 		"bt16511", 
+		"bt16511sbb", 
 		"at1514", "bt4514", 
 		"re450", "btdpzplus", 
 		"re460", 
@@ -73,7 +79,7 @@
 		"virmmmbvk1-2", "virmmmbv7", 
 		"dd-irmmbvk1-2", 
 		"icmmmbfk", "icmmsbk", "icmmmb", 
-		"nstraxx2",
+		"traxx2ns",
 		"ns1700",
 		"ns700",
 		"ns600",
@@ -107,6 +113,8 @@
 		/*"siemensnexaswagon", */
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		"cp481",
@@ -114,13 +122,14 @@
 		"sorefameregional1", "sorefameregional2", 
 		
 		//---------Switzerland------------------------------------ 
-		"rabe501runningbogie", "rabe501b9", 
+		"wr6501", "b10501", "b11501", 
 		"ab2511", "b3511", "b4511", "ab5511", 
+		"ab2511sbb", "b3511sbb", "b4511sbb", "ab5511sbb", 
 		"b2514", "b3514", 
 		"bdpzndw", "abdpzplus", 
 		"bhvz", "abhvz", 
 		"ewivas", "ewiva", "sbbwrm", "ewivb", "ewivasmod", "ewivamod", "ewivbmod", 
-		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano", 
+		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano",  
 		"ic2000ad", "ic2000a", "ic2000wrb", "ic2000b", 
 		"ic2020ad", "ic2020a", "ic2020wrb", "ic2020b",
 		"tram2000bogie", "tram20001rear", "tram20001bkrear", "tram20002rear", "tram20003middle", "tram20003rear", 
@@ -156,9 +165,12 @@
 		//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
-		
+		"cp_ekklo_40s",
+
 		//---------Switzerland------------------------------------ 
 		"hbbillnss", 
 		"tagnppssbbcargo", "tagnppszucker",
@@ -182,6 +194,8 @@
 		//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
@@ -210,6 +224,8 @@
     	//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
@@ -234,6 +250,8 @@
 		//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
+
+		//---------Hungary--------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		

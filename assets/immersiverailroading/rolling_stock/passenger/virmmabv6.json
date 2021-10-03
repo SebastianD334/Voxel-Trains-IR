@@ -5,16 +5,16 @@
 	"model": "immersiverailroading:models/rolling_stock/passenger/virmmabv6/virmmabv6.obj",
 	"tex_variants": {
 		"Right Doors": "dropen",
-		"Left Doors": "dlopen",
+		"Both Pantographs Left Doors": "dlopenp",
 		"Both Pantographs": "p",
 		"Both Pantographs Right Doors": "dropenp",
-		"Both Pantographs Left Doors": "dlopenp",
+		"Front Pantograph Left Doors": "dlopenfp",
 		"Front Pantograph": "fp",
 		"Front Pantograph Right Doors": "dropenfp",
-		"Front Pantograph Left Doors": "dlopenfp",
+		"No Pantographs Left Doors": "dlopennp",
 		"No Pantographs": "np",
 		"No Pantographs Right Doors": "dropennp",
-		"No Pantographs Left Doors": "dlopennp"
+		"Left Doors": "dlopen"
 	},
 	"darken_model": "0",
 	"properties": {
