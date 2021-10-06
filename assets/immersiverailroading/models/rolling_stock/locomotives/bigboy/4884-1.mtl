@@ -1,5 +1,5 @@
 # Blender MTL File: '4884-1.blend'
-# Material Count: 11
+# Material Count: 7
 
 newmtl None
 Ns 323.999994
@@ -42,7 +42,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd invisiblepng
+map_Kd invisible.png
 
 newmtl leftnumber.001
 Ns 0.000000
@@ -65,50 +65,6 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd bigboy.png
-
-newmtl palette.002
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd bigboy.png
-
-newmtl palette.003
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd bigboy.png
-
-newmtl palette.004
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd bigboy.png
-
-newmtl rightnumber.001
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 1
-map_Kd bigboyletteringright.png
 
 newmtl smokedeflectors
 Ns 0.000000
