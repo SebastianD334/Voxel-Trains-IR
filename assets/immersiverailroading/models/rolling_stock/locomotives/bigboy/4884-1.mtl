@@ -1,5 +1,5 @@
 # Blender MTL File: '4884-1.blend'
-# Material Count: 7
+# Material Count: 8
 
 newmtl None
 Ns 323.999994
@@ -10,6 +10,17 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
+
+newmtl air
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd air.png
 
 newmtl door
 Ns 0.000000
