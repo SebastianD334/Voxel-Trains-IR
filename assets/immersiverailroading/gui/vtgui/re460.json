@@ -2,18 +2,18 @@
   "elements": [
     {
       "comment": "speedometer",
-      "x": -85,
-      "y": -85,
-      "image": "immersiverailroading:gui/gauges/basic_gauge.png",
+      "x": -210,
+      "y": -125,
+      "image": "immersiverailroading:gui/large_gauge/gauge.png",
       "elements": [
         {
           "comment": "speedometer pointer",
-          "x": 5,
-          "y": 39,
-          "image": "immersiverailroading:gui/gauges/pointer.png",
+          "x": 7.5,
+          "y": 58.5,
+          "image": "immersiverailroading:gui/large_gauge/pointer.png",
           "rotate": {
-            "x": 35,
-            "y": 1,
+            "x": 52.5,
+            "y": 1.5,
             "degrees": 270,
             "offset": -45
           },
@@ -21,9 +21,114 @@
         },
         {
           "comment": "marker 0",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": -45
+          }
+        },
+        {
+          "comment": "marker 50",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 22.5
+          }
+        },
+        {
+          "comment": "marker 100",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 90
+          }
+        },
+         {
+          "comment": "marker 150",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 157.5
+          }
+        },
+         {
+          "comment": "marker 200",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 225
+          }
+        },
+        {
+          "comment": "inner circle",
+          "x": 22.5,
+          "y": 22.5,
+          "image": "immersiverailroading:gui/large_gauge/inner_circle.png"
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "km/h",
+            "height": 9
+          },
+          "x": 60,
+          "y": 100
+        },
+        {
+          "comment": "speed readout",
+          "text": {
+            "value": "stat.speed",
+            "height": 6
+          },
+          "x": 60,
+          "y": 60
+        }
+      ]
+    },
+    {
+      "comment": "independent brake",
+      "x": -85,
+      "y": -170,
+      "image": "immersiverailroading:gui/small_gauge/gauge.png",
+      "elements": [
+        {
+          "comment": "pointer",
+          "x": 5,
+          "y": 39,
+          "image": "immersiverailroading:gui/small_gauge/pointer.png",
+          "rotate": {
+            "x": 35,
+            "y": 1,
+            "degrees": 270,
+            "offset": -45
+          },
+          "readout": "INDEPENDENT_BRAKE"
+        },
+        {
+          "comment": "marker 0",
           "x": 1,
           "y": 39.5,
-          "image": "immersiverailroading:gui/gauges/marker.png",
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
           "rotate": {
             "x": 39,
             "y": 0.5,
@@ -35,7 +140,7 @@
           "comment": "marker 50",
           "x": 1,
           "y": 39.5,
-          "image": "immersiverailroading:gui/gauges/marker.png",
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
           "rotate": {
             "x": 39,
             "y": 0.5,
@@ -47,7 +152,7 @@
           "comment": "marker 100",
           "x": 1,
           "y": 39.5,
-          "image": "immersiverailroading:gui/gauges/marker.png",
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
           "rotate": {
             "x": 39,
             "y": 0.5,
@@ -59,7 +164,7 @@
           "comment": "marker 150",
           "x": 1,
           "y": 39.5,
-          "image": "immersiverailroading:gui/gauges/marker.png",
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
           "rotate": {
             "x": 39,
             "y": 0.5,
@@ -71,7 +176,7 @@
           "comment": "marker 200",
           "x": 1,
           "y": 39.5,
-          "image": "immersiverailroading:gui/gauges/marker.png",
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
           "rotate": {
             "x": 39,
             "y": 0.5,
@@ -83,18 +188,126 @@
           "comment": "inner circle",
           "x": 15,
           "y": 15,
-          "image": "immersiverailroading:gui/gauges/inner_circle.png"
+          "image": "immersiverailroading:gui/small_gauge/inner_circle.png"
         },
         {
           "comment": "label",
-          "x": 25,
-          "y": 62,
-          "image": "immersiverailroading:gui/gauges/kmh.png"
+          "text": {
+            "value": "Ind Brake",
+            "height": 6
+          },
+          "x": 40,
+          "y": 67
         },
         {
-          "comment": "speed readout",
+          "comment": "independent brake readout",
           "text": {
-            "value": "stat.speed",
+            "value": "stat.independent_brake",
+            "height": 6
+          },
+          "x": 40,
+          "y": 40
+        }
+      ]
+    },
+    {
+      "comment": "train brake",
+      "x": -85,
+      "y": -85,
+      "image": "immersiverailroading:gui/small_gauge/gauge.png",
+      "elements": [
+        {
+          "comment": "pointer",
+          "x": 5,
+          "y": 39,
+          "image": "immersiverailroading:gui/small_gauge/pointer.png",
+          "rotate": {
+            "x": 35,
+            "y": 1,
+            "degrees": 270,
+            "offset": -45
+          },
+          "readout": "TRAIN_BRAKE"
+        },
+        {
+          "comment": "marker 0",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -45
+          }
+        },
+        {
+          "comment": "marker 50",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 22.5
+          }
+        },
+        {
+          "comment": "marker 100",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 90
+          }
+        },
+         {
+          "comment": "marker 150",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 157.5
+          }
+        },
+         {
+          "comment": "marker 200",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 225
+          }
+        },
+        {
+          "comment": "inner circle",
+          "x": 15,
+          "y": 15,
+          "image": "immersiverailroading:gui/small_gauge/inner_circle.png"
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Train Brake",
+            "height": 6
+          },
+          "x": 40,
+          "y": 67
+        },
+        {
+          "comment": "train brake readout",
+          "text": {
+            "value": "stat.train_brake",
             "height": 6
           },
           "x": 40,
