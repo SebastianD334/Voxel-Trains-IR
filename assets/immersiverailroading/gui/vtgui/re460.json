@@ -602,6 +602,57 @@
           "y": 30
         }
       ]
+    },
+    {
+      "comment": "diesel gauge",
+      "x": 5,
+      "y": -85,
+      "image": "immersiverailroading:gui/liquid_gauge/gauge.png",
+      "elements": [
+        {
+          "comment": "spice",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/liquid_gauge/spice.png"
+        },
+        {
+          "comment": "diesel",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/liquid_gauge/diesel.png",
+          "scale": {
+            "y": 1
+          },
+           "rotate": {
+            "x": 10,
+            "y": 40,
+            "degrees": 0.0001,
+            "offset": 180
+          },
+          "readout": "LIQUID"
+        },
+        {
+          "comment": "markers",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/liquid_gauge/markers.png"
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Diesel",
+            "height": 6
+          },
+          "x": 2.5,
+          "y": 66.5,
+          "rotate": {
+            "x": 0,
+            "y": 0,
+            "degrees": 90,
+            "offset": -90
+          }
+        }
+      ]
     }
   ]
 }
