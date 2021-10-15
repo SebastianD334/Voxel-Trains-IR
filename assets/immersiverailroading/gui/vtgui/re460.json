@@ -1,0 +1,46 @@
+{
+  "elements": [
+    {
+      "comment": "speedometer",
+      "x": -85,
+      "y": -85,
+      "image": "immersiverailroading:gui/gauges/basic_gauge.png",
+      "elements": [
+        {
+          "comment": "speedometer pointer",
+          "x": 10,
+          "y": 39,
+          "image": "immersiverailroading:gui/gauges/pointer.png",
+          "rotate": {
+            "x": 30,
+            "y": 1,
+            "degrees": 270,
+            "offset": -45
+          },
+          "readout": "SPEED"
+        },
+        {
+          "comment": "inner circle",
+          "x": 20,
+          "y": 20,
+          "image": "immersiverailroading:gui/gauges/inner_circle.png"
+        },
+        {
+          "comment": "label",
+          "x": 25,
+          "y": 62,
+          "image": "immersiverailroading:gui/gauges/kmh.png"
+        },
+        {
+          "comment": "speed readout",
+          "text": {
+            "value": "stat.speed",
+            "height": 4
+          },
+          "x": 40,
+          "y": 40
+        }
+      ]
+    }
+  ]
+}
