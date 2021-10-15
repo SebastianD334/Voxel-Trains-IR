@@ -8,11 +8,11 @@
       "elements": [
         {
           "comment": "speedometer pointer",
-          "x": 10,
+          "x": 5,
           "y": 39,
           "image": "immersiverailroading:gui/gauges/pointer.png",
           "rotate": {
-            "x": 30,
+            "x": 35,
             "y": 1,
             "degrees": 270,
             "offset": -45
@@ -20,9 +20,69 @@
           "readout": "SPEED"
         },
         {
+          "comment": "marker 0",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/gauges/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -45
+          }
+        },
+        {
+          "comment": "marker 50",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/gauges/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 22.5
+          }
+        },
+        {
+          "comment": "marker 100",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/gauges/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 90
+          }
+        },
+         {
+          "comment": "marker 150",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/gauges/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 157.5
+          }
+        },
+         {
+          "comment": "marker 200",
+          "x": 1,
+          "y": 39.5,
+          "image": "immersiverailroading:gui/gauges/marker.png",
+          "rotate": {
+            "x": 39,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 225
+          }
+        },
+        {
           "comment": "inner circle",
-          "x": 20,
-          "y": 20,
+          "x": 15,
+          "y": 15,
           "image": "immersiverailroading:gui/gauges/inner_circle.png"
         },
         {
@@ -35,7 +95,7 @@
           "comment": "speed readout",
           "text": {
             "value": "stat.speed",
-            "height": 4
+            "height": 6
           },
           "x": 40,
           "y": 40
