@@ -2,7 +2,7 @@
   "elements": [
     {
       "comment": "speedometer",
-      "x": -210,
+      "x": -215,
       "y": -125,
       "image": "immersiverailroading:gui/large_gauge/gauge.png",
       "elements": [
@@ -600,6 +600,73 @@
           },
           "x": 30,
           "y": 30
+        }
+      ]
+    },
+    {
+      "comment": "force gauge",
+      "image": "immersiverailroading:gui/force_gauge/gauge.png",
+      "x": -90,
+      "y": -85,
+      "elements": [
+        {
+          "comment": "markers",
+          "image": "immersiverailroading:gui/force_gauge/markers.png",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 38.5,
+          "translate": {
+            "x": 0,
+            "y": -38.5
+          },
+          "readout": "THROTTLE",
+          "elements": [
+            {
+              "translate": {
+                "x": 0,
+                "y": 19.5
+              },
+              "readout": "TRAIN_BRAKE",
+              "elements": [
+                {
+                  "image": "immersiverailroading:gui/force_gauge/pointer.png",
+                  "translate": {
+                    "x": 0,
+                    "y": 19
+                  },
+                  "readout": "INDEPENDENT_BRAKE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "comment": "spice",
+          "image": "immersiverailroading:gui/force_gauge/spice.png"
+        }
+      ]
+    },
+    {
+      "comment": "reverser",
+      "image": "immersiverailroading:gui/reverser/background.png",
+      "x": -90,
+      "y": -120,
+      "elements": [
+        {
+          "comment": "forward",
+          "x": 0,
+          "y": 0,
+          "hide": true,
+          "control": "REVERSERFORWARD"
+        },
+        {
+          "comment": "spice",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/reverser/spice.png"
         }
       ]
     },
