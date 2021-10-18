@@ -21,8 +21,8 @@
 		"rear": -1.1875
 	},
 	"couplers": {
-		"front_offset": -1.8125,
-		"rear_offset": -1.8125
+		"front_offset": -1.875,
+		"rear_offset": -1.875
 	},
 	"sounds": {
 	}

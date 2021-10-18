@@ -5,13 +5,6 @@
 	"pack": "Voxel Trains",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/sltmabk/sltmabk.obj",
-	"tex_variants": {
-		"Open Doors Left": "dlopen",
-		"Open Doors Right": "dropen",
-		"Lights Reverse": "lr",
-		"Lights Reverse Open Doors Left": "lrdlopen",
-		"Lights Reverse Open Doors Right": "lrdropen"
-	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
@@ -19,7 +12,8 @@
 		"horsepower": 670,
 		"tractive_effort_lbf": 26977,
 		"max_speed_kmh": 160,
-		"weight_kg": 41000
+		"weight_kg": 41000,
+		"linear_brake_control": true
 	},
 	"passenger": {
 		"slots": 52,
