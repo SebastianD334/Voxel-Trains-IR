@@ -84,7 +84,7 @@
 		"ns1700",
 		"ns700",
 		"ns600",
-		
+
 		//---------France----------------------------------------- 
 		"bb8500beton", "bb8500verte", "bb8500fret", 
 		"x2200rouge", "x2200bleu", "x2200jaune", 
@@ -93,7 +93,7 @@
 		"traktor", 
 		
 		//---------Miscellaneous---------------------------------- 
-		"buffer", "bufferzh"
+		"buffer", "bufferzh", "bufferns"
 	],
 
 	"passenger": [
