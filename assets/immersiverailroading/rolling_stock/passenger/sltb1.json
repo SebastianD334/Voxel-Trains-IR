@@ -3,19 +3,6 @@
 	"works": "Bombardier Siemens",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/sltb1/sltb1.obj",
-	"tex_variants": {
-		"Right Doors": "dropen",
-		"Left Doors": "dlopen",
-		"Both Pantographs": "p",
-		"Both Pantographs Right Doors": "dropenp",
-		"Both Pantographs Left Doors": "dlopenp",
-		"Front Pantograph": "fp",
-		"Front Pantograph Right Doors": "dropenfp",
-		"Front Pantograph Left Doors": "dlopenfp",
-		"No Pantographs": "np",
-		"No Pantographs Right Doors": "dropennp",
-		"No Pantographs Left Doors": "dlopennp"
-	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 160,
