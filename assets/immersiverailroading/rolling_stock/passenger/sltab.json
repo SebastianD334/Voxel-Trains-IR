@@ -3,10 +3,6 @@
 	"works": "Bombardier Siemens",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/sltab/sltab.obj",
-	"tex_variants": {
-		"Right Doors": "dropen",
-		"Left Doors": "dlopen"
-	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 160,
