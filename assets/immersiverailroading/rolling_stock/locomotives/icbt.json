@@ -7,13 +7,14 @@
 	"model": "immersiverailroading:models/rolling_stock/locomotives/icbt/icbt.obj",
 	"darken_model": "0",
 	"properties": {
-		"fuel_efficiency_%": 1000,
-		"fuel_capacity_l": 1000,
-		"horsepower": 1000,
+		"fuel_efficiency_%": 100,
+		"fuel_capacity_l": 0,
+		"horsepower": 0,
 		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 200,
 		"weight_kg": 45000,
-		"interior_light_level": 0.5,
+		"linear_brake_control": true,
+		"interior_light_level": 0.6,
 		"cab_car": true
 	},
 	"passenger": {
@@ -34,5 +35,6 @@
 	"sounds": {
 		"horn": "sounds/re460horn.ogg",
 		"idle": "sounds/stille.ogg"
-	}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re460.json"
 }

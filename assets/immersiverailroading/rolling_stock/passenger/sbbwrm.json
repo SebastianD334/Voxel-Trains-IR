@@ -4,15 +4,11 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/sbbwrm/sbbwrm.obj",
-	"tex_variants": {
-		"Front": "fc",
-		"Both": "fbc",
-		"Back": "bc"
-	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
-		"weight_kg": 35000
+		"weight_kg": 35000,
+		"interior_light_level": 0.45
 	},
 	"passenger": {
 		"slots": 56,

@@ -1,28 +1,14 @@
 {
-	"name": "EW IV AS",
+	"name": "SBB EW-IV AS",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ewivas/ewivas.obj",
-	"tex_variants": {
-		"Front Right Door": "fdr",
-		"Right Doors": "fbdr",
-		"Back Right Doors": "bdr",
-		"Front Catwalk Back Left Door": "fcbdl",
-		"Front Catwalk Left Doors": "fcfbdl",
-		"Front Catwalk Front Left Door": "fcfdl",
-		"Front Catwalk": "fc",
-		"Front Catwalk Front Right Door": "fcfdr",
-		"Front Catwalk Right Doors": "fcfbdr",
-		"Front Catwalk Back Right Door": "fcbdr",
-		"Back Left Door": "bdl",
-		"Left Doors": "fbdl",
-		"Front Left Door": "fdl"
-	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
-		"weight_kg": 35000
+		"weight_kg": 35000,
+		"interior_light_level": 0.6
 	},
 	"passenger": {
 		"slots": 48,
