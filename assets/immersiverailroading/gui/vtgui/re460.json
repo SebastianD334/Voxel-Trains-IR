@@ -660,13 +660,51 @@
           "x": 0,
           "y": 0,
           "hide": true,
-          "control": "REVERSERFORWARD"
+          "control": "REVERSERFORWARD",
+          "image": "immersiverailroading:gui/reverser/reverserforward.png"
         },
         {
-          "comment": "spice",
+          "comment": "not forward",
           "x": 0,
           "y": 0,
-          "image": "immersiverailroading:gui/reverser/spice.png"
+          "hide": true,
+          "invert": true,
+          "control": "REVERSERFORWARD",
+          "image": "immersiverailroading:gui/reverser/reverserforward_off.png"
+        },
+        {
+          "comment": "neutral",
+          "x": 0,
+          "y": 12,
+          "hide": true,
+          "control": "REVERSERNEUTRAL",
+          "image": "immersiverailroading:gui/reverser/reverserneutral.png"
+        },
+        {
+          "comment": "not neutral",
+          "x": 0,
+          "y":12,
+          "hide": true,
+          "invert": true,
+          "control": "REVERSERNEUTRAL",
+          "image": "immersiverailroading:gui/reverser/reverserneutral_off.png"
+        },
+        {
+          "comment": "backward",
+          "x": 0,
+          "y": 18,
+          "hide": true,
+          "control": "REVERSERBACKWARD",
+          "image": "immersiverailroading:gui/reverser/reverserbackward.png"
+        },
+        {
+          "comment": "not backward",
+          "x": 0,
+          "y":18,
+          "hide": true,
+          "invert": true,
+          "control": "REVERSERBACKWARD",
+          "image": "immersiverailroading:gui/reverser/reverserbackward_off.png"
         }
       ]
     },
