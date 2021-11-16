@@ -34,5 +34,13 @@
 	},
 	"sounds": {
 		"horn": "sounds/re460horn.ogg"
+	},
+	"lights": {
+		"HEADLIGHT_1:": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2:": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
 	}
 }
