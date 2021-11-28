@@ -5,19 +5,15 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re450/re450.obj",
-	"tex_variants": {
-		"No Pantograph": "np",
-		"No Pantograph Reversed": "rnp",
-		"Reversed": "r"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 95,
 		"fuel_capacity_l": 4000,
 		"horsepower": 4291,
 		"tractive_effort_lbf": 53954,
 		"max_speed_kmh": 130,
-		"weight_kg": 74000
+		"weight_kg": 74000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.6
 	},
 	"passenger": {
 		"slots": 2,
