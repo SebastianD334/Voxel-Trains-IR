@@ -1,26 +1,14 @@
 {
-	"name": "AB HVZ",
-	"works": "SLM",
+	"name": "SBB AB HVZ",
+	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/abhvz/abhvz.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Front Left": "fcdl",
-		"Front": "fc",
-		"Front Right": "fcdr",
-		"Both Left": "fbcdl",
-		"Both": "fbc",
-		"Both Right": "fbcdr",
-		"Back Left": "bcdl",
-		"Back": "bc",
-		"Back Right": "bcdr",
-		"Left": "dl"
-	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 130,
-		"weight_kg": 48000
+		"weight_kg": 48000,
+		"interior_light_level": 0.6
 	},
 	"passenger": {
 		"slots": 114,
