@@ -1,20 +1,14 @@
 {
-	"name": "IC 2020 B",
+	"name": "SBB IC 2020 B",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ic2020b/ic2020b.obj",
-	"tex_variants": {
-		"Open Right Doors": "dr",
-		"Front Cover": "fc",
-		"Both Covers": "fbc",
-		"Back Cover": "bc",
-		"Open Left Doors": "dl"
-	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
-		"weight_kg": 35000
+		"weight_kg": 45000,
+		"interior_light_level": 0.6
 	},
 	"passenger": {
 		"slots": 126,
