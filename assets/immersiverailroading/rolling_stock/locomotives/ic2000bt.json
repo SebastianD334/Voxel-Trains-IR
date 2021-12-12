@@ -1,11 +1,10 @@
 {
 	"era": "diesel",
-	"name": "IC2000 Bt",
+	"name": "SBB IC2000 Bt",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/ic2000bt/ic2000bt.obj",
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 1000,
 		"fuel_capacity_l": 1000,

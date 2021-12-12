@@ -4,11 +4,6 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ab5511sbb/ab5511sbb.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Left": "dl"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 102,
 		"max_speed_kmh": 160,
