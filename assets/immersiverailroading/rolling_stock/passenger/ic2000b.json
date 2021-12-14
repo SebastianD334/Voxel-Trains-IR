@@ -4,7 +4,6 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ic2000b/ic2000b.obj",
-	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
 		"weight_kg": 45000,
