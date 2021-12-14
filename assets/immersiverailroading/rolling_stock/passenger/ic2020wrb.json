@@ -1,24 +1,13 @@
 {
-	"name": "IC 2020 WRB",
+	"name": "SBB IC 2020 WRB",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ic2020wrb/ic2020wrb.obj",
-	"tex_variants": {
-		"Open Back Right Door": "bdr", 
-		"Open Right Doors": "dr",
-		"Open Front Right Door": "fdr",
-		"Front Cover": "fc",
-		"Both Covers": "fbc",
-		"Back Cover": "bc",
-		"Open Front Left Door": "fdl",
-		"Open Left Doors": "dl",
-		"Open Back Left Door": "bdl"
-	},
-	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
-		"weight_kg": 35000
+		"weight_kg": 47000,
+		"interior_light_level": 0.6
 	},
 	"passenger": {
 		"slots": 63,
