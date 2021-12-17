@@ -18,7 +18,7 @@
 	"passenger": {
 		"slots": 80,
 		"center_x": -0.5,
-		"center_y": 1.625,
+		"center_y": 1.5,
 		"length": 11.75,
 		"width": 2
 	},
@@ -34,5 +34,14 @@
 		"horn": "sounds/swisshorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re420.json"
 }

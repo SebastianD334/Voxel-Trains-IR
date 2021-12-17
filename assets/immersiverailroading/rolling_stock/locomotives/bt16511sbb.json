@@ -18,7 +18,7 @@
 	"passenger": {
 		"slots": 80,
 		"center_x": -0.5,
-		"center_y": 1.625,
+		"center_y": 1.5,
 		"length": 11.75,
 		"width": 2
 	},
