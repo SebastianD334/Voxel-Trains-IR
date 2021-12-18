@@ -16,7 +16,7 @@
 		"interior_light_level": 0.6
 	},
 	"passenger": {
-		"slots": 2,
+		"slots": 4,
 		"center_x": -0.75,
 		"center_y": 1.6625,
 		"length": 9,
@@ -34,5 +34,12 @@
 		"horn": "sounds/swisshorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
 }
