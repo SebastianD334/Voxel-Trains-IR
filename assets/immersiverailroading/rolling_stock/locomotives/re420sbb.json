@@ -1,26 +1,22 @@
 {
 	"era": "diesel",
-	"name": "Re 420 SBB",
-	"works": "SLM",
+	"name": "SBB Re 420 SBB",
+	"works": "SLM, BBC, MFO, SAAS",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re420sbb/re420sbb.obj",
-	"tex_variants": {
-			"Both Pantographs": "fbp",
-			"Back Pantograph": "bp",
-			"No Pantograph": "np"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 95,
 		"fuel_capacity_l": 4000,
 		"horsepower": 6300,
 		"tractive_effort_lbf": 57326,
 		"max_speed_kmh": 140,
-		"weight_kg": 84000
+		"weight_kg": 84000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.5
 	},
 	"passenger": {
-		"slots": 2,
+		"slots": 4,
 		"center_x": 0,
 		"center_y": 1.6,
 		"length": 6.4,
@@ -38,5 +34,20 @@
 		"horn": "sounds/swisshorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_3": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_4": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re420.json"
 }
