@@ -39,17 +39,17 @@
 		"rear_offset": 0	
 	},
 	"sounds": {
-		"whistle": "sounds/0186/whistle0186b.ogg",
-		"idle": "sounds/0186/steam0186b.ogg",
-		"pressure": "sounds/0186/pressure0186.ogg",
-		"chuff": "sounds/0186/chuff0186d.ogg",
+		"whistle": "sounds/cp0186/whistle0186b.ogg",
+		"idle": "sounds/cp0186/steam0186b.ogg",
+		"pressure": "sounds/cp0186/pressure0186.ogg",
+		"chuff": "sounds/cp0186/chuff0186d.ogg",
 		"quilling": [
 			{
 				"pull_start": 0.15,
 				"pull_end": 0.75,
 				"pitch_start": 0.7,
 				"pitch_end": 1.0,
-				"sample": "sounds/0186/whistle0186c.ogg"
+				"sample": "sounds/cp0186/whistle0186c.ogg"
 			}
 		]
 	}
