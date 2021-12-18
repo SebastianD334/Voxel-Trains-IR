@@ -3,14 +3,11 @@
 	"works": "Bombardier",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/virmmabv5/virmmabv5.obj",
-	"tex_variants": {
-		"Open Doors Left": "dlopen",
-		"Open Doors Right": "dropen"
-	},
 	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 160,
-		"weight_kg": 51000
+		"weight_kg": 51000,
+		"interior_light_level": 0.55
 	},
 	"passenger": {
 		"slots": 99,
