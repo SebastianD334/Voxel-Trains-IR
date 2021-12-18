@@ -4,15 +4,11 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ab5511/ab5511.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Left": "dl"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 102,
 		"max_speed_kmh": 160,
-		"weight_kg": 41000
+		"weight_kg": 41000,
+		"interior_light_level": 0.75
 	},
 	"passenger": {
 		"slots": 100,

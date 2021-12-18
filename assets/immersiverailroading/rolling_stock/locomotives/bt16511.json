@@ -5,32 +5,20 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/bt16511/bt16511.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Rear Left": "dlr",
-		"Rear": "r",
-		"Rear Right": "drr",
-		"Rear Panto Left": "dlrp",
-		"Rear Panto": "rp",
-		"Rear Panto Right": "drrp",
-		"Panto Left": "dlp",
-		"Panto": "p",
-		"Panto Right": "drp",
-		"Left": "dl"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 4000,
 		"horsepower": 2682,
 		"tractive_effort_lbf": 44962,
 		"max_speed_kmh": 160,
-		"weight_kg": 63000
+		"weight_kg": 63000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.75
 	},
 	"passenger": {
 		"slots": 80,
 		"center_x": -0.5,
-		"center_y": 1.625,
+		"center_y": 1.5,
 		"length": 11.75,
 		"width": 2
 	},
@@ -46,5 +34,14 @@
 		"horn": "sounds/swisshorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re420.json"
 }

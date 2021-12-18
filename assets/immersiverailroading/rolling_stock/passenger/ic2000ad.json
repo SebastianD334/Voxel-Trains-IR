@@ -1,10 +1,9 @@
 {
-	"name": "IC2000 AD",
+	"name": "SBB IC2000 AD",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/ic2000ad/ic2000ad.obj",
-	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
 		"weight_kg": 44000,

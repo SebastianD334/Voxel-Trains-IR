@@ -710,15 +710,15 @@
     },
     {
       "comment": "diesel gauge",
-      "x": 5,
+      "x": 30,
       "y": -85,
       "image": "immersiverailroading:gui/liquid_gauge/gauge.png",
       "elements": [
         {
-          "comment": "spice",
+          "comment": "markers",
           "x": 0,
           "y": 0,
-          "image": "immersiverailroading:gui/liquid_gauge/spice.png"
+          "image": "immersiverailroading:gui/liquid_gauge/markers.png"
         },
         {
           "comment": "diesel",
@@ -737,10 +737,10 @@
           "readout": "LIQUID"
         },
         {
-          "comment": "markers",
+          "comment": "spice",
           "x": 0,
           "y": 0,
-          "image": "immersiverailroading:gui/liquid_gauge/markers.png"
+          "image": "immersiverailroading:gui/liquid_gauge/spice.png"
         },
         {
           "comment": "label",
@@ -756,6 +756,162 @@
             "degrees": 90,
             "offset": -90
           }
+        }
+      ]
+    },
+    {
+      "comment": "buttons",
+      "x": 5,
+      "y": -5,
+      "elements": [
+        {
+          "comment": "high beam 1 button",
+          "x": 0,
+          "y": -20,
+          "image": "immersiverailroading:gui/buttons/button.png",
+           "elements": [
+            {
+              "comment": "1",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_1.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "hb1",
+              "image": "immersiverailroading:gui/buttons/high_beam_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "hb1",
+              "image": "immersiverailroading:gui/buttons/high_beam_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "high beam 2 button",
+          "x": 0,
+          "y": -45,
+          "image": "immersiverailroading:gui/buttons/button.png",
+           "elements": [
+            {
+              "comment": "2",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_2.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "hb2",
+              "image": "immersiverailroading:gui/buttons/high_beam_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "hb2",
+              "image": "immersiverailroading:gui/buttons/high_beam_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "cab 1 light button",
+          "x": 0,
+          "y": -70,
+          "image": "immersiverailroading:gui/buttons/button.png",
+          "elements": [
+            {
+              "comment": "1",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_1.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "cab1",
+              "image": "immersiverailroading:gui/buttons/cab_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "cab1",
+              "image": "immersiverailroading:gui/buttons/cab_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "cab 2 light button",
+          "x": 0,
+          "y": -95,
+          "image": "immersiverailroading:gui/buttons/button.png",
+          "elements": [
+            {
+              "comment": "2",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_2.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "cab2",
+              "image": "immersiverailroading:gui/buttons/cab_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "cab2",
+              "image": "immersiverailroading:gui/buttons/cab_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "machine room light button",
+          "x": 0,
+          "y": -120,
+          "image": "immersiverailroading:gui/buttons/button.png",
+          "elements": [
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "machine",
+              "image": "immersiverailroading:gui/buttons/machine_room_lights_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "machine",
+              "image": "immersiverailroading:gui/buttons/machine_room_lights_off.png"
+            }
+          ]
         }
       ]
     }

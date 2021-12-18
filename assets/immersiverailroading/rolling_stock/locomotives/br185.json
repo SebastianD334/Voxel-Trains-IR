@@ -2,12 +2,9 @@
 	"era": "diesel",
 	"name": "BR185",
 	"works": "Bombardier",
-	"modeler": "SlenderMC",
+	"modeler": "Foxy, SlenderMC",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/br185/br185.obj",
-	"tex_variants": {
-		
-	},
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 95,
@@ -15,7 +12,8 @@
 		"horsepower": 7500,
 		"tractive_effort_lbf": 67000,
 		"max_speed_kmh": 160,
-		"weight_kg": 84000
+		"weight_kg": 84000,
+		"linear_brake_control": true
 	},
 	"passenger": {
 		"slots": 4,
@@ -33,7 +31,7 @@
 		"rear_offset": 0
 	},
 	"sounds": {
-		"horn": "sounds/sound/horn.ogg",
+		"horn": "sounds/vosslohg400bhorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	}

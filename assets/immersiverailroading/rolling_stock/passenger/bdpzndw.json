@@ -1,17 +1,13 @@
 {
-	"name": "B DPZ NDW",
+	"name": "SBB B DPZ NDW",
 	"works": "Siemens, Bombardier",
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/passenger/bdpzndw/bdpzndw.obj",
-	"darken_model": "0",
-	"tex_variants": {
-		"Right": "dr",
-		"Left": "dl"
-	},
 	"properties": {
 		"max_speed_kmh": 130,
-		"weight_kg": 51000
+		"weight_kg": 51000,
+		"interior_light_level": 0.7
 	},
 	"passenger": {
 		"slots": 98,

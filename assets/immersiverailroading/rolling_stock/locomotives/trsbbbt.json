@@ -5,18 +5,15 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbbbt/trsbbbt.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Left": "dl"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 99,
 		"fuel_capacity_l": 4000,
 		"horsepower": 2000,
 		"tractive_effort_lbf": 112405,
 		"max_speed_kmh": 450,
-		"weight_kg": 30000
+		"weight_kg": 30000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.7
 	},
 	"passenger": {
 		"slots": 87,
@@ -31,7 +28,7 @@
 	},
 	"couplers": {
 		"front_offset": 0,
-		"rear_offset": -0.03125
+		"rear_offset": -0.09375
 	},
 	"sounds": {
 		"horn": "sounds/swisshorn.ogg",

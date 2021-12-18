@@ -1,25 +1,20 @@
 {
 	"era": "diesel",
-	"name": "Bt DPZplus",
-	"pack": "Voxel Trains, Has to be coupled with a locomotive to be able to drive!",
+	"name": "SBB Bt DPZplus",
+	"pack": "Voxel Trains",
 	"works": "Schindler Waggon",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/btdpzplus/btdpzplus.obj",
-	"darken_model": "0",
-"tex_variants": {
-		"Open Right Doors": "dr",
-		"Rear Open Left Doors": "rdl",
-		"Rear": "r",
-		"Rear Open Right Doors": "rdr",
-		"Open Left Doors": "dl"
-	},
 	"properties": {
 		"fuel_efficiency_%": 0,
 		"fuel_capacity_l": 0,
 		"horsepower": 0,
 		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 130,
-		"weight_kg": 49000
+		"weight_kg": 49000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.6,
+		"cab_car": true
 	},
 	"passenger": {
 		"slots": 134,
