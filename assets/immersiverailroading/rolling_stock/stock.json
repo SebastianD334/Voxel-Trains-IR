@@ -94,7 +94,7 @@
 		"traktor", 
 		
 		//---------Miscellaneous---------------------------------- 
-		"buffer", "bufferzh", "bufferns"
+		"buffer", "bufferzh", "bufferns", "buffer_ip_metal"
 	],
 
 	"passenger": [
