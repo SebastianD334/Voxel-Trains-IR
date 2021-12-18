@@ -1,25 +1,17 @@
 {
-	"name": "CP ACDt 481",
-	"works": "Oficinas Gerais",
+	"name": "CP ACDt 481 (1st+3rd)",
+	"works": "Companhia Nicaise & Delcuve and EMEF",
 	"modeler": "Joao Da Fonseca",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/cp481/cp_481.obj",
 	"darken_model": "0",
 	"tex_variants": {
-		"HERITAGE End Car FRONT": "hf",
-		"HERITAGE End Car REAR": "hr",
-		"NORMAL Not End Car": "nn",
-		"NORMAL End Car FRONT": "nf",
-		"NORMAL End Car REAR": "nr",
-		"DIRTY Not End Car": "dn",
-		"DIRTY End Car FRONT": "df",
-		"DIRTY End Car REAR": "dr",
-		"OLD Not End Car": "on",
-		"OLD End Car FRONT": "of",
-		"OLD End Car REAR": "or"		
+		"NORMAL ": "normal",
+		"DIRTY": "dirty",
+		"OLD": "old"	
 	},
 	"properties": {
-		"max_speed_kmh": 100,
+		"max_speed_kmh": 80,
 		"weight_kg": 16000
 	},
 	"passenger": {
@@ -36,5 +28,9 @@
 	"couplers": {
 		"front_offset": -0,
 		"rear_offset": -0
+	},
+	"sounds": {
+		"wheels": "sounds/cp/rolling_wood_track.ogg"
 	}
 }
+	
