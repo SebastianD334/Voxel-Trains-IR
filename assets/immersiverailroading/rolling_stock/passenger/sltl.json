@@ -7,7 +7,8 @@
 	"model": "immersiverailroading:models/rolling_stock/passenger/sltl/sltl.obj",
 	"darken_model": "0",
 	"properties": {
-		"weight_kg": 2000
+		"weight_kg": 2000,
+		"interior_light_level": 0.5
 	},
 	"passenger": {
 		"slots": 2,
