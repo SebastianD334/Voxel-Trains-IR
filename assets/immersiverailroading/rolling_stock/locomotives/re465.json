@@ -6,35 +6,21 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re465/re465.obj",
 	"tex_variants": {
-			"Front Pantograph": "fp",
-			"No Pantograph": "np",
-			"Front Pantograph Reversed": "rfp",
-			"Back Pantograph Reversed": "rbp",
-			"Both Pantographs": "fbp",
 			"New Blue": "bn",
-			"New Blue Front Pantograph": "fpbn",
-			"New Blue No Pantograph": "npbn",
-			"New Blue Front Pantograph Reversed": "rfpbn",
-			"New Blue Back Pantograph Reversed": "rbpbn",
-			"New Blue Both Pantographs": "fbpbn",
-			"Old Blue": "bo",
-			"Old Blue Front Pantograph": "fpbo",
-			"Old Blue No Pantograph": "npbo",
-			"Old Blue Front Pantograph Reversed": "rfpbo",
-			"Old Blue Back Pantograph Reversed": "rbpbo",
-			"Old Blue Both Pantographs": "fbpbo"
+			"Old Blue": "bo"
 	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 95,
 		"fuel_capacity_l": 4000,
 		"horsepower": 9380,
 		"tractive_effort_lbf": 67443,
 		"max_speed_kmh": 230,
-		"weight_kg": 84000
+		"weight_kg": 84000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.6
 	},
 	"passenger": {
-		"slots": 2,
+		"slots": 4,
 		"center_x": 0,
 		"center_y": 1.6,
 		"length": 7.625,
@@ -52,5 +38,20 @@
 		"horn": "sounds/swisshorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_3": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_4": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re460.json"
 }
