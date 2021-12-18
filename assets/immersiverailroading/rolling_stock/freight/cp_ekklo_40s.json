@@ -8,32 +8,14 @@
 		"weight_kg": 10000
 	},
 	"tex_variants": {
-		"COAL Rear End normal": "ncr",
-		"COAL Front End normal": "ncf",
-		"COAL No End clean": "ccn",
-		"COAL Rear End clean": "ccr",
-		"COAL Front End clean": "ccf",
-		"COAL No End dirty": "dcn",
-		"COAL Rear End dirty": "dcr",
-		"COAL Front End dirty": "dcf",
-		"IRON No End clean": "cin",
-		"IRON Rear End clean": "cir",
-		"IRON Front End clean": "cif",
-		"IRON No End normal": "nin",
-		"IRON Rear End normal": "nir",
-		"IRON Front End normal": "nif",
-		"IRON No End dirty": "din",
-		"IRON Rear End dirty": "dir",
-		"IRON Front End dirty": "dif",
-		"STONE No End clean": "csn",
-		"STONE Rear End clean": "csr",
-		"STONE Front End clean": "csf",
-		"STONE No End normal": "nsn",
-		"STONE Rear End normal": "nsr",
-		"STONE Front End normal": "nsf",
-		"STONE No End dirty": "dsn",
-		"STONE Rear End dirty": "dsr",
-		"STONE Front End dirty": "dsf"
+		"COAL Clean": "cc",
+		"COAL Dirty": "cd",
+		"IRON Clean": "ic",
+		"IRON Normal": "in",
+		"IRON Dirty": "id",
+		"STONE Clean": "sc",
+		"STONE Normal": "sn",
+		"STONE Dirty": "sd"
 	},
 	"passenger": {
 		"slots": 0,
@@ -54,5 +36,8 @@
 	"couplers": {
 		"front_offset": 0,
 		"rear_offset": 0
+	},
+	"sounds": {
+		"wheels": "sounds/cp/rolling_wood_track.ogg"
 	}
 }
