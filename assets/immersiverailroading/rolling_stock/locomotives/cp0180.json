@@ -5,28 +5,29 @@
 	"modeler": "JoaoDaFonseca",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/cp0180/cp0180.obj",
 	"tex_variants": {
-		"Coal Trans": "coal_trans",
-		"Oil Trans": "oil_trans"
+		"Black": "black",
+		"Coal": "coal",
+		"Oil": "oil"
 	},
 	"properties": {
-		"max_psi": 300,
-		"water_capacity_l": 91000, 
-		"horsepower": 6290,
+		"max_psi": 170,
+		"water_capacity_l": 14000, 
+		"horsepower": 900,
 		"tractive_effort_lbf": 24000,
-		"max_speed_kmh": 85,
+		"max_speed_kmh": 95,
 		"valve_gear": "walschaerts",
 		"weight_kg": 98000
 	},
 	"firebox": {
-		"slots": 36,
-		"width": 9
+		"slots": 9,
+		"width": 3
 	},
 	"passenger": {
 		"slots": 2,
-		"center_x": -4.4,
+		"center_x": -4.3,
 		"center_y": 1.8,
-		"length": 1,
-		"width": 2.6,
+		"length": 0.8,
+		"width": 2.4,
 		"should_sit": false
 	},
 	"trucks": {
@@ -38,17 +39,17 @@
 		"rear_offset": 0	
 	},
 	"sounds": {
-		"whistle": "sounds/bigboy/whistle.ogg",
-		"idle": "sounds/bigboy/idle.ogg",
-		"pressure": "sounds/bigboy/pressure.ogg",
-		"chuff": "sounds/bigboy/chuff.ogg",
+		"whistle": "sounds/0186/whistle0186b.ogg",
+		"idle": "sounds/0186/steam0186b.ogg",
+		"pressure": "sounds/0186/pressure0186.ogg",
+		"chuff": "sounds/0186/chuff0186d.ogg",
 		"quilling": [
 			{
-				"pull_start": 0.25,
-				"pull_end": 0.55,
+				"pull_start": 0.15,
+				"pull_end": 0.75,
 				"pitch_start": 0.7,
 				"pitch_end": 1.0,
-				"sample": "sounds/bigboy/bbquilling.ogg"
+				"sample": "sounds/0186/whistle0186c.ogg"
 			}
 		]
 	}
