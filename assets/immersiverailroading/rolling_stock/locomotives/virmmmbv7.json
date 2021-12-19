@@ -35,7 +35,7 @@
 	"sounds": {
 		"horn": "sounds/nsvirmhorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
-		"track_wheels": "sounds/sound/drive.ogg",
+		"track_wheels": "sounds/sound/drive.ogg"
+	},
 	 "overlay": "immersiverailroading:gui/vtgui/nothing.json"
-	}
 }
