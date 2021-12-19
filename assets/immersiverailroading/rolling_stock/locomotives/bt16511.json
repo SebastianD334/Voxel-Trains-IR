@@ -43,5 +43,5 @@
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/re420.json"
+	 "overlay": "immersiverailroading:gui/vtgui/kiss.json"
 }
