@@ -1,18 +1,14 @@
 {
-	"name": "RABe 514 B 3",
+	"name": "ZVV RABe 514 B 3",
 	"works": "Siemens, Stadler",
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/passenger/b3514/b3514.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Left": "dl"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"max_speed_kmh": 140,
-		"weight_kg": 56250
+		"weight_kg": 56250,
+		"interior_light_level": 0.7
 	},
 	"passenger": {
 		"slots": 105,
