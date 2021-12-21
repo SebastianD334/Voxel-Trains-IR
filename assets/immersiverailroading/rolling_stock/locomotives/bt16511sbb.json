@@ -34,5 +34,6 @@
 		"horn": "sounds/swisshorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/kiss.json"
 }

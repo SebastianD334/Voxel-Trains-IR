@@ -12,7 +12,9 @@
 		"horsepower": 670,
 		"tractive_effort_lbf": 26977,
 		"max_speed_kmh": 160,
-		"weight_kg": 23500
+		"weight_kg": 23500,
+		"linear_brake_control": true,
+		"interior_light_level": 0.55
 	},
 	"passenger": {
 		"slots": 37,
@@ -33,5 +35,6 @@
 		"horn": "sounds/nsicmmhorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/nothing.json"
 }

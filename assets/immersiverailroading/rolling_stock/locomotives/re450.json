@@ -42,4 +42,6 @@
 		"HEADLIGHT_2": {
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re450.json"
 }

@@ -33,5 +33,6 @@
 		"horn": "sounds/stille.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/stille.ogg"
-	}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/nothing.json"
 }
