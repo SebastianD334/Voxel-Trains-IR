@@ -7,7 +7,7 @@
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"max_speed_kmh": 140,
-		"weight_kg": 56250,
+		"weight_kg": 51000,
 		"interior_light_level": 0.7
 	},
 	"passenger": {
