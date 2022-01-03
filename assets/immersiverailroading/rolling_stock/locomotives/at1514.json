@@ -1,31 +1,19 @@
 {
 	"era": "diesel",
-	"name": "RABe 514 At 1",
+	"name": "ZVV RABe 514 At 1",
 	"works": "Siemens",
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/at1514/at1514.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Rear Left": "dlr",
-		"Rear": "r",
-		"Rear Right": "drr",
-		"Rear Panto Left": "dlrp",
-		"Rear Panto": "rp",
-		"Rear Panto Right": "drrp",
-		"Panto Left": "dlp",
-		"Panto": "p",
-		"Panto Right": "drp",
-		"Left": "dl"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 4000,
 		"horsepower": 2145,
 		"tractive_effort_lbf": 26977,
 		"max_speed_kmh": 140,
-		"weight_kg": 56250
+		"weight_kg": 61000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.7
 	},
 	"passenger": {
 		"slots": 75,
@@ -46,5 +34,14 @@
 		"horn": "sounds/swisshorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/kiss.json"
 }
