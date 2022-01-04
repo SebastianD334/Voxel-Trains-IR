@@ -1,5 +1,5 @@
 # Blender MTL File: 'None'
-# Material Count: 1
+# Material Count: 2
 
 newmtl texture
 Ns 0
@@ -11,3 +11,14 @@ Ni 1.45
 d 1
 Illum 1
 map_Kd cp0180.png
+
+newmtl bunker
+Ns 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ni 1.45
+d 1
+Illum 1
+map_Kd cp0180bunker.png

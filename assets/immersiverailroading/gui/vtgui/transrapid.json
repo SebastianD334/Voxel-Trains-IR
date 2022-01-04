@@ -730,6 +730,49 @@
       ]
     },
     {
+      "comment": "temperature gauge",
+      "image": "immersiverailroading:gui/temperature_gauge/gauge.png",
+      "x": 55,
+      "y": -85,
+      "elements": [
+        {
+          "comment": "markers",
+          "image": "immersiverailroading:gui/temperature_gauge/markers.png",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Temp",
+            "height": 6
+          },
+          "x": 2.5,
+          "y": 68,
+          "rotate": {
+            "x": 0,
+            "y": 0,
+            "degrees": 90,
+            "offset": -90
+          }
+        },
+        {
+          "x": 0,
+          "y": 79,
+          "translate": {
+            "x": 0,
+            "y": -79
+          },
+          "readout": "TEMPERATURE",
+          "image": "immersiverailroading:gui/temperature_gauge/pointer.png"
+        },
+        {
+          "comment": "spice",
+          "image": "immersiverailroading:gui/temperature_gauge/spice.png"
+        }
+      ]
+    },
+    {
       "comment": "buttons",
       "x": 5,
       "y": -5,
@@ -745,7 +788,7 @@
               "x": 0,
               "y": 0,
               "hide": true,
-              "control": "hb",
+              "control": "hb1",
               "image": "immersiverailroading:gui/buttons/high_beam_on.png"
             },
             {
@@ -754,7 +797,7 @@
               "y": 0,
               "hide": true,
               "invert": true,
-              "control": "hb",
+              "control": "hb1",
               "image": "immersiverailroading:gui/buttons/high_beam_off.png"
             }
           ]

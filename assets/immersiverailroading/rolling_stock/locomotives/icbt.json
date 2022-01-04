@@ -5,7 +5,6 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/icbt/icbt.obj",
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 0,
@@ -36,5 +35,13 @@
 		"horn": "sounds/re460horn.ogg",
 		"idle": "sounds/stille.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/re460.json"
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re460cabcar.json"
 }

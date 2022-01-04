@@ -27,7 +27,7 @@
 		"center_x": -4.3,
 		"center_y": 1.8,
 		"length": 0.8,
-		"width": 2.4,
+		"width": 3.3,
 		"should_sit": false
 	},
 	"trucks": {
@@ -40,9 +40,10 @@
 	},
 	"sounds": {
 		"whistle": "sounds/cp0186/whistle0186b.ogg",
-		"idle": "sounds/cp0186/steam0186b.ogg",
-		"pressure": "sounds/cp0186/pressure0186.ogg",
+		"idle": "sounds/cp0186/idle0186c.ogg",
+		"pressure": "sounds/cp0186/idle0186b.ogg",
 		"chuff": "sounds/cp0186/chuff0186d.ogg",
+		"track_wheels": "sounds/cp/rolling_wood_track.ogg",
 		"quilling": [
 			{
 				"pull_start": 0.15,
@@ -52,6 +53,16 @@
 				"sample": "sounds/cp0186/whistle0186c.ogg"
 			}
 		]
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/voxel_flare_b.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/voxel_flare_b.png"
+		},
+		"HEADLIGHT_3": {
+			"texture": "immersiverailroading:textures/voxel_flare_b.png"
+		}
 	}
-
 }
