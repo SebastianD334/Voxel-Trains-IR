@@ -142,10 +142,11 @@
 		"virmmabv3-4", "virmmabv5", "virmmabv6", 
 		"dd-irmabv3-4", "dd-irmabv5", 
 		"icrb", "icrbd", "icra", 
-		"icmmab", "icmma"
+		"icmmab", "icmma", 
 		
 		//---------France----------------------------------------- 
-		
+		"vtua10"
+
 		//---------Denmark---------------------------------------- 
 		
 		//---------Miscellaneous---------------------------------- 
