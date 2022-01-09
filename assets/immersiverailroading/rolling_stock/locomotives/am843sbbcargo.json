@@ -5,18 +5,25 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/am843sbbcargo/am843sbbcargo.obj",
+	"tex_variants": {
+		"Diffused": "df",
+		"Diffused Shunting": "dfsh",
+		"Shunting": "sh"
+	},
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 3500,
 		"horsepower": 2012,
 		"tractive_effort_lbf": 55977,
 		"max_speed_kmh": 100,
-		"weight_kg": 80000
+		"weight_kg": 80000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.6
 	},
 	"passenger": {
 		"slots": 2,
 		"center_x": 0.03125,
-		"center_y": 2,
+		"center_y": 2.25,
 		"length": 6.96875,
 		"width": 2.75
 	},
@@ -30,5 +37,20 @@
 	},
 	"sounds":{
 		"horn": "sounds/vosslohg400bhorn.ogg"
-	}
+	},
+	"lights": {
+		"HEADLIGHT_1": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_2": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_3": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		},
+		"HEADLIGHT_4": {
+			"texture": "immersiverailroading:textures/no_flare.png"
+		}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re460.json"
 }
