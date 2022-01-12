@@ -1,0 +1,998 @@
+{
+  "elements": [
+    {
+      "comment": "speedometer",
+      "x": -215,
+      "y": -125,
+      "image": "immersiverailroading:gui/large_gauge/gauge.png",
+      "elements": [
+        {
+          "comment": "speedometer pointer",
+          "x": 8,
+          "y": 58.5,
+          "image": "immersiverailroading:gui/large_gauge/pointer.png",
+          "rotate": {
+            "x": 52,
+            "y": 1.5,
+            "degrees": 270,
+            "offset": -45
+          },
+          "readout": "SPEED"
+        },
+        {
+          "comment": "marker 0",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": -45
+          }
+        },
+        {
+          "comment": "marker 50",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 13.695621
+          }
+        },
+        {
+          "comment": "marker 100",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 72.391304
+          }
+        },
+        {
+          "comment": "marker 150",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 131.086956
+          }
+        },
+        {
+          "comment": "marker 200",
+          "x": 2,
+          "y": 59,
+          "image": "immersiverailroading:gui/large_gauge/marker.png",
+          "rotate": {
+            "x": 58,
+            "y": 1,
+            "degrees": 270,
+            "offset": 189.782608
+          }
+        },
+        {
+          "comment": "marker 10",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -33.260869
+          }
+        },
+        {
+          "comment": "marker 20",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -21.521739
+          }
+        },
+        {
+          "comment": "marker 30",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -9.782608
+          }
+        },
+        {
+          "comment": "marker 40",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 1.956521
+          }
+        },
+        {
+          "comment": "marker 60",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 25.434782
+          }
+        },
+        {
+          "comment": "marker 70",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 37.173913
+          }
+        },
+        {
+          "comment": "marker 80",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 48.913043
+          }
+        },
+        {
+          "comment": "marker 90",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 60.652173
+          }
+        },
+        {
+          "comment": "marker 110",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 84.130434
+          }
+        },
+        {
+          "comment": "marker 120",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 95.869565
+          }
+        },
+        {
+          "comment": "marker 130",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 107.608695
+          }
+        },
+        {
+          "comment": "marker 140",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 119.347826
+          }
+        },
+        {
+          "comment": "marker 160",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 142.826086
+          }
+        },
+        {
+          "comment": "marker 170",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 154.565217
+          }
+        },
+        {
+          "comment": "marker 180",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 166.304347
+          }
+        },
+        {
+          "comment": "marker 190",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 178.043478
+          }
+        },
+        {
+          "comment": "marker 210",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 201.521739
+          }
+        },
+        {
+          "comment": "marker 220",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 213.260869
+          }
+        },
+        {
+          "comment": "marker 230",
+          "x": 2,
+          "y": 59.5,
+          "image": "immersiverailroading:gui/large_gauge/marker_small.png",
+          "rotate": {
+            "x": 58,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 225
+          }
+        },
+        {
+          "comment": "inner circle",
+          "x": 22.5,
+          "y": 22.5,
+          "image": "immersiverailroading:gui/large_gauge/inner_circle.png"
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "km/h",
+            "height": 8
+          },
+          "x": 60,
+          "y": 70
+        },
+        {
+          "comment": "speed readout",
+          "text": {
+            "value": "stat.speed",
+            "height": 10
+          },
+          "x": 60,
+          "y": 55
+        }
+      ]
+    },
+    {
+      "comment": "independent brake",
+      "x": -65,
+      "y": -130,
+      "image": "immersiverailroading:gui/small_gauge/gauge.png",
+      "elements": [
+        {
+          "comment": "pointer",
+          "x": 5,
+          "y": 29,
+          "image": "immersiverailroading:gui/small_gauge/pointer.png",
+          "rotate": {
+            "x": 25,
+            "y": 1,
+            "degrees": 270,
+            "offset": -45
+          },
+          "readout": "INDEPENDENT_BRAKE"
+        },
+        {
+          "comment": "marker 0",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -45
+          }
+        },
+        {
+          "comment": "marker 25",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 22.5
+          }
+        },
+        {
+          "comment": "marker 50",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 90
+          }
+        },
+        {
+          "comment": "marker 75",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 157.5
+          }
+        },
+        {
+          "comment": "marker 100",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 225
+          }
+        },
+        {
+          "comment": "marker 12.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -11.25
+          }
+        },
+        {
+          "comment": "marker 37.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 56.25
+          }
+        },
+        {
+          "comment": "marker 62.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 123.75
+          }
+        },
+        {
+          "comment": "marker 87.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 191.25
+          }
+        },
+        {
+          "comment": "inner circle",
+          "x": 10,
+          "y": 10,
+          "image": "immersiverailroading:gui/small_gauge/inner_circle.png"
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Ind",
+            "height": 6
+          },
+          "x": 30,
+          "y": 22
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Brake",
+            "height": 6
+          },
+          "x": 30,
+          "y": 30
+        }
+      ]
+    },
+    {
+      "comment": "train brake",
+      "x": -65,
+      "y": -65,
+      "image": "immersiverailroading:gui/small_gauge/gauge.png",
+      "elements": [
+        {
+          "comment": "pointer",
+          "x": 5,
+          "y": 29,
+          "image": "immersiverailroading:gui/small_gauge/pointer.png",
+          "rotate": {
+            "x": 25,
+            "y": 1,
+            "degrees": 270,
+            "offset": -45
+          },
+          "readout": "TRAIN_BRAKE"
+        },
+        {
+          "comment": "marker 0",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -45
+          }
+        },
+        {
+          "comment": "marker 25",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 22.5
+          }
+        },
+        {
+          "comment": "marker 50",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 90
+          }
+        },
+        {
+          "comment": "marker 75",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 157.5
+          }
+        },
+        {
+          "comment": "marker 100",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 225
+          }
+        },
+        {
+          "comment": "marker 12.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": -11.25
+          }
+        },
+        {
+          "comment": "marker 37.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 56.25
+          }
+        },
+        {
+          "comment": "marker 62.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 123.75
+          }
+        },
+        {
+          "comment": "marker 87.5",
+          "x": 1,
+          "y": 29.5,
+          "image": "immersiverailroading:gui/small_gauge/marker_small.png",
+          "rotate": {
+            "x": 29,
+            "y": 0.5,
+            "degrees": 270,
+            "offset": 191.25
+          }
+        },
+        {
+          "comment": "inner circle",
+          "x": 10,
+          "y": 10,
+          "image": "immersiverailroading:gui/small_gauge/inner_circle.png"
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Train",
+            "height": 6
+          },
+          "x": 30,
+          "y": 22
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Brake",
+            "height": 6
+          },
+          "x": 30,
+          "y": 30
+        }
+      ]
+    },
+    {
+      "comment": "force gauge",
+      "image": "immersiverailroading:gui/force_gauge/gauge.png",
+      "x": -90,
+      "y": -85,
+      "elements": [
+        {
+          "comment": "markers",
+          "image": "immersiverailroading:gui/force_gauge/markers.png",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 0,
+          "y": 38.5,
+          "translate": {
+            "x": 0,
+            "y": -38.5
+          },
+          "readout": "THROTTLE",
+          "elements": [
+            {
+              "translate": {
+                "x": 0,
+                "y": 19.5
+              },
+              "readout": "TRAIN_BRAKE",
+              "elements": [
+                {
+                  "image": "immersiverailroading:gui/force_gauge/pointer.png",
+                  "translate": {
+                    "x": 0,
+                    "y": 19
+                  },
+                  "readout": "INDEPENDENT_BRAKE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "comment": "spice",
+          "image": "immersiverailroading:gui/force_gauge/spice.png"
+        }
+      ]
+    },
+    {
+      "comment": "reverser",
+      "image": "immersiverailroading:gui/reverser/background.png",
+      "x": -90,
+      "y": -120,
+      "elements": [
+        {
+          "comment": "forward",
+          "x": 0,
+          "y": 0,
+          "hide": true,
+          "control": "REVERSERFORWARD",
+          "image": "immersiverailroading:gui/reverser/reverserforward.png"
+        },
+        {
+          "comment": "not forward",
+          "x": 0,
+          "y": 0,
+          "hide": true,
+          "invert": true,
+          "control": "REVERSERFORWARD",
+          "image": "immersiverailroading:gui/reverser/reverserforward_off.png"
+        },
+        {
+          "comment": "neutral",
+          "x": 0,
+          "y": 12,
+          "hide": true,
+          "control": "REVERSERNEUTRAL",
+          "image": "immersiverailroading:gui/reverser/reverserneutral.png"
+        },
+        {
+          "comment": "not neutral",
+          "x": 0,
+          "y":12,
+          "hide": true,
+          "invert": true,
+          "control": "REVERSERNEUTRAL",
+          "image": "immersiverailroading:gui/reverser/reverserneutral_off.png"
+        },
+        {
+          "comment": "backward",
+          "x": 0,
+          "y": 18,
+          "hide": true,
+          "control": "REVERSERBACKWARD",
+          "image": "immersiverailroading:gui/reverser/reverserbackward.png"
+        },
+        {
+          "comment": "not backward",
+          "x": 0,
+          "y":18,
+          "hide": true,
+          "invert": true,
+          "control": "REVERSERBACKWARD",
+          "image": "immersiverailroading:gui/reverser/reverserbackward_off.png"
+        }
+      ]
+    },
+    {
+      "comment": "diesel gauge",
+      "x": 30,
+      "y": -85,
+      "image": "immersiverailroading:gui/liquid_gauge/gauge.png",
+      "elements": [
+        {
+          "comment": "markers",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/liquid_gauge/markers.png"
+        },
+        {
+          "comment": "diesel",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/liquid_gauge/diesel.png",
+          "scale": {
+            "y": 1
+          },
+           "rotate": {
+            "x": 10,
+            "y": 40,
+            "degrees": 0.0001,
+            "offset": 180
+          },
+          "readout": "LIQUID"
+        },
+        {
+          "comment": "spice",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/liquid_gauge/spice.png"
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Diesel",
+            "height": 6
+          },
+          "x": 2.5,
+          "y": 66.5,
+          "rotate": {
+            "x": 0,
+            "y": 0,
+            "degrees": 90,
+            "offset": -90
+          }
+        }
+      ]
+    },
+    {
+      "comment": "temperature gauge",
+      "image": "immersiverailroading:gui/temperature_gauge/gauge.png",
+      "x": 55,
+      "y": -85,
+      "elements": [
+        {
+          "comment": "markers",
+          "image": "immersiverailroading:gui/temperature_gauge/markers.png",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "comment": "label",
+          "text": {
+            "value": "Temp",
+            "height": 6
+          },
+          "x": 2.5,
+          "y": 68,
+          "rotate": {
+            "x": 0,
+            "y": 0,
+            "degrees": 90,
+            "offset": -90
+          }
+        },
+        {
+          "x": 0,
+          "y": 79,
+          "translate": {
+            "x": 0,
+            "y": -79
+          },
+          "readout": "TEMPERATURE",
+          "image": "immersiverailroading:gui/temperature_gauge/pointer.png"
+        },
+        {
+          "comment": "spice",
+          "image": "immersiverailroading:gui/temperature_gauge/spice.png"
+        }
+      ]
+    },
+    {
+      "comment": "buttons",
+      "x": 5,
+      "y": -5,
+      "elements": [
+        {
+          "comment": "high beam 1 button",
+          "x": 0,
+          "y": -20,
+          "image": "immersiverailroading:gui/buttons/button.png",
+           "elements": [
+            {
+              "comment": "1",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_1.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "hb1",
+              "image": "immersiverailroading:gui/buttons/high_beam_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "hb1",
+              "image": "immersiverailroading:gui/buttons/high_beam_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "high beam 2 button",
+          "x": 0,
+          "y": -45,
+          "image": "immersiverailroading:gui/buttons/button.png",
+           "elements": [
+            {
+              "comment": "2",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_2.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "hb2",
+              "image": "immersiverailroading:gui/buttons/high_beam_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "hb2",
+              "image": "immersiverailroading:gui/buttons/high_beam_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "cab 1 light button",
+          "x": 0,
+          "y": -70,
+          "image": "immersiverailroading:gui/buttons/button.png",
+          "elements": [
+            {
+              "comment": "1",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_1.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "cab1",
+              "image": "immersiverailroading:gui/buttons/cab_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "cab1",
+              "image": "immersiverailroading:gui/buttons/cab_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "cab 2 light button",
+          "x": 0,
+          "y": -95,
+          "image": "immersiverailroading:gui/buttons/button.png",
+          "elements": [
+            {
+              "comment": "2",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/number_2.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "cab2",
+              "image": "immersiverailroading:gui/buttons/cab_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "cab2",
+              "image": "immersiverailroading:gui/buttons/cab_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "machine room light button",
+          "x": 0,
+          "y": -120,
+          "image": "immersiverailroading:gui/buttons/button.png",
+          "elements": [
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "machine",
+              "image": "immersiverailroading:gui/buttons/machine_room_lights_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "machine",
+              "image": "immersiverailroading:gui/buttons/machine_room_lights_off.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
