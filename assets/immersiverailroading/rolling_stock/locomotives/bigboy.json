@@ -4,17 +4,6 @@
 	"works": "American Locomotive Company",
 	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/bigboy/4884-1.obj",
-	"tex_variants": {
-		"#4014 Door Open": "dooropen",
-		"#4005": "4005",
-		"#4005 Door Open": "4005dooropen",
-		"#4012": "4012",
-		"#4012 Door Open": "4012dooropen",
-		"#4018": "4018",
-		"#4018 Door Open": "4018dooropen",
-		"#4019": "4019",
-		"#4019 Door Open": "4019dooropen"
-	},
 	"properties": {
 		"max_psi": 300,
 		"water_capacity_l": 91000, 
