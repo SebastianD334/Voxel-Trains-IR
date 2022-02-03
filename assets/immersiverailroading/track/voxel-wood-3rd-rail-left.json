@@ -1,0 +1,20 @@
+{
+  "name": "Voxel Third Rail Left Wood",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-wood-3rd-rail-left/voxel-wood-3rd-rail-left.obj",
+    ">0": "immersiverailroading:models/track/voxel-wood-3rd-rail-left/voxel-wood-3rd-rail-left.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|8",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 2
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -4,6 +4,7 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/passenger/b2514/b2514.obj",
+	"sound_dampening_percentage": "0.40",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"max_speed_kmh": 140,
@@ -13,9 +14,10 @@
 	"passenger": {
 		"slots": 102,
 		"center_x": 0,
-		"center_y": 0.6876,
+		"center_y": 1.1876,
 		"length": 5.75,
-		"width": 2
+		"width": 1.875,
+		"should_sit": true
 	},
 	"trucks": {
 		"front": 9.3125,

@@ -5,6 +5,7 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbbbt/trsbbbt.obj",
+	"sound_dampening_percentage": "0.20", 
 	"properties": {
 		"fuel_efficiency_%": 99,
 		"fuel_capacity_l": 4000,

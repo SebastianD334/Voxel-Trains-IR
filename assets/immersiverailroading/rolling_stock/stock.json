@@ -11,6 +11,7 @@
 		
 		//---------Germany---------------------------------------- 
 		"br143",
+		"br145",
 		"br146",
 		"br185", 
 		"br218", 
@@ -24,6 +25,7 @@
 		"ngtcab", 
 		"b80dfront", "b80dback", 
 		"br481",
+		"br145rbh",
 		"traxx2railpool",
 		"traxx2hectorail",
 		
@@ -66,6 +68,7 @@
 		"icbt", "icbtmod", 
 		"ic2000bt", 
 		"ic2020bt", 
+		"am843sbbcargo", "am843sbb", "am843sbbinfra", "am843bls", "am843sersa", 
 		"sbb_ee922", 
 		"sbb_eem923_1", "sbb_eem923_2", 
 		"vectronsbbcargo1", 
@@ -144,10 +147,11 @@
 		"virmmabv3-4", "virmmabv5", "virmmabv6", 
 		"dd-irmabv3-4", "dd-irmabv5", 
 		"icrb", "icrbd", "icra", 
-		"icmmab", "icmma"
+		"icmmab", "icmma", 
 		
 		//---------France----------------------------------------- 
-		
+		"vtua10"
+
 		//---------Denmark---------------------------------------- 
 		
 		//---------Miscellaneous---------------------------------- 

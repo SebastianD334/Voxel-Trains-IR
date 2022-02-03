@@ -667,6 +667,12 @@
       "image": "immersiverailroading:gui/liquid_gauge/gauge.png",
       "elements": [
         {
+          "comment": "markers",
+          "x": 0,
+          "y": 0,
+          "image": "immersiverailroading:gui/liquid_gauge/markers.png"
+        },
+        {
           "comment": "diesel",
           "x": 0,
           "y": 0,
@@ -683,10 +689,10 @@
           "readout": "LIQUID"
         },
         {
-          "comment": "markers",
+          "comment": "spice",
           "x": 0,
           "y": 0,
-          "image": "immersiverailroading:gui/liquid_gauge/markers.png"
+          "image": "immersiverailroading:gui/liquid_gauge/spice.png"
         },
         {
           "comment": "label",
