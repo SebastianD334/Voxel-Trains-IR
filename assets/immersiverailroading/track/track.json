@@ -2,6 +2,7 @@
   "types" : [
 	"wood-track-16x",
 	"voxel-concrete-track",
+	"voxel-wood-ballastless-track", 
 	
 	"voxel-default",
 	"voxel-railsonly",
