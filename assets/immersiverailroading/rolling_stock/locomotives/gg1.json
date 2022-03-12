@@ -1,0 +1,30 @@
+{
+	"era": "diesel",
+	"name": "GG1",
+	"works": "General Electric",
+	"modeler": "Bossk",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/gg1/gg1.obj",
+	"properties": {
+		"fuel_efficiency_%": 100,
+		"fuel_capacity_l": 2400,
+		"horsepower": 4620,
+		"tractive_effort_lbf": 65500,
+		"max_speed_kmh": 160,
+		"weight_kg": 100000
+	},
+	"passenger": {
+		"slots": 2,
+		"center_x": 0,
+		"center_y": 2,
+		"length": 12,
+		"width": 3.2
+	},
+	"trucks": {
+		"front": 6.5,
+		"rear": -6.5
+	},
+	"couplers": {
+		"front_offset": -0.0625,
+		"rear_offset": -0.0625
+	}
+}
