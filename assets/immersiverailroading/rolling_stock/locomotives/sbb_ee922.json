@@ -14,7 +14,7 @@
 		"fuel_capacity_l": 1000,
 		"horsepower": 815,
 		"tractive_effort_lbf": 26977,
-		"max_speed_kmh": 40,
+		"max_speed_kmh": 100,
 		"weight_kg": 40000
 	},
 	"passenger": {

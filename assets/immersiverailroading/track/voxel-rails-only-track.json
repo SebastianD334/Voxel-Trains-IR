@@ -1,0 +1,20 @@
+{
+  "name": "Voxel Rails Only Track",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-rails-only-track/voxel-rails-only-track.obj",
+    ">0": "immersiverailroading:models/track/voxel-rails-only-track/voxel-rails-only-track.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|7",
+      "cost": 1
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

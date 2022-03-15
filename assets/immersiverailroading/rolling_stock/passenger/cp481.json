@@ -22,8 +22,8 @@
 		"width": 2.5
 	},
 	"trucks": {
-		"front": 9.4375,
-		"rear": -9.4375
+		"front": 4.2045,
+		"rear": -4.2045
 	},
 	"couplers": {
 		"front_offset": -0,

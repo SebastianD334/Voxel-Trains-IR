@@ -1,0 +1,21 @@
+{
+  "name": "Voxel Concreted Track with L channel",
+  "clack": false,
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-concreted-track-l-channel/voxel-concreted-track-l-channel.obj",
+    ">0": "immersiverailroading:models/track/voxel-concreted-track-l-channel/voxel-concreted-track-l-channel.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|8",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}
