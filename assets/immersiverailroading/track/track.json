@@ -1,19 +1,15 @@
 {
   "types" : [
-	"wood-track-16x",
+	"voxel-wood-track",
+	"voxel-ballastless-wood-track",
 	"voxel-concrete-track",
-	"voxel-wood-ballastless-track", 
-	
-	"voxel-default",
-	"voxel-railsonly",
+	"voxel-ballastless-concrete-track",
+	"voxel-rails-only-track",
+	"voxel-concreted-track-l-channel",
 	"voxel-wood-3rd-rail-right",
 	"voxel-wood-3rd-rail-left",
 	"standard_us_track",
-	"voxel-american-standard",
-	"turntable",
 	"voxel-low-profile",
-	"voxel-buffer",
-	"voxel-catenary-mast",
 	"voxel-narrow-wood",
 	"voxel-narrow-concrete",
 	"voxel-narrow-railsonly",
@@ -22,7 +18,6 @@
 	"voxel-tram-concrete",
 	"voxel-tram-twoblock",
 	"voxel-tram-midprofile",
-	"trtrack",
-	"concreted-track-l-channel"
+	"voxel-transrapid-track"
   ]
 }
