@@ -13,6 +13,7 @@
 		"br143",
 		"br145",
 		"br146",
+		"br1851",
 		"br185", 
 		"br218", 
 		"v320", "wiebe", 
@@ -27,7 +28,7 @@
 		"br481",
 		"br145rbh",
 		"traxx2railpool",
-		"traxx2hectorail",
+		"traxx2hectorrail",
 		
 		//---------USA-------------------------------------------- 
 		"acs",
@@ -57,7 +58,8 @@
 		"cp5600", 
 		
 		//---------Switzerland------------------------------------ 
-		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls", 
+		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls",
+		"traxx1sbbcargo", 
 		"traxx2sbbcargoac", "traxx2sbbcargoms",
 		"bt1501", 
 		"bt16511", 
