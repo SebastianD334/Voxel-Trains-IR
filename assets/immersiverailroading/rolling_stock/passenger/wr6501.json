@@ -5,9 +5,10 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/wr6501/wr6501.obj",
-	"darken_model": "0",
+	"sound_dampening_percentage": "0.25", 
 	"properties": {
-		"weight_kg": 34000
+		"weight_kg": 34000,
+		"interior_light_level": 0.75
 	},
 	"passenger": {
 		"slots": 60,

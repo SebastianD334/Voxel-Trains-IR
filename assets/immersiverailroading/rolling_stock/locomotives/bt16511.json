@@ -5,6 +5,7 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/bt16511/bt16511.obj",
+	"sound_dampening_percentage": "0.30", 
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 4000,
