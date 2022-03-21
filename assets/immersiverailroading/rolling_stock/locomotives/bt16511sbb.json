@@ -31,7 +31,7 @@
 		"rear_offset": -0.09375
 	},
 	"sounds": {
-		"horn": "sounds/swisshorn.ogg",
+		"horn": "sounds/re460horn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
