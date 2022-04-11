@@ -19,6 +19,10 @@
 		"br218", 
 		"v320", "wiebe", 
 		"kof", 
+		"br401",
+		"br4070", "br4075", "br4070g", "br4075g", 
+		"br481",
+		"br484a", "br484b",
 		"dabbuzfa", 
 		"bnrbdzf480", 
 		"icsteuerwagen", 
@@ -26,8 +30,6 @@
 		"front", "heck", 
 		"ngtcab", 
 		"b80dfront", "b80dback", 
-		"br481",
-		"br484a", "br484b",
 		"br145rbh",
 		"traxx2railpool",
 		"traxx2hectorrail",
@@ -112,13 +114,15 @@
 	"passenger": [
 		
 		//---------Germany---------------------------------------- 
+		"ba802", "ba804", 
+		"br4071", "br4072", "br4073", "br4078", "br4077", "br4076"
+		"br481wagon",
 		"bnrz451", 
 		"dbuza", 
 		"108", "109", "111", "134", "207", 
 		"mitte", "panto", 
 		"ngtbridge", "ngtcenter", "ngtbellow", 
 		"b80dbogie", 
-		"br481wagon",
 		
 		//---------USA-------------------------------------------- 
 		"upp5483",
