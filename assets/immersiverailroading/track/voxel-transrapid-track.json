@@ -5,6 +5,7 @@
     ">0.2": "immersiverailroading:models/track/voxel-transrapid-track/voxel-transrapid-track.obj",
     ">0": "immersiverailroading:models/track/voxel-transrapid-track/voxel-transrapid-track.obj"
   },
+  "bumpiness": 0, 
   "materials": {
     "TIE": [{
       "item": "minecraft:concrete|8",
