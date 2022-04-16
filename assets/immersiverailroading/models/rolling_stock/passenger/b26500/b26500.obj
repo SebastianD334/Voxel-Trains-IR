@@ -2,10 +2,10 @@
 
 mtllib b26500.mtl
 
-# from b26500-0-INTERIOR_CG_il_GLOBAL_LINVERT_2
+# from b26500-0-INTERIOR_CG_il_GLOBAL_LINVERT_1
 
 # group
-o INTERIOR_CG_il_GLOBAL_LINVERT_2
+o INTERIOR_CG_il_GLOBAL_LINVERT_1
 
 # material
 usemtl texture
@@ -3866,10 +3866,10 @@ f 2005/3/6 2006/3/6 2007/3/6
 f 2007/3/6 2006/3/6 2008/3/6
 f 2009/3/6 2010/3/6 2011/3/6
 f 2011/3/6 2010/3/6 2012/3/6
-# from b26500-1-FRAME_2
+# from b26500-1-FRAME_1
 
 # group
-o FRAME_2
+o FRAME_1
 
 # material
 usemtl texture
