@@ -14,7 +14,7 @@
 		"slots": 60,
 		"center_x": 0,
 		"center_y": 0.875,
-		"length": 8.25,
+		"length": 8.75,
 		"width": 2.1
 	},
 	"trucks": {
@@ -22,8 +22,8 @@
 		"rear": -8.7185
 	},
 	"couplers": {
-		"front_offset": -1.625,
-		"rear_offset": -1.625
+		"front_offset": -1.90625,
+		"rear_offset": -1.90625
 	}
 }
 
