@@ -24,9 +24,6 @@
 	"couplers": {
 		"front_offset": -0.09375,
 		"rear_offset": -0.09375
-	},
-	"sounds": {
-		"track_wheels": "sounds/stille.ogg"
 	}
 }
 
