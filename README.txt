@@ -19,5 +19,5 @@ Visit us on Discord: https://discord.gg/aVvtM6C
 
 LICENSE
 
-Copyright (c) 2021 Voxel Trains
+Copyright (c) 2022 Voxel Trains
 All rights reserved

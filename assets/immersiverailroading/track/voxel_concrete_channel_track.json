@@ -1,0 +1,21 @@
+{
+  "name": "Voxel Concrete Channel Track",
+    "clack": false,
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel_concrete_channel_track/voxel_concrete_channel_track.obj",
+    ">0": "immersiverailroading:models/track/voxel_concrete_channel_track/voxel_concrete_channel_track.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "minecraft:concrete|8",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

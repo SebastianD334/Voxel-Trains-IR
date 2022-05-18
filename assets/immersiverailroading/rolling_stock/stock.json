@@ -10,6 +10,7 @@
 	"locomotives": [
 		
 		//---------Germany---------------------------------------- 
+		"br103",
 		"br143",
 		"br145",
 		"br146",
@@ -20,6 +21,10 @@
 		"br218", 
 		"v320", "wiebe", 
 		"kof", 
+		"br401",
+		"br4070", "br4075", "br4070g", "br4075g", 
+		"br481",
+		"br484a", "br484b",
 		"dabbuzfa", 
 		"bnrbdzf480", 
 		"icsteuerwagen", 
@@ -27,7 +32,6 @@
 		"front", "heck", 
 		"ngtcab", 
 		"b80dfront", "b80dback", 
-		"br481",
 		"br145rbh",
 		"traxx2railpool",
 		"traxx2hectorrail",
@@ -63,6 +67,7 @@
 		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls",
 		"traxx1sbbcargo", 
 		"traxx2sbbcargoac", "traxx2sbbcargoms",
+		"bt17500", 
 		"bt1501", 
 		"bt16511", 
 		"bt16511sbb", 
@@ -76,9 +81,11 @@
 		"ic2020bt", 
 		"am843sbbcargo", "am843sbb", "am843sbbinfra", "am843bls", "am843sersa", 
 		"sbb_ee922", 
+		"ee922", 
 		"sbb_eem923_1", "sbb_eem923_2", 
 		"eem923electric", "eem923diesel", 
 		"vectronsbbcargo1", 
+		"abe4160", 
 		"tram20001front", "tram20001bkfront", "tram20002front", "tram20002pony", "tram20003front", "tram20003pony", 
 		"cobra1", 
 		"vbg1", 
@@ -110,13 +117,15 @@
 	"passenger": [
 		
 		//---------Germany---------------------------------------- 
+		"ba802", "ba804", 
+		"br4071", "br4072", "br4073", "br4078", "br4077", "br4076", 
+		"br481wagon",
 		"bnrz451", 
 		"dbuza", 
 		"108", "109", "111", "134", "207", 
 		"mitte", "panto", 
 		"ngtbridge", "ngtcenter", "ngtbellow", 
 		"b80dbogie", 
-		"br481wagon",
 		
 		//---------USA-------------------------------------------- 
 		"upp5483",
@@ -135,7 +144,8 @@
 		"sorefameregional1", "sorefameregional2", 
 		
 		//---------Switzerland------------------------------------ 
-		"wr6501", "b10501", "b11501", 
+		"b26500", 
+		"wr6501", "b7501", "b8501", "b9501", "b10501", "b11501", 
 		"ab2511", "b3511", "b4511", "ab5511", 
 		"ab2511sbb", "b3511sbb", "b4511sbb", "ab5511sbb", 
 		"b2514", "b3514", 

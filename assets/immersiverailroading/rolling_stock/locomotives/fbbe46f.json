@@ -2,31 +2,26 @@
 	"era": "diesel",
 	"name": "Forchbahn Be 4/6",
 	"works": "Stadler",
-	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
+	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/fbbe46f/fbbe46f.obj",
-	"tex_variants": {
-		"Right": "dr",
-		"Coupler Left": "cdl",
-		"Coupler": "c",
-		"Coupler Right": "cdr",
-		"Left": "dl"
-	},
-	"darken_model": "0",
+	"sound_dampening_percentage": "0.60",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 1000,
 		"horsepower": 587,
 		"tractive_effort_lbf": 20232,
 		"max_speed_kmh": 80,
-		"weight_kg": 16600
+		"weight_kg": 16600,
+		"interior_light_level": 0.7
 	},
 	"passenger": {
 		"slots": 29,
 		"center_x": 0,
-		"center_y": 1.088,
+		"center_y": 1.75,
 		"length": 5.438,
-		"width": 1.6
+		"width": 1.6,
+		"should_sit": true
 	},
 	"trucks": {
 		"front": 3.21875, 
@@ -39,6 +34,7 @@
 	"sounds": {
 		"horn": "sounds/ngtbell.ogg",
 		"idle": "sounds/sfrontdrive.ogg"
-	}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/fbbe46.json"
 }
 
