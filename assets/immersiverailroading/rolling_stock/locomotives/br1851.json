@@ -1,8 +1,8 @@
 {
 	"era": "diesel",
-	"name": "BR185.1",
+	"name": "DB BR 185.1",
 	"works": "Bombardier",
-	"modeler": "Foxy, SlenderMC",
+	"modeler": "SlenderMC, Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/br1851/br1851.obj",
 	"darken_model": "0",

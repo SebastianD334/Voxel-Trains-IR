@@ -2,7 +2,7 @@
 	"era": "diesel",
 	"name": "SBB Cargo Traxx 1",
 	"works": "Bombardier",
-	"modeler": "Foxy, SlenderMC",
+	"modeler": "SlenderMC. Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/traxx1sbbcargo/traxx1sbbcargo.obj",
 	"darken_model": "0",

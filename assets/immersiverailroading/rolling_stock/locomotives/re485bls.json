@@ -2,7 +2,7 @@
 	"era": "diesel",
 	"name": "bls Re 485",
 	"works": "Bombardier",
-	"modeler": "Foxy, SlenderMC",
+	"modeler": "SlenderMC, Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/re485bls/re485bls.obj",
 	"darken_model": "0",

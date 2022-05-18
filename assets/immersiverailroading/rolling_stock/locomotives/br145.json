@@ -1,8 +1,8 @@
 {
 	"era": "diesel",
-	"name": "BR145",
+	"name": " DB BR 145",
 	"works": "Bombardier, ADtranz",
-	"modeler": "Foxy, SlenderMC",
+	"modeler": "SlenderMC, Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/br145/br145.obj",
 	"darken_model": "0",
