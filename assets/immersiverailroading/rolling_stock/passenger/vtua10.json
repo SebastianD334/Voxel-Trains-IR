@@ -1,14 +1,9 @@
 {
-	"name": "SNCF Corail VTU A10",
+	"name": "SNCF VTU A10",
 	"works": "Franco-Belge, Alsthom, Francorail-MTE",
 	"modeler": "MathLoo",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/vtua10/vtua10.obj",
-	"tex_variants": {
-		"Open Doors Left": "dlopen",
-		"Open Doors Right": "dropen"
-	},
-	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 200,
 		"weight_kg": 42000
