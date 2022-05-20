@@ -32,7 +32,8 @@
 	},
 	"sounds": {
 		"horn": "sounds/swisshorn.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"idle": "sounds/sbb/re420idle.ogg",
+		"drive": "sounds/sbb/re420drive.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
 	"lights": {
