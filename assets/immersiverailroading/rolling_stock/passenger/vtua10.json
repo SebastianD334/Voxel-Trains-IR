@@ -6,7 +6,8 @@
 	"model": "immersiverailroading:models/rolling_stock/passenger/vtua10/vtua10.obj",
 	"properties": {
 		"max_speed_kmh": 200,
-		"weight_kg": 42000
+		"weight_kg": 42000,
+		"interior_light_level": 0.5
 	},
 	"passenger": {
 		"slots": 58,
