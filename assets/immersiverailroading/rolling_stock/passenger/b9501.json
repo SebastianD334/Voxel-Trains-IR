@@ -11,7 +11,7 @@
 		"interior_light_level": 0.75
 	},
 	"passenger": {
-		"slots": 60,
+		"slots": 44,
 		"center_x": 0,
 		"center_y": 1.5,
 		"length": 8.75,
