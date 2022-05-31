@@ -1,0 +1,30 @@
+{
+	"era": "diesel",
+	"name": "RABe 501 A5",
+	"works": "STADLER",
+	"modeler": "SebastianD334",
+	"pack": "Voxel Trains",
+	"model": "immersiverailroading:models/rolling_stock/passenger/a5501/a5501.obj",
+	"sound_dampening_percentage": "0.25", 
+	"properties": {
+		"weight_kg": 34000,
+		"interior_light_level": 0.75
+	},
+	"passenger": {
+		"slots": 31,
+		"center_x": 0,
+		"center_y": 0.875,
+		"length": 8.75,
+		"width": 2.1
+	},
+	"trucks": {
+		"front": 8.71875, 
+		"rear": -8.7185
+	},
+	"couplers": {
+		"front_offset": -0.15625,
+		"rear_offset": -0.09375
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/rabe501passenger.json"
+}
+
