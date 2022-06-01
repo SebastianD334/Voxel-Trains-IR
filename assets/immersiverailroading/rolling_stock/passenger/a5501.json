@@ -23,7 +23,9 @@
 	},
 	"couplers": {
 		"front_offset": -0.15625,
-		"rear_offset": -0.09375
+		"rear_offset": -0.09375,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	 "overlay": "immersiverailroading:gui/vtgui/rabe501passenger.json"
 }

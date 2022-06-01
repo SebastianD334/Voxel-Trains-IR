@@ -29,7 +29,9 @@
 	},
 	"couplers": {
 		"front_offset": -0.3125,
-		"rear_offset": -2.15625
+		"rear_offset": -2.15625,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	"sounds": {
 		"horn": "sounds/re460horn.ogg",

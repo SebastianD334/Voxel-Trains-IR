@@ -23,7 +23,9 @@
 	},
 	"couplers": {
 		"front_offset": -2.15625,
-		"rear_offset": -2.15625
+		"rear_offset": -2.15625,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	 "overlay": "immersiverailroading:gui/vtgui/rabe501wr6.json"
 }
