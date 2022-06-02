@@ -1,0 +1,17 @@
+{
+  "name": "Voxel Wooden Meter Gauge Track",
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-meter-wood/voxel-meter-wood.obj",
+    ">0": "immersiverailroading:models/track/voxel-meter-wood/voxel-meter-wood.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}
