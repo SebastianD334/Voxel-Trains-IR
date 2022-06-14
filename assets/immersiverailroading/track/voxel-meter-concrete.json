@@ -1,0 +1,21 @@
+{
+  "name": "Voxel Concrete Meter Gauge Track",
+    "clack": false,
+  "models": {
+    ">0.2": "immersiverailroading:models/track/voxel-meter-concrete/voxel-meter-concrete.obj",
+    ">0": "immersiverailroading:models/track/voxel-meter-concrete/voxel-meter-concrete.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:concrete",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}
