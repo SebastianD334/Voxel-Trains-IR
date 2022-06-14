@@ -198,15 +198,17 @@
 		//---------Switzerland------------------------------------ 
 		"hbbillnss", 
 		"tagnppssbbcargo", "tagnppszucker",
+		"uacns932_holcim", 
 		
 		//---------Netherlands------------------------------------ 
 		
 		//---------France----------------------------------------- 
 		
 		//---------Denmark---------------------------------------- 
-		"franz" 
+		"franz", 
 		
 		//---------Miscellaneous---------------------------------- 
+		"bufferzhextension" 
 	],
 
     "tank": [
