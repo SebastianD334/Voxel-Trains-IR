@@ -3,7 +3,6 @@
 	"works": "Bombardier Siemens",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/sltb1/sltb1.obj",
-	"darken_model": "0",
 	"properties": {
 		"max_speed_kmh": 160,
 		"weight_kg": 23500,
@@ -22,6 +21,8 @@
 	},
 	"couplers": {
 		"front_offset": -0.3125,
-		"rear_offset": -0.3125
+		"rear_offset": -0.3125,
+		"front_slack": 0,
+		"rear_slack": 0
 	}
 }

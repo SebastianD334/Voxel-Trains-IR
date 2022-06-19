@@ -5,7 +5,6 @@
 	"modeler": "Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/sltl/sltl.obj",
-	"darken_model": "0",
 	"properties": {
 		"weight_kg": 2000,
 		"interior_light_level": 0.5
@@ -23,7 +22,9 @@
 	},
 	"couplers": {
 		"front_offset": -1.875,
-		"rear_offset": -1.875
+		"rear_offset": -1.875,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	"sounds": {
 	}

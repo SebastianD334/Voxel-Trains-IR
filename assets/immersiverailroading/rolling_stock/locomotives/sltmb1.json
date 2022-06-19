@@ -5,7 +5,6 @@
 	"pack": "Voxel Trains",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/sltmb1/sltmb1.obj",
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 4000,
@@ -29,7 +28,9 @@
 	},
 	"couplers": {
 		"front_offset": -0.3125,
-		"rear_offset": -0.3125
+		"rear_offset": -0.3125,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	"sounds": {
 		"horn": "sounds/nsicmmhorn.ogg",
