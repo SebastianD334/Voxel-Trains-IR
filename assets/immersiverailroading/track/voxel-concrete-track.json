@@ -2,7 +2,6 @@
   "name": "Voxel Concrete Track",
     "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-concrete-track/voxel-concrete-track.obj",
     ">0": "immersiverailroading:models/track/voxel-concrete-track/voxel-concrete-track.obj"
   },
   "materials": {

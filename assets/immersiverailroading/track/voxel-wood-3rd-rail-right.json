@@ -1,7 +1,6 @@
 {
   "name": "Voxel Third Rail Right Wood",
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-wood-3rd-rail-right/voxel-wood-3rd-rail-right.obj",
     ">0": "immersiverailroading:models/track/voxel-wood-3rd-rail-right/voxel-wood-3rd-rail-right.obj"
   },
   "materials": {

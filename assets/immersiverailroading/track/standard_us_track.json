@@ -1,7 +1,6 @@
 {
   "name": "US Track",
   "models": {
-    ">0.2": "immersiverailroading:models/track/standard_us_track/standard_us_track.obj",
     ">0": "immersiverailroading:models/track/standard_us_track/standard_us_track.obj"
   },
   "materials": {

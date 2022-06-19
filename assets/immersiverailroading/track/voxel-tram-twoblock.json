@@ -1,7 +1,6 @@
 {
   "name": "Tram Two-Block Sills",
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-tram-twoblock/twoblock.obj",
     ">0": "immersiverailroading:models/track/voxel-tram-twoblock/twoblock.obj"
   },
   "materials": {

@@ -1,8 +1,8 @@
 {
-  "name": "Meter Gauge Rails Only",
+  "name": "Voxel Meter Gauge Low Profile Track",
+    "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-narrow-railsonly/voxel-narrow-railsonly.obj",
-    ">0": "immersiverailroading:models/track/voxel-narrow-railsonly/voxel-narrow-railsonly.obj"
+    ">0": "immersiverailroading:models/track/voxel-meter-low-profile/voxel-meter-low-profile.obj"
   },
   "materials": {
     "TIE": [{

@@ -1,7 +1,7 @@
 {
   "name": "Voxel Ballastless Concrete Track",
+    "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-ballastless-concrete-track/voxel-ballastless-concrete-track.obj",
     ">0": "immersiverailroading:models/track/voxel-ballastless-concrete-track/voxel-ballastless-concrete-track.obj"
   },
   "materials": {

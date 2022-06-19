@@ -1,8 +1,8 @@
 {
-  "name": "Low Profile Rails",
+  "name": "Voxel Low Profile Track",
+    "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-low-profile/voxel-low-profile.obj",
-    ">0": "immersiverailroading:models/track/voxel-low-profile/voxel-low-profile.obj"
+    ">0": "immersiverailroading:models/track/voxel-low-profile-track/voxel-low-profile-track.obj"
   },
   "materials": {
     "TIE": [{

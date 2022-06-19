@@ -1,7 +1,7 @@
 {
   "name": "Voxel Wood Track",
+    "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-wood-track/voxel-wood-track.obj",
     ">0": "immersiverailroading:models/track/voxel-wood-track/voxel-wood-track.obj"
   },
   "materials": {

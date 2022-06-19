@@ -1,15 +1,16 @@
 {
-  "name": "catenarymast",
+  "name": "Voxel Meter Gauge Rails Only Track",
+    "clack": false,
   "models": {
-    ">0": "immersiverailroading:models/track/voxel-catenary-mast/catenary-mast.obj"
+    ">0": "immersiverailroading:models/track/voxel-meter-rails-only/voxel-meter-rails-only.obj"
   },
   "materials": {
     "TIE": [{
       "item": "ore:concrete",
-      "cost": 2
+      "cost": 1
     },{
       "item": "ore:ingotIron",
-      "cost": 8
+      "cost": 1
     }],
     "RAIL": [{
       "item": "ore:irRail",

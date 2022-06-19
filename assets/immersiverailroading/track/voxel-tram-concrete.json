@@ -1,7 +1,6 @@
 {
   "name": "Tram Concrete",
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-tram-concrete/tramconcrete.obj",
     ">0": "immersiverailroading:models/track/voxel-tram-concrete/tramconcrete.obj"
   },
   "materials": {

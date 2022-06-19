@@ -2,7 +2,6 @@
   "name": "Voxel Concreted Track with L channel",
   "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-concreted-track-l-channel/voxel-concreted-track-l-channel.obj",
     ">0": "immersiverailroading:models/track/voxel-concreted-track-l-channel/voxel-concreted-track-l-channel.obj"
   },
   "materials": {

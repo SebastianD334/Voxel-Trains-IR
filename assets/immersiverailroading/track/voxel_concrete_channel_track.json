@@ -2,7 +2,6 @@
   "name": "Voxel Concrete Channel Track",
     "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel_concrete_channel_track/voxel_concrete_channel_track.obj",
     ">0": "immersiverailroading:models/track/voxel_concrete_channel_track/voxel_concrete_channel_track.obj"
   },
   "materials": {

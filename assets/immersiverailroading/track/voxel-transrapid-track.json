@@ -2,7 +2,6 @@
   "name": "Voxel Transrapid Track",
     "clack": false,
   "models": {
-    ">0.2": "immersiverailroading:models/track/voxel-transrapid-track/voxel-transrapid-track.obj",
     ">0": "immersiverailroading:models/track/voxel-transrapid-track/voxel-transrapid-track.obj"
   },
   "bumpiness": 0, 
