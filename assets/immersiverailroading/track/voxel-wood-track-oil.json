@@ -1,0 +1,20 @@
+{
+  "name": "Voxel Wood Track Oily",
+    "clack": true,
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-wood-track-oily/voxel-wood-track-oil.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:concrete",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}
