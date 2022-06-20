@@ -1,6 +1,6 @@
 {
   "name": "Voxel Wooden Meter Gauge Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-meter-wood/voxel-meter-wood.obj"
   },
