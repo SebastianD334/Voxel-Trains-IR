@@ -1,7 +1,7 @@
 # Blender 3.2.0 MTL File: 'None'
 # www.blender.org
 
-newmtl palette
+newmtl texture
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
