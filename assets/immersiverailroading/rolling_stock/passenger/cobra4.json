@@ -5,11 +5,9 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/cobra4/cobra4.obj",
-	"tex_variants": {
-		"Open Doors": "open"
-	},
 	"properties": {
-		"weight_kg": 6000
+		"weight_kg": 6000,
+		"interior_light_level": 0.65
 	},
 	"passenger": {
 		"slots": 24,
@@ -24,7 +22,9 @@
 	},
 	"couplers": {
 		"front_offset": -0.8125,
-		"rear_offset": -0.8125
+		"rear_offset": -0.8125,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	"sounds": {
 		"track_wheels": "sounds/stille.ogg"
