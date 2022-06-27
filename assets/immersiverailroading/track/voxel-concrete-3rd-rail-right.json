@@ -1,0 +1,19 @@
+{
+  "name": "Voxel Third Rail Right Concrete",
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-concrete-3rd-rail-right/voxel-concrete-3rd-rail-right.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:concrete",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 2
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}
