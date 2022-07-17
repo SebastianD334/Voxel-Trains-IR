@@ -1,7 +1,7 @@
 {
 	/*
 	Order:
-	DE, US, AU, CZ, H, PT, CH, NL, FR, DK, Misc
+	DE, US, AU, CZ, H, PT, CH, NL, FR, DK, A, Misc
 	loco, cab car, multiple unit, tram
 	if cab car and loco belong together put them together
 	otherwise, add the everything in the order of the numbers
@@ -108,6 +108,9 @@
 		"bb8500beton", "bb8500verte", "bb8500fret", 
 		"x2200rouge", "x2200bleu", "x2200jaune", 
 		
+		//---------Austria---------------------------------------- 
+		"railjet_afmpz", 
+		
 		//---------Denmark---------------------------------------- 
 		"traktor", 
 		
@@ -169,8 +172,11 @@
 		"icmmab", "icmma", 
 		
 		//---------France----------------------------------------- 
-		"vtua10"
+		"vtua10", 
 
+		//---------Austria---------------------------------------- 
+		"railjet_bmpz"
+		
 		//---------Denmark---------------------------------------- 
 		
 		//---------Miscellaneous---------------------------------- 
