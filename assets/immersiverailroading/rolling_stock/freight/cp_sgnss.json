@@ -21,16 +21,15 @@
 	"freight": {
 		"slots": 27,
 		"width": 9,
-		"cargo": ["all"],
-		"independent_brake": true
+		"cargo": ["all"]
 	},
 	"trucks": {
-		"front": 2.150, 
-		"rear": -2.150
+		"front": 6.93, 
+		"rear": -6.93
 	},
 	"couplers": {
-		"front_offset": -0.3,
-		"rear_offset": -0.3
+		"front_offset": -0.5,
+		"rear_offset": -0.5
 	},
 	"sounds": {
 		"wheels": "sounds/cp/rolling_wood_track.ogg"
