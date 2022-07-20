@@ -8,17 +8,29 @@
 		"weight_kg": 21600
 	},
 	"tex_variants": {
+		"Double Container BLUE-clean": "c2b",
+		"Double Container YELLOW-clean": "c2y",
+		"Double Container GRAY-clean": "c2g",
 		"Single Container YELLOW-clean": "c1y",
 		"Single Container BLUE-clean": "c1b",
 		"Single Container RED-clean": "c1r",
 		"Single Container GRAY-clean": "c1g",
-		"Double Container BLUE-clean": "c2b",
-		"Double Container YELLOW-clean": "c2y",
-		"Double Container GRAY-clean": "c2g",
 		"Gas Container BLUE-clean": "cgasb",
 		"Gas Container RED-clean": "cgasr",
 		"Gas Container YELLOW-clean": "cgasy",
-		"Gas Container GRAY-clean": "cgasg"
+		"Gas Container GRAY-clean": "cgasg",
+		"Double Container RED-norm": "m2r",
+		"Double Container BLUE-norm": "m2b",
+		"Double Container YELLOW-norm": "m2y",
+		"Double Container GRAY-norm": "m2g",
+		"Single Container YELLOW-norm": "m1y",
+		"Single Container BLUE-norm": "m1b",
+		"Single Container RED-norm": "m1r",
+		"Single Container GRAY-norm": "m1g",
+		"Gas Container BLUE-normal": "mgasb",
+		"Gas Container RED-normal": "mgasr",
+		"Gas Container YELLOW-normal": "mgasy",
+		"Gas Container GRAY-normal": "mgasg"
 	},
 	"passenger": {
 		"slots": 0,
