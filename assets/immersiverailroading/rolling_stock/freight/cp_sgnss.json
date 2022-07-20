@@ -8,8 +8,17 @@
 		"weight_kg": 21600
 	},
 	"tex_variants": {
-		"Single Container YELLOW": "c1y",
-		"Gas Container BLUE": "cgasb"
+		"Single Container YELLOW-clean": "c1y",
+		"Single Container BLUE-clean": "c1b",
+		"Single Container RED-clean": "c1r",
+		"Single Container GRAY-clean": "c1g",
+		"Double Container BLUE-clean": "c2b",
+		"Double Container YELLOW-clean": "c2y",
+		"Double Container GRAY-clean": "c2g",
+		"Gas Container BLUE-clean": "cgasb",
+		"Gas Container RED-clean": "cgasr",
+		"Gas Container YELLOW-clean": "cgasy",
+		"Gas Container GRAY-clean": "cgasg"
 	},
 	"passenger": {
 		"slots": 0,
