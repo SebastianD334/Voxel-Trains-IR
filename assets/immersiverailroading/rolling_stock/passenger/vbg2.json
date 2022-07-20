@@ -5,11 +5,9 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/vbg2/vbg2.obj",
-	"tex_variants": {
-		"Open Doors": "open"
-	},
 	"properties": {
-		"weight_kg": 6000
+		"weight_kg": 6000,
+		"interior_light_level": 0.65
 	},
 	"passenger": {
 		"slots": 24,
@@ -32,4 +30,3 @@
 		"track_wheels": "sounds/stille.ogg"
 	}
 }
-
