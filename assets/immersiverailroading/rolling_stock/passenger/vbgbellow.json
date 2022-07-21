@@ -6,7 +6,8 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/vbgbellow/vbgbellow.obj",
 	"properties": {
-		"weight_kg": 500
+		"weight_kg": 500,
+		"interior_light_level": 0.65
 	},
 	"passenger": {
 		"slots": 2,
