@@ -35,5 +35,6 @@
 		"horn": "sounds/vosslohg400bhorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/re484.json"
 }

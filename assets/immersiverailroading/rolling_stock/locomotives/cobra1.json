@@ -30,7 +30,7 @@
 		"front_offset": -0,
 		"rear_offset": -0.875,
 		"front_slack": 0,
-		"rear_slack": 0
+		"rear_slack": 0.01
 	},
 	"sounds": {
 		"horn": "sounds/ngtbell.ogg",
