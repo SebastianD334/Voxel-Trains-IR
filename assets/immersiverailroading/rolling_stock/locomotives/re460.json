@@ -33,7 +33,7 @@
 	},
 	"sounds": {
 		"horn": "sounds/re460horn.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"idle": "sounds/sbb/re460.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
 	 "overlay": "immersiverailroading:gui/vtgui/re460.json"
