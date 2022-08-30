@@ -33,7 +33,7 @@
 	},
 	"sounds": {
 		"horn": "sounds/re460horn.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"idle": "sounds/sbb/eem923electric.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
 	"lights": {
