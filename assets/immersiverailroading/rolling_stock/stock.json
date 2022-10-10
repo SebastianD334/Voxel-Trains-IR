@@ -12,12 +12,8 @@
 		//---------Germany---------------------------------------- 
 		"br103",
 		"br143",
-		"br145",
 		"br146",
-		"br147",
-		"br1851",
-		"br185",
-		"br187", 
+		"br185", 
 		"br218", 
 		"v320", "wiebe", 
 		"kof", 
@@ -31,7 +27,6 @@
 		"vt98", 
 		"ngtcab", 
 		"b80dfront", "b80dback", 
-		"br145rbh",
 		"traxx2railpool",
 		"traxx2hectorrail",
 		
@@ -63,13 +58,11 @@
 		"cp5600", 
 		
 		//---------Switzerland------------------------------------ 
-		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls",
-		"traxx1sbbcargo", 
+		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls", 
 		"traxx2sbbcargoac", "traxx2sbbcargoms",
 		"re450", "btdpzplus", 
 		"re460", 
-		"re465",
-		"re485bls", 
+		"re465", 
 		"bt17500", 
 		"at2501", "bt1501", 
 		"bt2502", 
