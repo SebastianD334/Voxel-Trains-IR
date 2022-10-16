@@ -1,9 +1,9 @@
 {
 	"era": "diesel",
 	"name": "RhB ABe 4/16 0",
-	"works": "Stadler",
+	"works": "STADLER",
 	"pack": "Voxel Trains",
-	"modeler": "SebastianD334",
+	"modeler": "SebastianD334, Foxy Floofy",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/abe4160/abe4160.obj",
 	"sound_dampening_percentage": "0.40", 
 	"properties": {
@@ -33,7 +33,7 @@
 	},
 	"sounds": {
 		"horn": "sounds/re460horn.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"idle": "sounds/sbb/eem923electric.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
 	"lights": {
