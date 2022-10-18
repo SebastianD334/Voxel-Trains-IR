@@ -4,14 +4,9 @@
 	"modeler": "Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/icmmab/icmmab.obj",
-	"tex_variants": {
-		"Open Doors Left": "dl",
-		"Open Doors Right": "dr"
-	},
-	"darken_model": "0",
 	"properties": {
-		"max_speed_kmh": 160,
-		"weight_kg": 40000
+		"weight_kg": 40000,
+		"interior_light_level": 0.55
 	},
 	"passenger": {
 		"slots": 76,
