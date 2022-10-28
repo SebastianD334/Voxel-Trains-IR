@@ -5,17 +5,15 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/tram20001bkfront/tram20001bkfront.obj",
-	"tex_variants": {
-		"Open Doors": "open"
-	},
-	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 1000,
 		"horsepower": 426,
 		"tractive_effort_lbf": 5000,
 		"max_speed_kmh": 60,
-		"weight_kg": 10000
+		"weight_kg": 10000,
+		"linear_brake_control": true,
+		"interior_light_level": 0.55
 	},
 	"passenger": {
 		"slots": 45,
