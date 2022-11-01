@@ -4,7 +4,7 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334, Foxy Floofy",
 	"model": "immersiverailroading:models/rolling_stock/passenger/br4078/br4078.obj",
-	"sound_dampening_percentage": "0.30",
+	"sound_dampening_percentage": "0.03",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"max_speed_kmh": 320,
@@ -25,6 +25,9 @@
 	},
 	"couplers": {
 		"front_offset": -0.15625,
-		"rear_offset": -0.15625
-	}
+		"rear_offset": -0.15625,
+		"front_slack": 0,
+		"rear_slack": 0
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/rabe501passenger.json"
 }
