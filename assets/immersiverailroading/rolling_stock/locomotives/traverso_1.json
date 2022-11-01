@@ -5,7 +5,7 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/traverso_1/traverso_1.obj",
-	"sound_dampening_percentage": "0.30", 
+	"sound_dampening_percentage": "0.06", 
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 4000,

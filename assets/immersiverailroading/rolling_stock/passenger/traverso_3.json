@@ -5,7 +5,7 @@
 	"modeler": "SebastianD334, Foxy Floofy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/passenger/traverso_3/traverso_3.obj",
-	"sound_dampening_percentage": "0.30", 
+	"sound_dampening_percentage": "0.06", 
 	"properties": {
 		"weight_kg": 20000,
 		"interior_light_level": 0.75
