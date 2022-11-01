@@ -5,7 +5,7 @@
 	"pack": "Voxel Trains",
 	"modeler": "SebastianD334, Foxy Floofy",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/br401/br401.obj",
-	"sound_dampening_percentage": "0.40",
+	"sound_dampening_percentage": "0.10",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 4000,
@@ -30,7 +30,9 @@
 	},
 	"couplers": {
 		"front_offset": -0.3125,
-		"rear_offset": -0.15625
+		"rear_offset": -0.15625,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	"sounds": {
 		"horn": "sounds/db/401horn.ogg",
