@@ -35,5 +35,5 @@
 		"idle": "sounds/sbb/eem923electric.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/kiss.json"
+	 "overlay": "immersiverailroading:gui/vtgui/l160h1c1p.json"
 }

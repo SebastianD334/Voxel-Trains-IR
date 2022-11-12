@@ -47,5 +47,5 @@
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/rabe501passenger.json"
+	 "overlay": "immersiverailroading:gui/vtgui/nothing.json"
 }
