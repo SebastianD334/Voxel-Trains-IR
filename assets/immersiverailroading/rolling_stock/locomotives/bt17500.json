@@ -38,5 +38,5 @@
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/re460cabcar.json"
+	 "overlay": "immersiverailroading:gui/vtgui/l200h1c1p.json"
 }

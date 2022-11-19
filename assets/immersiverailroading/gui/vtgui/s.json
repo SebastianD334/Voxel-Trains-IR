@@ -1,0 +1,30 @@
+{
+  "elements": [
+    {
+      "comment": "passenger speedometer",
+      "x": -40,
+      "y": 5,
+      "centered": {
+        "x": true
+      },
+      "image": "immersiverailroading:gui/buttons/button_wide.png",
+      "elements": [
+        {
+          "comment": "spice",
+          "x": 0,
+          "y": 0,
+      "image": "immersiverailroading:gui/buttons/spice_wide.png"
+        },
+        {
+          "comment": "speed readout",
+          "text": {
+            "value": "stat.speed",
+            "height": 10
+          },
+          "x": 40,
+          "y": 5
+        }
+      ]
+    }
+  ]
+}

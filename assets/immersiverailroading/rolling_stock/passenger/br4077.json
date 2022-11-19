@@ -29,5 +29,5 @@
 		"front_slack": 0,
 		"rear_slack": 0
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/rabe501passenger.json"
+	 "overlay": "immersiverailroading:gui/vtgui/s.json"
 }

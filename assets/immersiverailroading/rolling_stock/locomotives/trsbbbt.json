@@ -36,5 +36,5 @@
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/stille.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/transrapid.json"
+	 "overlay": "immersiverailroading:gui/vtgui/l450h1c1p.json"
 }
