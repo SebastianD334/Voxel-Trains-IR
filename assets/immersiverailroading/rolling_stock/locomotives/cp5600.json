@@ -13,6 +13,10 @@
 		"max_speed_kmh": 220,
 		"weight_kg": 110000
 	},
+	"tex_variants": {
+		"Clean": "clean",
+		"Dirty": "dirty"
+	},
 	"passenger": {
 		"slots": 2,
 		"center_x": 0,
