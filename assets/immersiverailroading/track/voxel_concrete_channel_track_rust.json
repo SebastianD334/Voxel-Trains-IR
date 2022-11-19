@@ -1,0 +1,20 @@
+{
+  "name": "Voxel Concrete Channel Rusty Track",
+    "clack": false,
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel_concrete_channel_track_rust/voxel_concrete_channel_track.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:concrete",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Voxel Concrete New Track",
+    "clack": false,
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-concrete-track-new/voxel-concrete-track.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:concrete",
+      "cost": 2
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Voxel Meter Gauge Rails Only Abandoned Track",
+    "clack": false,
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-meter-rails-only-aban/voxel-meter-rails-only.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:concrete",
+      "cost": 1
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

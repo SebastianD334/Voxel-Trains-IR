@@ -1,0 +1,19 @@
+{
+  "name": "Voxel Rails Only Abandoned Track",
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-rails-only-track-aban/voxel-rails-only-track.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:concrete",
+      "cost": 1
+    },{
+      "item": "ore:ingotIron",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

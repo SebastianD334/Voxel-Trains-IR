@@ -1,0 +1,17 @@
+{
+  "name": "Voxel Wooden Meter Gauge Oily Track",
+  "clack": false,
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-meter-wood-oil/voxel-meter-wood.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}

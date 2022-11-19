@@ -1,0 +1,17 @@
+{
+  "name": "Voxel Wooden Meter Gauge Abandoned Track",
+  "clack": false,
+  "models": {
+    ">0": "immersiverailroading:models/track/voxel-meter-wood-aban/voxel-meter-wood.obj"
+  },
+  "materials": {
+    "TIE": [{
+      "item": "ore:irTie",
+      "cost": 1
+    }],
+    "RAIL": [{
+      "item": "ore:irRail",
+      "cost": 2
+    }]
+  }
+}
