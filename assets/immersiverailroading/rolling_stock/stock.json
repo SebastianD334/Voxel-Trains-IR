@@ -90,7 +90,7 @@
 		
 		//---------Netherlands------------------------------------ 
 		"sltmabk", "sltmb1", "sltmb2", "sltmb3",
-		"sngmbk1",
+		"sngmbk1", "sngmbz", 
 		"virmmmbvk1-2", "virmmmbv7", 
 		"dd-irmmbvk1-2", 
 		"icmmmbfk", "icmmsbk", "icmmmb", 
@@ -163,7 +163,7 @@
 		
 		//---------Netherlands------------------------------------ 
 		"sltb1", "sltb2", "sltab", "sltl", "sltmb",
-		"sngb3",
+		"sngb",
 		"virmmabv3-4", "virmmabv5", "virmmabv6", 
 		"dd-irmabv3-4", "dd-irmabv5", 
 		"icrb", "icrbd", "icra", 
