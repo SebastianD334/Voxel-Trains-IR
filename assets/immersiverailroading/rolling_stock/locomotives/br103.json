@@ -33,5 +33,6 @@
 		"horn": "sounds/sound/horn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"wheels": "sounds/sound/drive.ogg"
-	}
+	},
+	 "overlay": "immersiverailroading:gui/vtgui/l200h2c2m.json"
 }
