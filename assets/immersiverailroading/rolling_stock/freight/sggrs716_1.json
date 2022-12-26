@@ -24,12 +24,12 @@
 	},
 	"trucks": {
 		"front": 4.75, 
-		"rear": -5.875,
-		"front_slack": 0,
-		"rear_slack": 0
+		"rear": -5.875
 	},
 	"couplers": {
 		"front_offset": 0,
-		"rear_offset": -1.8125
+		"rear_offset": -1.8125,
+		"front_slack": 0,
+		"rear_slack": 0
 	}
 }
