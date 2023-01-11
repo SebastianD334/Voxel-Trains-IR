@@ -4,16 +4,16 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/tagnppszucker/tagnppszucker.obj",
+	"properties": {
+		"weight_kg": 15000,
+		"independent_brake": true
+	},
 	"passenger": {
 		"slots": 2,
 		"center_x": 9.125,
 		"center_y": 1.5,
 		"length": 0.25,
 		"width": 2.5
-	},
-	"properties": {
-		"weight_kg": 15000,
-		"independent_brake": true
 	},
 	"freight": {
 		"slots": 27,
