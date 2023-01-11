@@ -5,7 +5,8 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/hbbillnss/hbbillnss.obj",
 	"properties": {
-		"weight_kg": 20000
+		"weight_kg": 20000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,
