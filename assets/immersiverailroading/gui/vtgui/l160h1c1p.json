@@ -9,7 +9,7 @@
         {
           "comment": "speedometer pointer",
           "x": 8,
-          "y": 58.5,
+          "y": 59,
           "image": "immersiverailroading:gui/large_gauge/pointer.png",
           "rotate": {
             "x": 52,
@@ -225,8 +225,8 @@
         },
         {
           "comment": "inner circle",
-          "x": 22.5,
-          "y": 22.5,
+          "x": 22,
+          "y": 22,
           "image": "immersiverailroading:gui/large_gauge/inner_circle.png"
         },
         {
@@ -258,7 +258,7 @@
         {
           "comment": "pointer",
           "x": 5,
-          "y": 29,
+          "y": 29.5,
           "image": "immersiverailroading:gui/small_gauge/pointer.png",
           "rotate": {
             "x": 25,
@@ -411,7 +411,7 @@
         {
           "comment": "pointer",
           "x": 5,
-          "y": 29,
+          "y": 29.5,
           "image": "immersiverailroading:gui/small_gauge/pointer.png",
           "rotate": {
             "x": 25,
@@ -657,6 +657,10 @@
           "invert": true,
           "control": "REVERSERBACKWARD",
           "image": "immersiverailroading:gui/reverser/reverserbackward_off.png"
+        },
+        {
+          "comment": "spice",
+          "image": "immersiverailroading:gui/reverser/spice.png"
         }
       ]
     },

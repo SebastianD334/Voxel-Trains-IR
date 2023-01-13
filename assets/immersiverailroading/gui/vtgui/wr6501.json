@@ -29,20 +29,17 @@
               "image": "immersiverailroading:gui/buttons/high_beam_off.png"
             },
             {
-              "comment": "yellow button",
+              "comment": "menu button",
               "x": 25,
-              "y": -50,
-              "hide": true,
-              "invert": true,
-              "control": "menu",
-              "image": "immersiverailroading:gui/buttons/button_wide.png",
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/button.png",
                "elements": [
                 {
                   "comment": "on",
                   "x": 0,
                   "y": 0,
                   "hide": true,
-                  "control": "yellow",
+                  "control": "submenu1",
                   "image": "immersiverailroading:gui/buttons/high_beam_on.png"
                 },
                 {
@@ -51,8 +48,69 @@
                   "y": 0,
                   "hide": true,
                   "invert": true,
-                  "control": "yellow",
+                  "control": "submenu1",
                   "image": "immersiverailroading:gui/buttons/high_beam_off.png"
+                },
+                {
+                  "comment": "yellow button",
+                  "x": 25,
+                  "y": -50,
+                  "hide": true,
+                  "invert": true,
+                  "control": "submenu1",
+                  "image": "immersiverailroading:gui/buttons/button_wide.png",
+                   "elements": [
+                    {
+                      "comment": "on",
+                      "x": 0,
+                      "y": 0,
+                      "hide": true,
+                      "control": "yellow",
+                      "image": "immersiverailroading:gui/buttons/high_beam_on.png"
+                    },
+                    {
+                      "comment": "off",
+                      "x": 0,
+                      "y": 0,
+                      "hide": true,
+                      "invert": true,
+                      "control": "yellow",
+                      "image": "immersiverailroading:gui/buttons/high_beam_off.png"
+                    }
+                  ]
+                },
+                {
+                  "comment": "green button",
+                  "x": 25,
+                  "y": -25,
+                  "hide": true,
+                  "invert": true,
+                  "control": "submenu1",
+                   "elements": [
+                    {
+                      "comment": "background",
+                      "x": 0,
+                      "y": 0,
+                      "image": "immersiverailroading:gui/buttons/button_wide.png"
+                    },
+                    {
+                      "comment": "on",
+                      "x": 0,
+                      "y": 0,
+                      "hide": true,
+                      "control": "green",
+                      "image": "immersiverailroading:gui/buttons/cab_on.png"
+                    },
+                    {
+                      "comment": "off",
+                      "x": 0,
+                      "y": 0,
+                      "hide": true,
+                      "invert": true,
+                      "control": "green",
+                      "image": "immersiverailroading:gui/buttons/cab_off.png"
+                    }
+                  ]
                 }
               ]
             },
@@ -76,7 +134,7 @@
                   "y": 0,
                   "hide": true,
                   "control": "green",
-                  "image": "immersiverailroading:gui/buttons/high_beam_on.png"
+                  "image": "immersiverailroading:gui/buttons/cab_on.png"
                 },
                 {
                   "comment": "off",
@@ -85,7 +143,7 @@
                   "hide": true,
                   "invert": true,
                   "control": "green",
-                  "image": "immersiverailroading:gui/buttons/high_beam_off.png"
+                  "image": "immersiverailroading:gui/buttons/cab_off.png"
                 }
               ]
             }
