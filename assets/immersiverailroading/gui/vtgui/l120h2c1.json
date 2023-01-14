@@ -8,12 +8,12 @@
       "elements": [
         {
           "comment": "speedometer pointer",
-          "x": 8,
+          "x": 12,
           "y": 59,
           "image": "immersiverailroading:gui/large_gauge/pointer.png",
           "rotate": {
-            "x": 52,
-            "y": 1.5,
+            "x": 48,
+            "y": 1,
             "degrees": 270,
             "offset": -45
           },
@@ -520,7 +520,7 @@
           "y": 0
         },
         {
-          "x": 0,
+          "x": 1,
           "y": 38.5,
           "translate": {
             "x": 0,
@@ -722,6 +722,12 @@
           "image": "immersiverailroading:gui/buttons/button.png",
            "elements": [
             {
+              "comment": "spice",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/spice.png"
+            },
+            {
               "comment": "1",
               "x": 0,
               "y": 0,
@@ -753,6 +759,12 @@
           "image": "immersiverailroading:gui/buttons/button.png",
            "elements": [
             {
+              "comment": "spice",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/spice.png"
+            },
+            {
               "comment": "2",
               "x": 0,
               "y": 0,
@@ -783,6 +795,12 @@
           "y": -70,
           "image": "immersiverailroading:gui/buttons/button.png",
           "elements": [
+            {
+              "comment": "spice",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/spice.png"
+            },
             {
               "comment": "on",
               "x": 0,

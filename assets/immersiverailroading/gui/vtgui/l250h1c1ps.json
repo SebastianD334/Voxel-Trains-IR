@@ -8,12 +8,12 @@
       "elements": [
         {
           "comment": "speedometer pointer",
-          "x": 10,
+          "x": 12,
           "y": 59,
           "image": "immersiverailroading:gui/large_gauge/pointer.png",
           "rotate": {
-            "x": 52,
-            "y": 1.5,
+            "x": 48,
+            "y": 1,
             "degrees": 270,
             "offset": -45
           },
@@ -370,7 +370,7 @@
           "image": "immersiverailroading:gui/small_gauge/pointer.png",
           "rotate": {
             "x": 25,
-            "y": 1,
+            "y": 0.5,
             "degrees": 270,
             "offset": -45
           },
@@ -523,7 +523,7 @@
           "image": "immersiverailroading:gui/small_gauge/pointer.png",
           "rotate": {
             "x": 25,
-            "y": 1,
+            "y": 0.5,
             "degrees": 270,
             "offset": -45
           },
@@ -878,6 +878,12 @@
           "image": "immersiverailroading:gui/buttons/button.png",
            "elements": [
             {
+              "comment": "spice",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/spice.png"
+            },
+            {
               "comment": "on",
               "x": 0,
               "y": 0,
@@ -903,6 +909,12 @@
           "image": "immersiverailroading:gui/buttons/button.png",
           "elements": [
             {
+              "comment": "spice",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/spice.png"
+            },
+            {
               "comment": "on",
               "x": 0,
               "y": 0,
@@ -927,6 +939,12 @@
           "y": -70,
           "image": "immersiverailroading:gui/buttons/button.png",
           "elements": [
+            {
+              "comment": "spice",
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:gui/buttons/spice.png"
+            },
             {
               "comment": "on",
               "x": 0,
@@ -961,7 +979,7 @@
           "comment": "spice",
           "x": 0,
           "y": 0,
-      "image": "immersiverailroading:gui/buttons/spice_wide.png"
+          "image": "immersiverailroading:gui/buttons/spice_wide.png"
         },
         {
           "comment": "speed readout",
