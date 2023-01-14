@@ -4,9 +4,9 @@
 	"modeler": "Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/sggrs716_1/sggrs716_1.obj",
-	"darken_model": "0",
 	"properties": {
-		"weight_kg": 16000
+		"weight_kg": 16000,
+		"independent_brake": true
 	},
 	"passenger": {
 		"slots": 2,
@@ -18,9 +18,7 @@
 	"freight": {
 		"slots": 27,
 		"width": 9,
-		"cargo": ["all"],
-		"show_current_load_only": true,
-		"independent_brake": true
+		"cargo": ["all"]
 	},
 	"trucks": {
 		"front": 4.75, 
@@ -31,5 +29,6 @@
 		"rear_offset": -1.8125,
 		"front_slack": 0,
 		"rear_slack": 0
-	}
+	},
+		"show_current_load_only": true
 }
