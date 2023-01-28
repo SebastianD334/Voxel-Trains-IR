@@ -1,0 +1,349 @@
+{
+  "elements": [
+    {
+      "comment": "buttons",
+      "x": 5,
+      "y": -5,
+      "elements": [
+        {
+          "comment": "food button",
+          "x": 0,
+          "y": -20,
+          "image": "immersiverailroading:vtgui/buttons/button.png",
+          "elements": [
+            {
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:vtgui/buttons/spice.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "food",
+              "image": "immersiverailroading:vtgui/buttons/food_on.png",
+              "elements": [
+                {
+                  "comment": "arrow",
+                  "x": 22,
+                  "y": -120,
+                  "image": "immersiverailroading:vtgui/specific/wr6501/layout_arrow.png"
+                },
+                {
+                  "comment": "background",
+                  "x": 30,
+                  "y": -120,
+                  "image": "immersiverailroading:vtgui/specific/wr6501/layout_background.png",
+                  "elements": [
+                    {
+                      "comment": "spice",
+                      "x": 0,
+                      "y": 0,
+                      "image": "immersiverailroading:vtgui/specific/wr6501/layout_spice.png"
+                    },
+                    {
+                      "comment": "layout",
+                      "x": 4,
+                      "y": 4,
+                      "image": "immersiverailroading:vtgui/specific/wr6501/layout.png"
+                    },
+                    {
+                      "comment": "5 1",
+                      "x": 8,
+                      "y": 107,
+                      "elements": [
+                        {
+                          "comment": "off",
+                          "x": 0,
+                          "y": 0,
+                          "hide": true,
+                          "invert": true,
+                          "control": "51",
+                          "image": "immersiverailroading:vtgui/buttons/plate_off.png"
+                        },
+                        {
+                          "comment": "on",
+                          "x": 0,
+                          "y": 0,
+                          "hide": true,
+                          "control": "51",
+                          "image": "immersiverailroading:vtgui/buttons/plate_on.png",
+                          "elements": [
+                            {
+                              "comment": "arrow",
+                              "x": 54,
+                              "y": -112,
+                              "image": "immersiverailroading:vtgui/specific/wr6501/arrow_5.png",
+                              "elements": [
+                                {
+                                  "comment": "choc button",
+                                  "x": 8,
+                                  "y": 0,
+                                  "image": "immersiverailroading:vtgui/buttons/button_wide.png",
+                                  "elements": [
+                                    {
+                                      "comment": "on",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Choc Cake",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFFF0F0F0"},
+                                      "hide": true,
+                                      "control": "51choc"
+                                    },
+                                    {
+                                      "comment": "off",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Choc Cake",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFF505050"},
+                                      "hide": true,
+                                      "invert": true,
+                                      "control": "51choc"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "control": "51choc",
+                                      "image": "immersiverailroading:vtgui/buttons/spice_wide.png"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "comment": "salad button",
+                                  "x": 8,
+                                  "y": 25,
+                                  "image": "immersiverailroading:vtgui/buttons/button_wide.png",
+                                  "elements": [
+                                    {
+                                      "comment": "on",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Salad",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFFF0F0F0"},
+                                      "hide": true,
+                                      "control": "51salad"
+                                    },
+                                    {
+                                      "comment": "off",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Salad",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFF505050"},
+                                      "hide": true,
+                                      "invert": true,
+                                      "control": "51salad"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "control": "51salad",
+                                      "image": "immersiverailroading:vtgui/buttons/spice_wide.png"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "comment": "5 2",
+                      "x": 18,
+                      "y": 107,
+                      "elements": [
+                        {
+                          "comment": "off",
+                          "x": 0,
+                          "y": 0,
+                          "hide": true,
+                          "invert": true,
+                          "control": "52",
+                          "image": "immersiverailroading:vtgui/buttons/plate_off.png"
+                        },
+                        {
+                          "comment": "on",
+                          "x": 0,
+                          "y": 0,
+                          "hide": true,
+                          "control": "52",
+                          "image": "immersiverailroading:vtgui/buttons/plate_on.png",
+                          "elements": [
+                            {
+                              "comment": "arrow",
+                              "x": 44,
+                              "y": -112,
+                              "image": "immersiverailroading:vtgui/specific/wr6501/arrow_5.png",
+                              "elements": [
+                                {
+                                  "comment": "choc button",
+                                  "x": 8,
+                                  "y": 0,
+                                  "image": "immersiverailroading:vtgui/buttons/button_wide.png",
+                                  "elements": [
+                                    {
+                                      "comment": "on",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Choc Cake",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFFF0F0F0"},
+                                      "hide": true,
+                                      "control": "52choc"
+                                    },
+                                    {
+                                      "comment": "off",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Choc Cake",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFF505050"},
+                                      "hide": true,
+                                      "invert": true,
+                                      "control": "52choc"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "control": "52choc",
+                                      "image": "immersiverailroading:vtgui/buttons/spice_wide.png"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "comment": "salad button",
+                                  "x": 8,
+                                  "y": 25,
+                                  "image": "immersiverailroading:vtgui/buttons/button_wide.png",
+                                  "elements": [
+                                    {
+                                      "comment": "on",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Salad",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFFF0F0F0"},
+                                      "hide": true,
+                                      "control": "52salad"
+                                    },
+                                    {
+                                      "comment": "off",
+                                      "x": 40,
+                                      "y": 5,
+                                      "text": {
+                                        "value": "Salad",
+                                        "height": 10
+                                      },
+                                      "color": {"0": "0xFF505050"},
+                                      "hide": true,
+                                      "invert": true,
+                                      "control": "52salad"
+                                    },
+                                    {
+                                      "x": 0,
+                                      "y": 0,
+                                      "control": "52salad",
+                                      "image": "immersiverailroading:vtgui/buttons/spice_wide.png"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "food",
+              "image": "immersiverailroading:vtgui/buttons/food_off.png"
+            }
+          ]
+        },
+        {
+          "comment": "interior lights button",
+          "x": 0,
+          "y": -45,
+          "image": "immersiverailroading:vtgui/buttons/button.png",
+          "elements": [
+            {
+              "x": 0,
+              "y": 0,
+              "image": "immersiverailroading:vtgui/buttons/spice.png"
+            },
+            {
+              "comment": "on",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "invert": true,
+              "control": "il",
+              "image": "immersiverailroading:vtgui/buttons/interior_on.png"
+            },
+            {
+              "comment": "off",
+              "x": 0,
+              "y": 0,
+              "hide": true,
+              "control": "il",
+              "image": "immersiverailroading:vtgui/buttons/interior_off.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "comment": "passenger speedometer",
+      "x": -40,
+      "y": 5,
+      "centered": {
+        "x": true
+      },
+      "image": "immersiverailroading:vtgui/buttons/button_wide.png",
+      "elements": [
+        {
+          "comment": "spice",
+          "x": 0,
+          "y": 0,
+      "image": "immersiverailroading:vtgui/buttons/spice_wide.png"
+        },
+        {
+          "comment": "speed readout",
+          "text": {
+            "value": "stat.speed",
+            "height": 10
+          },
+          "x": 40,
+          "y": 5
+        }
+      ]
+    }
+  ]
+}

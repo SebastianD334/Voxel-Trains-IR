@@ -13,7 +13,7 @@
 	"passenger": {
 		"slots": 19,
 		"center_x": 0,
-		"center_y": 1.25,
+		"center_y": 1.4375,
 		"length": 8.75,
 		"width": 2.1
 	},
@@ -27,6 +27,6 @@
 		"front_slack": 0,
 		"rear_slack": 0
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/wr6501.json"
+	 "overlay": "immersiverailroading:vtgui/ui/wr6501.json"
 }
 
