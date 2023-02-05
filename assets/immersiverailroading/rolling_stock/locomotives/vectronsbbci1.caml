@@ -26,6 +26,10 @@ couplers =
 	rear_offset = -0
 	front_slack = 0
 	rear_slack = 0
+sounds =
+	horn = "sounds/vosslohg400bhorn.ogg"
+	idle = "sounds/sound/idle.ogg"
+	track_wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/l160h2c2m.json"
 animations:
 	control_group = "d1"
