@@ -4,6 +4,9 @@
 	"modeler": "Foxy",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/sggrs716_2/sggrs716_2.obj",
+	"tex_variants": {
+		"dirty containers": "cdirty"
+	},
 	"properties": {
 		"weight_kg": 12000,
 		"independent_brake": true
