@@ -33,8 +33,8 @@
 		"rear_slack": 0
 	},
 	"sounds": {
-		"horn": "sounds/nsicmmhorn.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"horn": "sounds/ns/nssnghorn.ogg",
+		"idle": "sounds/ns/sngaccelerate.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
 	 "overlay": "immersiverailroading:gui/vtgui/nothing.json"

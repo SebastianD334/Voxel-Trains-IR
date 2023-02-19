@@ -35,7 +35,7 @@
 		"rear_slack": 0
 	},
 	"sounds": {
-		"horn": "sounds/nsvirmhorn.ogg",
+		"horn": "sounds/ns/nsvirmhorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
