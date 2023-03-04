@@ -46,5 +46,5 @@
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/l250h1c1ps.json"
+	 "overlay": "immersiverailroading:vtgui/ui/c250.caml"
 }

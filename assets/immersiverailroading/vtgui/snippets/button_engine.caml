@@ -1,0 +1,23 @@
+element:
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/button.png"
+        element:
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/buttons/spice.png"
+        element:
+            # on
+            x = 0
+            y = 0
+            hide = true
+            readout = "engine"
+            image = "immersiverailroading:vtgui/buttons/engine_on.png"
+        element:
+            # off
+            x = 0
+            y = 0
+            hide = true
+            invert = true
+            readout = "engine"
+            image = "immersiverailroading:vtgui/buttons/engine_off.png"

@@ -1,0 +1,54 @@
+element:
+        x = 0
+        y = -30
+        image = "immersiverailroading:vtgui/reverser/background.png"
+        element:
+            # forward
+            x = 0
+            y = 0
+            hide = true
+            control = REVERSERFORWARD
+            image = "immersiverailroading:vtgui/reverser/reverserforward.png"
+        element:
+            # not forward
+            x = 0
+            y = 0
+            hide = true
+            invert = true
+            control = REVERSERFORWARD
+            image = "immersiverailroading:vtgui/reverser/reverserforward_off.png"
+        element:
+            # neutral
+            x = 0
+            y = 12
+            hide = true
+            control = REVERSERNEUTRAL
+            image = "immersiverailroading:vtgui/reverser/reverserneutral.png"
+        element:
+            # not neutral
+            x = 0
+            y = 12
+            hide = true
+            invert = true
+            control = REVERSERNEUTRAL
+            image = "immersiverailroading:vtgui/reverser/reverserneutral_off.png"
+        element:
+            # backward
+            x = 0
+            y = 18
+            hide = true
+            control = REVERSERBACKWARD
+            image = "immersiverailroading:vtgui/reverser/reverserbackward.png"
+        element:
+            # not backward
+            x = 0
+            y = 18
+            hide = true
+            invert = true
+            control = REVERSERBACKWARD
+            image = "immersiverailroading:vtgui/reverser/reverserbackward_off.png"
+        element:
+            # spice
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/reverser/spice.png"

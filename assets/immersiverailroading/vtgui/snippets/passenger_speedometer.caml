@@ -1,0 +1,18 @@
+element:
+    x = -40
+    y = 5
+    centered =
+        x = True
+    image = "immersiverailroading:vtgui/buttons/button_wide.png"
+    element:
+        # spice
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+    element:
+        # speed readout
+        text =
+            value = "stat.speed"
+            height = 10
+        x = 40
+        y = 5

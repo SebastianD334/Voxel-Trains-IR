@@ -1,0 +1,39 @@
+element:
+        x = 0
+        y = -80
+        image = "immersiverailroading:vtgui/gauge_liquid/gauge.png"
+        element:
+            # markers
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/gauge_liquid/markers.png"
+        element:
+            # diesel
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/gauge_liquid/diesel.png"
+            scale =
+                y = 1
+            rotate =
+                x = 10
+                y = 40
+                degrees = 0.0001
+                offset = 180
+            readout = TEMPERATURE
+        element:
+            # spice
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/gauge_liquid/spice.png"
+        element:
+            # text
+            x = 2.5
+            y = 68
+            text =
+                value = Temp
+                height = 5
+            rotate =
+                x = 0
+                y = 0
+                degrees = 90
+                offset = -90
