@@ -31,7 +31,7 @@ sounds =
 	horn = "sounds/vosslohg400bhorn.ogg"
 	idle = "sounds/sound/idle.ogg"
 	track_wheels = "sounds/sound/drive.ogg"
-overlay = "immersiverailroading:vtgui/ui/l160h2c2m.json"
+overlay = "immersiverailroading:vtgui/ui/vectron160.caml"
 animations:
 	control_group = "d1"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/vectronsbbci_rotterdam/d1.anim"

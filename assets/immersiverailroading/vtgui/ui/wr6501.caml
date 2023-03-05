@@ -3,7 +3,7 @@ element:
     x = 5
     y = -5
     element:
-        # food button
+        # food
         x = 0
         y = -20
         image = "immersiverailroading:vtgui/buttons/button.png"
@@ -317,45 +317,10 @@ element:
             control = "food"
             image = "immersiverailroading:vtgui/buttons/food_off.png"
     element:
-        # interior lights button
+        # interior lights
         x = 0
         y = -45
-        image = "immersiverailroading:vtgui/buttons/button.png"
-        element:
-            x = 0
-            y = 0
-            image = "immersiverailroading:vtgui/buttons/spice.png"
-        element:
-            # on
-            x = 0
-            y = 0
-            hide = True
-            invert = True
-            control = "il"
-            image = "immersiverailroading:vtgui/buttons/interior_on.png"
-        element:
-            # off
-            x = 0
-            y = 0
-            hide = True
-            control = "il"
-            image = "immersiverailroading:vtgui/buttons/interior_off.png"
+        import: immersiverailroading:vtgui/snippets/buttons/il.caml
 element:
     # passenger speedometer
-    x = -40
-    y = 5
-    centered =
-        x = True
-    image = "immersiverailroading:vtgui/buttons/button_wide.png"
-    element:
-        # spice
-        x = 0
-        y = 0
-        image = "immersiverailroading:vtgui/buttons/spice_wide.png"
-    element:
-        # speed readout
-        text =
-            value = "stat.speed"
-            height = 10
-        x = 40
-        y = 5
+    import: immersiverailroading:vtgui/snippets/passenger_speedometer.caml
