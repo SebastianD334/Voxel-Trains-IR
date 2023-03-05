@@ -27,6 +27,31 @@
 		"front_slack": 0,
 		"rear_slack": 0
 	},
-	 "overlay": "immersiverailroading:vtgui/ui/wr6501.json"
+	"animations": [
+        {
+            "control_group": "d1",
+            "animatrix": "immersiverailroading:models/rolling_stock/passenger/wr6501/d1.anim",
+            "mode": "PLAY_BOTH",
+            "frames_per_tick": 4.5
+        },
+        {
+            "control_group": "d2",
+            "animatrix": "immersiverailroading:models/rolling_stock/passenger/wr6501/d2.anim",
+            "mode": "PLAY_BOTH",
+            "frames_per_tick": 4.5
+        },
+        {
+            "control_group": "dr",
+            "animatrix": "immersiverailroading:models/rolling_stock/passenger/wr6501/dr_open.anim",
+            "mode": "PLAY_BOTH",
+            "frames_per_tick": 3.0
+        },
+        {
+            "control_group": "railing2",
+            "animatrix": "immersiverailroading:models/rolling_stock/passenger/wr6501/railing_right.anim",
+            "mode": "VALUE"
+        }
+    ],
+	 "overlay": "immersiverailroading:vtgui/ui/wr6501.caml"
 }
 

@@ -14,7 +14,8 @@
 		"max_speed_kmh": 250,
 		"weight_kg": 52000,
 		"linear_brake_control": true,
-		"interior_light_level": 0.75
+		"interior_light_level": 0.75,
+		"cab_car": true
 	},
 	"passenger": {
 		"slots": 56,
