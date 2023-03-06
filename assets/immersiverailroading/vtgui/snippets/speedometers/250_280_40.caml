@@ -10,7 +10,7 @@ element:
             rotate =
                 x = 48
                 y = 0.5
-                degrees = 241
+                degrees = 241.1
                 offset = -45
             readout = SPEED
         element:
