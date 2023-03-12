@@ -23,6 +23,18 @@ element:
                 y = 1
                 degrees = 270
                 offset = -45
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 0
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = 45
         element:
             # marker 10
             x = 2
@@ -43,6 +55,18 @@ element:
                 y = 1
                 degrees = 270
                 offset = 0
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 20
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -0
         element:
             # marker 30
             x = 2
@@ -63,6 +87,18 @@ element:
                 y = 1
                 degrees = 270
                 offset = 45
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 40
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -45
         element:
             # marker 50
             x = 2
@@ -83,6 +119,18 @@ element:
                 y = 1
                 degrees = 270
                 offset = 90
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 60
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -90
         element:
             # marker 70
             x = 2
@@ -103,6 +151,18 @@ element:
                 y = 1
                 degrees = 270
                 offset = 135
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 80
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -135
         element:
             # marker 90
             x = 2
@@ -123,6 +183,18 @@ element:
                 y = 1
                 degrees = 270
                 offset = 180
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 100
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -180
         element:
             # marker 110
             x = 2
@@ -143,6 +215,18 @@ element:
                 y = 1
                 degrees = 270
                 offset = 225
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 120
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -225
         element:
             # marker 5
             x = 2
