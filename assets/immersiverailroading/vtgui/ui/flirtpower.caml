@@ -1,0 +1,23 @@
+element:
+    # buttons
+    x = 5
+    y = -5
+    element:
+        # engine
+        x = 0
+        y = -20
+        import: immersiverailroading:vtgui/snippets/buttons/engine.caml
+element:
+    #gauges
+    x = -5
+    y = -5
+    element:
+        # temperature gauge
+        x = -45
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_temperature.caml
+    element:
+        # diesel gauge
+        x = -20
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_diesel.caml

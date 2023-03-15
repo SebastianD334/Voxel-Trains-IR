@@ -47,5 +47,5 @@
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/nothing.json"
+	 "overlay": "immersiverailroading:vtgui/ui/flirtpower.caml"
 }
