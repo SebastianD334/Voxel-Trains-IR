@@ -448,7 +448,7 @@ element:
                 x = 58
                 y = 0.5
                 degrees = 270
-                offset = 16.875
+                offset = -16.875
         element:
             # marker 35
             x = 2
@@ -458,7 +458,7 @@ element:
                 x = 58
                 y = 0.5
                 degrees = 270
-                offset = 5.625
+                offset = -5.625
         element:
             # marker 45
             x = 2

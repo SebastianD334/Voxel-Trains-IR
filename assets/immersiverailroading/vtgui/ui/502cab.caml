@@ -3,19 +3,24 @@ element:
     x = 5
     y = -5
     element:
-        # high beam
+        # engine
         x = 0
         y = -20
+        import: immersiverailroading:vtgui/snippets/buttons/engine.caml
+    element:
+        # high beam
+        x = 0
+        y = -45
         import: immersiverailroading:vtgui/snippets/buttons/hb.caml
     element:
         # cab lights
         x = 0
-        y = -45
+        y = -70
         import: immersiverailroading:vtgui/snippets/buttons/cab.caml
     element:
         # interior lights
         x = 0
-        y = -70
+        y = -95
         import: immersiverailroading:vtgui/snippets/buttons/il.caml
 element:
     #gauges
