@@ -23,11 +23,11 @@ element:
             image = "immersiverailroading:vtgui/gauge_brake/spice.png"
         element:
             # text
-            x = 2.5
-            y = 29.5
+            x = 2
+            y = 32
             text =
                 value = Main
-                height = 5
+                height = 4
             rotate =
                 x = 0
                 y = 0

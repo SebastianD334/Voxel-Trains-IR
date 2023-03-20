@@ -23,11 +23,11 @@ element:
             image = "immersiverailroading:vtgui/gauge_temperature/spice.png"
         element:
             # text
-            x = 2.5
-            y = 68
+            x = 2
+            y = 71
             text =
                 value = Temp
-                height = 5
+                height = 4
             rotate =
                 x = 0
                 y = 0

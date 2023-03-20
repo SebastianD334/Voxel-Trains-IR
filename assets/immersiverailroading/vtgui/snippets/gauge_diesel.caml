@@ -27,11 +27,11 @@ element:
             image = "immersiverailroading:vtgui/gauge_liquid/spice.png"
         element:
             # text
-            x = 2.5
-            y = 66.5
+            x = 2
+            y = 70
             text =
                 value = Diesel
-                height = 5
+                height = 4
             rotate =
                 x = 0
                 y = 0

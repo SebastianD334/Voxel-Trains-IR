@@ -23,8 +23,8 @@ element:
             image = "immersiverailroading:vtgui/gauge_throttle/spice.png"
         element:
             # text
-            x = 2.5
-            y = 32
+            x = 2
+            y = 37
             text =
                 value = Throttle
                 height = 4
