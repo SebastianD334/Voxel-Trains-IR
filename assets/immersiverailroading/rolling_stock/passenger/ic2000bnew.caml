@@ -3,6 +3,7 @@ works = "Schindler Waggon"
 modeler = "SebastianD334"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/ic2000bnew/ic2000bnew.obj"
+sound_dampening_percentage = 0.45
 properties =
 	max_speed_kmh = 200
 	weight_kg = 45000
