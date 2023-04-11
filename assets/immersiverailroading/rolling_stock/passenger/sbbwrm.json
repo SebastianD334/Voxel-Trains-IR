@@ -6,7 +6,7 @@
 	"model": "immersiverailroading:models/rolling_stock/passenger/sbbwrm/sbbwrm.obj",
 	"properties": {
 		"max_speed_kmh": 200,
-		"weight_kg": 35000,
+		"weight_kg": 48000,
 		"interior_light_level": 0.45
 	},
 	"passenger": {
