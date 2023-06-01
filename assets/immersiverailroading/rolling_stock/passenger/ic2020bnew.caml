@@ -1,0 +1,64 @@
+name = "SBB IC 2020 B"
+works = "Schindler Waggon"
+modeler = "SebastianD334"
+pack = "Voxel Trains"
+model = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/ic2020bnew.obj"
+sound_dampening_percentage = 0.45
+properties =
+	max_speed_kmh = 200
+	weight_kg = 45000
+	interior_light_level = 0.55
+passenger =
+	slots = 126
+	center_x = 0
+	center_y = 2.75
+	length = 13.4
+	width = 1.9
+trucks =
+	front = 10.09375
+	rear = -10.09375
+couplers =
+	front_offset = -0.1875
+	rear_offset = -0.1875
+	front_slack = 0
+	rear_slack = 0
+animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/d1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d3"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/d3.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d4"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/d4.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
