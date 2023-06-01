@@ -32,3 +32,7 @@ sounds =
 	idle = "sounds/sbb/re460.ogg"
 	track_wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/re460.caml"
+animations:
+	control_group = "controls1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/controls1.anim"
+	mode = "value"
