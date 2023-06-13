@@ -4,6 +4,7 @@ works = "SLM, ABB/ADtranz"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/re460new/re460new.obj"
+sound_dampening_percentage = 0.45
 properties =
 	fuel_efficiency_% = 95
 	fuel_capacity_l = 4000
@@ -33,6 +34,38 @@ sounds =
 	track_wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/re460.caml"
 animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/d1.anim"
+	mode = "VALUE"
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/d2.anim"
+	mode = "VALUE"
+animations:
+	control_group = "d3"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/d3.anim"
+	mode = "VALUE"
+animations:
+	control_group = "d4"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/d4.anim"
+	mode = "VALUE"
+animations:
 	control_group = "controls1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/controls1.anim"
-	mode = "value"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/controls1close.anim"
+	mode = "PLAY_FORWARD"
+	frames_per_tick = 1
+animations:
+	control_group = "controls1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/controls1open.anim"
+	mode = "PLAY_REVERSE"
+	frames_per_tick = 1
+animations:
+	control_group = "controls2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/controls2close.anim"
+	mode = "PLAY_FORWARD"
+	frames_per_tick = 1
+animations:
+	control_group = "controls2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/controls2open.anim"
+	mode = "PLAY_REVERSE"
+	frames_per_tick = 1
