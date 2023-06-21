@@ -33,11 +33,22 @@
 	},
 	"couplers": {
 		"front_offset": -0,
-		"rear_offset": -0
+		"rear_offset": -0,
+		"front_slack": 0,
+		"rear_slack": 0
 	},
 	"sounds":{
 		"horn": "sounds/vosslohg400bhorn.ogg"
 	},
+	"animations": [
+        {
+            "readout": "throttle",
+            "animatrix": "immersiverailroading:models/rolling_stock/locomotives/am843sbbcargo/fans.anim",
+            "offset": 0,
+            "mode": "loop_speed",
+            "frames_per_tick": 10.0
+        }
+    ],
 	"lights": {
 		"HEADLIGHT_1": {
 			"texture": "immersiverailroading:textures/no_flare.png"
