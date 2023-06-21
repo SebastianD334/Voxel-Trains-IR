@@ -30,7 +30,6 @@ couplers =
 	rear_slack = 0
 sounds =
 	horn = "sounds/re460horn.ogg"
-	idle = "sounds/sbb/eem923electric.ogg"
 	track_wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/eem923.caml"
 lights =
