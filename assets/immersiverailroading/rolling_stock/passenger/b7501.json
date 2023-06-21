@@ -27,6 +27,6 @@
 		"front_slack": 0,
 		"rear_slack": 0
 	},
-	 "overlay": "immersiverailroading:vtgui/ui/s.caml"
+	 "overlay": "immersiverailroading:vtgui/ui/passenger_speedometer.caml"
 }
 

@@ -22,4 +22,4 @@ couplers =
 	rear_offset = -0.03125
 	front_slack = 0
 	rear_slack = 0
-overlay = "immersiverailroading:vtgui/ui/s.caml"
+overlay = "immersiverailroading:vtgui/ui/passenger_speedometer.caml"
