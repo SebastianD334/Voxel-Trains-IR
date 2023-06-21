@@ -4,6 +4,7 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/tagnppssbbcargo/tagnppssbbcargo.obj",
+	"show_current_load_only": true,
 	"tex_variants": {
 		"Grain": "g",
 		"Cacao": "c",
@@ -31,7 +32,8 @@
 	},
 	"couplers": {
 		"front_offset": 0,
-		"rear_offset": 0
-	},
-		"show_current_load_only": true
+		"rear_offset": 0,
+		"front_slack": 0,
+		"rear_slack": 0
+	}
 }
