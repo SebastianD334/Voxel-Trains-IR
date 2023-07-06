@@ -252,7 +252,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 20
+                    value = 140
                     height = 4
                 rotate =
                     x = 0
