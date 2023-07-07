@@ -1,6 +1,6 @@
 name = "SBB IC2000 B"
 works = "Schindler Waggon"
-modeler = "SebastianD334"
+modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/ic2000bnew/ic2000bnew.obj"
 sound_dampening_percentage = 0.35

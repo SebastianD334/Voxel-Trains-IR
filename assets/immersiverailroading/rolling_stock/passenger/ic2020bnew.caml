@@ -1,6 +1,6 @@
 name = "SBB IC 2020 B"
 works = "Schindler Waggon"
-modeler = "SebastianD334"
+modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/ic2020bnew.obj"
 sound_dampening_percentage = 0.35
