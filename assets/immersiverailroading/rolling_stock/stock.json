@@ -1,11 +1,9 @@
 {
-	/*
-	Order:
-	DE, US, AU, CZ, H, PT, CH, NL, FR, DK, A, Misc
-	loco, cab car, multiple unit, tram
-	if cab car and loco belong together put them together
-	otherwise, add the everything in the order of the numbers
-	*/
+	// Order:
+	// DE, US, CZ, H, PT, CH, NL, FR, DK, A, Misc
+	// loco, cab car, multiple unit, tram
+	// if cab car and loco belong together put them together
+	// otherwise, add the everything in the order of the numbers
 
 	"locomotives": [
 		
@@ -41,14 +39,11 @@
 		"fef-1",
 		"gg1",
 		
-		//---------Australia-------------------------------------- 
-		/*"siemensnexasfront", */
-		
 		//---------Czech Republic--------------------------------- 
 		"cd810_b", 
 		"cd810_r", 
 
-		//---------Hungary--------------------------------- 
+		//---------Hungary---------------------------------------- 
 		"traxx2mav",
 		
 		//---------Portugal--------------------------------------- 
@@ -73,6 +68,7 @@
 		"bt16511sbb", 
 		"at1514", "bt4514", 
 		"icbt", "icbtmod", 
+		"ic2020btnew", 
 		"ic2000bt", 
 		"ic2020bt", 
 		"am843sbbcargo", "am843sbb", "am843sbbinfra", "am843bls", "am843sersa", 
@@ -114,7 +110,7 @@
 		"traktor", 
 		
 		//---------Miscellaneous---------------------------------- 
-		"buffer", "bufferzh", "bufferns", "buffer_ip_metal"
+		"buffer", "bufferns", "buffer_ip_metal"
 	],
 
 	"passenger": [
@@ -133,12 +129,9 @@
 		"upp5483",
 		"upp7015",
 		
-		//---------Australia-------------------------------------- 
-		/*"siemensnexaswagon", */
-		
 		//---------Czech Republic--------------------------------- 
 
-		//---------Hungary--------------------------------- 
+		//---------Hungary---------------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		"cp481",
@@ -200,8 +193,6 @@
 		"gondola", 
 		"wellcar_53",
 		
-		//---------Australia-------------------------------------- 
-		
 		//---------Czech Republic--------------------------------- 
 
 		//---------Hungary--------------------------------- 
@@ -223,7 +214,7 @@
 		"franz", 
 		
 		//---------Miscellaneous---------------------------------- 
-		"bufferzhextension" 
+		"bufferzh", "bufferzhextension" 
 	],
 
     "tank": [
@@ -232,11 +223,9 @@
     	
     	//---------USA-------------------------------------------- 
 		
-		//---------Australia-------------------------------------- 
-		
 		//---------Czech Republic--------------------------------- 
 
-		//---------Hungary--------------------------------- 
+		//---------Hungary---------------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
@@ -256,17 +245,17 @@
     	//---------Germany---------------------------------------- 
     	
     	//---------USA-------------------------------------------- 
-	"20-c_tender",
+		"20-c_tender",
     	"centipede", 
-	"24-gte",
-	"upp809_old",
+		"24-gte",
+		"upp809_old",
     	"upp809", "upp814"
     	
     	//---------Australia-------------------------------------- 
 		
 		//---------Czech Republic--------------------------------- 
 
-		//---------Hungary--------------------------------- 
+		//---------Hungary---------------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
@@ -292,7 +281,7 @@
 		
 		//---------Czech Republic--------------------------------- 
 
-		//---------Hungary--------------------------------- 
+		//---------Hungary---------------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		
