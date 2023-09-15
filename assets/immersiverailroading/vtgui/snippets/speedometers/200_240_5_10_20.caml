@@ -669,7 +669,7 @@ element:
             x = 60
             y = 70
             text =
-                value = km/h
+                value = stat.units_speed
                 height = 8
         element:
             # speed readout

@@ -1,8 +1,9 @@
 element:
+    screen_x = CENTER
+    screen_y = TOP
+
     x = -40
     y = 5
-    centered =
-        x = True
     image = "immersiverailroading:vtgui/buttons/button_wide.png"
     element:
         # spice

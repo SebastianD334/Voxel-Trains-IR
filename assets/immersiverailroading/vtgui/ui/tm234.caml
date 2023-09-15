@@ -1,5 +1,7 @@
 element:
     # buttons
+    screen_x = LEFT
+    screen_y = BOTTOM
     x = 5
     y = -5
     element:
@@ -24,6 +26,8 @@ element:
         import: immersiverailroading:vtgui/snippets/buttons/cab.caml
 element:
     #gauges
+    screen_x = RIGHT
+    screen_y = BOTTOM
     x = -5
     y = -5
     element:
