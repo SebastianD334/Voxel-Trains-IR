@@ -1,0 +1,63 @@
+element:
+    # buttons
+    x = 5
+    y = -5
+    element:
+        # engine
+        x = 0
+        y = -20
+        import: immersiverailroading:vtgui/snippets/buttons/engine.caml
+    element:
+        # high beam
+        x = 0
+        y = -45
+        import: immersiverailroading:vtgui/snippets/buttons/hb.caml
+    element:
+        # cab lights
+        x = 0
+        y = -70
+        import: immersiverailroading:vtgui/snippets/buttons/cab.caml
+    element:
+        # interior lights
+        x = 0
+        y = -95
+        import: immersiverailroading:vtgui/snippets/buttons/il.caml
+element:
+    #gauges
+    x = -5
+    y = -5
+    element:
+        # speedometer
+        x = -220
+        y = 0
+        import: immersiverailroading:vtgui/snippets/speedometers/100_120_5_10_20.caml
+    element:
+        #reverser
+        x = -95
+        y = -55
+        import: immersiverailroading:vtgui/snippets/reverser.caml
+    element:
+        #throttle gauge
+        x = -95
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_throttle.caml
+    element:
+        #independent brake
+        x = -70
+        y = -45
+        import: immersiverailroading:vtgui/snippets/brake_independent.caml
+    element:
+        #train brake
+        x = -70
+        y = 0
+        import: immersiverailroading:vtgui/snippets/brake_train.caml
+    element:
+        # temperature gauge
+        x = -45
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_temperature.caml
+    element:
+        # diesel gauge
+        x = -20
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_diesel.caml
