@@ -3,7 +3,7 @@
 	// DE, US, CZ, H, PT, CH, NL, FR, DK, A, Misc
 	// loco, cab car, multiple unit, tram
 	// if cab car and loco belong together put them together
-	// otherwise, add the everything in the order of the numbers
+	// otherwise, add everything in the order of the numbers
 
 	"locomotives": [
 		
@@ -16,6 +16,7 @@
 		"v320", "wiebe", 
 		"kof", 
 		"br401",
+		"br4077new", "br4075new", 
 		"br4070", "br4075", "br4070g", "br4075g", 
 		"br481",
 		"br484a", "br484b",
@@ -120,6 +121,7 @@
 		
 		//---------Germany---------------------------------------- 
 		"br802", "br804", 
+		"br4076new", 
 		"br4071", "br4072", "br4073", "br4078", "br4077", "br4076", 
 		"br481wagon",
 		"bnrz451", 
@@ -199,7 +201,7 @@
 		
 		//---------Czech Republic--------------------------------- 
 
-		//---------Hungary--------------------------------- 
+		//---------Hungary---------------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		"cp_ekklo_40s",
