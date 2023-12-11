@@ -3,7 +3,7 @@
 	// DE, US, CZ, H, PT, CH, NL, FR, DK, A, Misc
 	// loco, cab car, multiple unit, tram
 	// if cab car and loco belong together put them together
-	// otherwise, add the everything in the order of the numbers
+	// otherwise, add everything in the order of the numbers
 
 	"locomotives": [
 		
@@ -16,6 +16,7 @@
 		"v320", "wiebe", 
 		"kof", 
 		"br401",
+		"br4077new", "br4075new", 
 		"br4070", "br4075", "br4070g", "br4075g", 
 		"br481",
 		"br484a", "br484b",
@@ -57,8 +58,9 @@
 		"tm234crane", 
 		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls", 
 		"traxx2sbbcargoac", "traxx2sbbcargoms",
+		"re450new", 
 		"re450", "btdpzplus", 
-		"re460new", 
+		"re460new", "btdpzplusnew", 
 		"re460", 
 		"re465", 
 		"bt17500", 
@@ -80,6 +82,7 @@
 		"traverso_1", "traverso_4", "traverso_5", "traverso_8", 
 		"gtw526-7_abt1", "gtw526-7_re3", 
 		"rhb_be310", "rhb_at318", 
+		"mgb_hge_4-4_ii", 
 		"tram20001front", "tram20001bkfront", "tram20002front", "tram20002pony", "tram20003front", "tram20003pony", 
 		"cobra1", 
 		"vbg1", 
@@ -90,6 +93,8 @@
 		//---------Netherlands------------------------------------ 
 		"sltmabk", "sltmb1", "sltmb2", "sltmb3",
 		"sngmbk1", "sngmbz", 
+		"snga1", "sngb2", "sngc1",
+		"virmmmbvk1-2new", 
 		"virmmmbvk1-2", "virmmmbv7", 
 		"dd-irmmbvk1-2", 
 		"icmmmbfk", "icmmsbk", "icmmsbknew", "icmmmb", 
@@ -117,6 +122,7 @@
 		
 		//---------Germany---------------------------------------- 
 		"br802", "br804", 
+		"br4076new", 
 		"br4071", "br4072", "br4073", "br4078", "br4077", "br4076", 
 		"br481wagon",
 		"bnrz451", 
@@ -140,6 +146,7 @@
 		"sorefameregional1", "sorefameregional2", 
 		
 		//---------Switzerland------------------------------------ 
+		"abdpzplusnew", 
 		"bdpzndw", "abdpzplus", 
 		"bhvz", "abhvz", 
 		"b26500", 
@@ -149,8 +156,8 @@
 		"ab2511sbb", "b3511sbb", "b4511sbb", "ab5511sbb", 
 		"b2514", "b3514", 
 		"ewivas", "ewiva", "sbbwrm", "ewivb", "ewivasmod", "ewivamod", "ewivbmod", 
-		"ecapmpanonew", 
-		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano",  
+		"ecapmnew", "ecapmpanonew", 
+		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano", 
 		"ic2000bnew", 
 		"ic2020bnew", 
 		"ic2000ad", "ic2000a", "ic2000wrb", "ic2000b", 
@@ -196,7 +203,7 @@
 		
 		//---------Czech Republic--------------------------------- 
 
-		//---------Hungary--------------------------------- 
+		//---------Hungary---------------------------------------- 
 		
 		//---------Portugal--------------------------------------- 
 		"cp_ekklo_40s",

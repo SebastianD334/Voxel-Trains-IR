@@ -32,4 +32,4 @@ couplers =
 sounds =
 	horn = "sounds/ns/icmmhorn.ogg"
 	idle = "sounds/sound/drive.ogg"
-overlay = "immersiverailroading:vtgui/ui/flirtcab.caml"
+overlay = "immersiverailroading:vtgui/ui/icmcab.caml"

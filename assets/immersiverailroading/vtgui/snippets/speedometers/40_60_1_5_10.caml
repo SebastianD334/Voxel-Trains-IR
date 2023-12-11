@@ -220,7 +220,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 120
+                    value = 60
                     height = 4
                 rotate =
                     x = 0
@@ -717,7 +717,7 @@ element:
             x = 60
             y = 70
             text =
-                value = km/h
+                value = stat.units_speed
                 height = 8
         element:
             # speed readout

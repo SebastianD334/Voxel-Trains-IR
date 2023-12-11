@@ -6,6 +6,7 @@ element:
             # forward
             x = 0
             y = 0
+            toggle = true
             hide = true
             control = REVERSERFORWARD
             image = "immersiverailroading:vtgui/reverser/reverserforward.png"
@@ -13,6 +14,7 @@ element:
             # not forward
             x = 0
             y = 0
+            toggle = true
             hide = true
             invert = true
             control = REVERSERFORWARD
@@ -21,6 +23,7 @@ element:
             # neutral
             x = 0
             y = 12
+            toggle = true
             hide = true
             control = REVERSERNEUTRAL
             image = "immersiverailroading:vtgui/reverser/reverserneutral.png"
@@ -28,6 +31,7 @@ element:
             # not neutral
             x = 0
             y = 12
+            toggle = true
             hide = true
             invert = true
             control = REVERSERNEUTRAL
@@ -36,6 +40,7 @@ element:
             # backward
             x = 0
             y = 18
+            toggle = true
             hide = true
             control = REVERSERBACKWARD
             image = "immersiverailroading:vtgui/reverser/reverserbackward.png"
@@ -43,6 +48,7 @@ element:
             # not backward
             x = 0
             y = 18
+            toggle = true
             hide = true
             invert = true
             control = REVERSERBACKWARD

@@ -8,6 +8,7 @@ element:
             image = "immersiverailroading:vtgui/buttons/spice.png"
         element:
             # on
+            toggle = true
             x = 0
             y = 0
             hide = true
@@ -15,6 +16,7 @@ element:
             image = "immersiverailroading:vtgui/buttons/high_beam_on.png"
         element:
             # off
+            toggle = true
             x = 0
             y = 0
             hide = true

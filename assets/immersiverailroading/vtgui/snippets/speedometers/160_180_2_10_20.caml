@@ -1,0 +1,1064 @@
+element:
+        x = 0
+        y = -120
+        image = "immersiverailroading:vtgui/gauge_round/gauge.png"
+        element:
+            # pointer
+            x = 12
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/pointer.png"
+            rotate =
+                x = 48
+                y = 0.5
+                degrees = 240
+                offset = -45
+            readout = SPEED
+        element:
+            # marker 0
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = -45
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 0
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = 45
+        element:
+            # marker 10
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = -30
+        element:
+            # marker 20
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = -15
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 20
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = 15
+        element:
+            # marker 30
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 0
+        element:
+            # marker 40
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 15
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 40
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -15
+        element:
+            # marker 50
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 30
+        element:
+            # marker 60
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 45
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 60
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -45
+        element:
+            # marker 70
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 60
+        element:
+            # marker 80
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 75
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 80
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -75
+        element:
+            # marker 90
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 90
+        element:
+            # marker 100
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 105
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 100
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -105
+        element:
+            # marker 110
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 120
+        element:
+            # marker 120
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 135
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 120
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -135
+        element:
+            # marker 130
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 150
+        element:
+            # marker 140
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 165
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 140
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -165
+        element:
+            # marker 150
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 180
+        element:
+            # marker 160 limit
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker_limit.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 195
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 160
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -195
+        element:
+            # marker 170
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 210
+        element:
+            # marker 180
+            x = 2
+            y = 59
+            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            rotate =
+                x = 58
+                y = 1
+                degrees = 270
+                offset = 225
+            element:
+                #label
+                x = 12
+                y = -1
+                text =
+                    value = 180
+                    height = 4
+                rotate =
+                    x = 0
+                    y = 2
+                    degrees = 270
+                    offset = -225
+        element:
+            # marker 2
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -42
+        element:
+            # marker 4
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -39
+        element:
+            # marker 6
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -36
+        element:
+            # marker 8
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -33
+        element:
+            # marker 12
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -27
+        element:
+            # marker 14
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -24
+        element:
+            # marker 16
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -21
+        element:
+            # marker 18
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -18
+        element:
+            # marker 22
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -12
+        element:
+            # marker 24
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -9
+        element:
+            # marker 26
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -6
+        element:
+            # marker 28
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = -3
+        element:
+            # marker 32
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 3
+        element:
+            # marker 34
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 6
+        element:
+            # marker 36
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 9
+        element:
+            # marker 38
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 12
+        element:
+            # marker 42
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 18
+        element:
+            # marker 44
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 21
+        element:
+            # marker 46
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 24
+        element:
+            # marker 48
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 27
+        element:
+            # marker 52
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 33
+        element:
+            # marker 54
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 36
+        element:
+            # marker 56
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 39
+        element:
+            # marker 58
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 42
+        element:
+            # marker 62
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 48
+        element:
+            # marker 64
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 51
+        element:
+            # marker 66
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 54
+        element:
+            # marker 68
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 57
+        element:
+            # marker 72
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 63
+        element:
+            # marker 74
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 66
+        element:
+            # marker 76
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 69
+        element:
+            # marker 78
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 72
+        element:
+            # marker 82
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 78
+        element:
+            # marker 84
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 81
+        element:
+            # marker 86
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 84
+        element:
+            # marker 88
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 87
+        element:
+            # marker 92
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 93
+        element:
+            # marker 94
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 96
+        element:
+            # marker 96
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 99
+        element:
+            # marker 98
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 102
+        element:
+            # marker 102
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 108
+        element:
+            # marker 104
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 111
+        element:
+            # marker 106
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 114
+        element:
+            # marker 108
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 117
+        element:
+            # marker 112
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 123
+        element:
+            # marker 114
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 126
+        element:
+            # marker 116
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 129
+        element:
+            # marker 118
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 132
+        element:
+            # marker 122
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 138
+        element:
+            # marker 124
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 141
+        element:
+            # marker 126
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 144
+        element:
+            # marker 128
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 147
+        element:
+            # marker 132
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 153
+        element:
+            # marker 134
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 156
+        element:
+            # marker 136
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 159
+        element:
+            # marker 138
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 162
+        element:
+            # marker 142
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 168
+        element:
+            # marker 144
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 171
+        element:
+            # marker 146
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 174
+        element:
+            # marker 148
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 177
+        element:
+            # marker 152
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 183
+        element:
+            # marker 154
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 186
+        element:
+            # marker 156
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 189
+        element:
+            # marker 158
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 192
+        element:
+            # marker 162
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 198
+        element:
+            # marker 164
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 201
+        element:
+            # marker 166
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 204
+        element:
+            # marker 168
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 207
+        element:
+            # marker 172
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 213
+        element:
+            # marker 174
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 216
+        element:
+            # marker 176
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 219
+        element:
+            # marker 178
+            x = 2
+            y = 59.5
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
+            rotate =
+                x = 58
+                y = 0.5
+                degrees = 270
+                offset = 222
+        element:
+            # inner circle
+            x = 22
+            y = 22
+            image = "immersiverailroading:vtgui/gauge_round/inner_circle.png"
+        element:
+            # label
+            x = 60
+            y = 70
+            text =
+                value = stat.units_speed
+                height = 8
+        element:
+            # speed readout
+            x = 60
+            y = 55
+            text =
+                value = stat.speed
+                height = 10

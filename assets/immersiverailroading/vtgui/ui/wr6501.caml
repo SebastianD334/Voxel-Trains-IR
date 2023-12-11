@@ -1,5 +1,7 @@
 element:
     # buttons
+    screen_x = LEFT
+    screen_y = BOTTOM
     x = 5
     y = -5
     element:
