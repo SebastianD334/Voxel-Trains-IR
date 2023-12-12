@@ -36,6 +36,6 @@
 		"horn": "sounds/ngtbell.ogg",
 		"idle": "sounds/sfrontdrive.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/l60.json"
+	 "overlay": "immersiverailroading:vtgui/ui/tram2000.caml"
 }
 
