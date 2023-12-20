@@ -2,36 +2,29 @@
 	"name": "UPP Auxiliary Tender #809",
 	"model": "immersiverailroading:models/rolling_stock/tender/upp809/upp809.obj",
 	"modeler": "Bossk",
-	"tex_variants": {
-		"F1R2": "f1r2",
-		"F2R1": "f2r1",
-		"F2R2": "f2r2",
-		"F3R1": "f3r1",
-		"F3R2": "f3r2"
-	},
 	"properties": {
 		"weight_kg": 155220
 	},
 	"passenger": {
 		"slots": 4,
-		"center_x": 0,
+		"center_x": -0.1,
 		"center_y": 4.3,
-		"length": 5.3,
-		"width": 2.1
+		"length": 6.1,
+		"width": 2.2
 	},
 	"tank": {
 		"capacity_l":  91000
 	},
 	"tender": {
-		"slots": 0,
-		"width": 0
+		"slots": 1,
+		"width": 1
 	},
 	"trucks": {
 		"front": 3.5,
 		"rear": -3.5
 	},
 	"couplers": {
-        	"front_offset": -0.0625,
-        	"rear_offset": -0.0625
+        	"front_offset": -0.125,
+        	"rear_offset": -0.125
 	}
 }
