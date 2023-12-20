@@ -34,6 +34,11 @@ element:
         x = 0
         y = -145
         import: immersiverailroading:vtgui/snippets/buttons/machine.caml
+    element:
+        # panto 1
+        x = 0
+        y = -170
+        import: immersiverailroading:vtgui/snippets/buttons/panto1.caml
 element:
     #gauges
     screen_x = RIGHT
@@ -44,7 +49,7 @@ element:
         # speedometer
         x = -220
         y = 0
-        import: immersiverailroading:vtgui/snippets/speedometers/160_220_5_10_20.caml
+        import: immersiverailroading:vtgui/speedometers/160_220_5_10_20.caml
     element:
         #reverser
         x = -95
