@@ -1,0 +1,43 @@
+element:
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/button.png"
+        element:
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/buttons/spice.png"
+        element:
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/buttons/number_1.png"
+        element:
+            # on
+            x = 0
+            y = 0
+            toggle = true
+            hide = true
+            control = "panto1ui"
+            image = "immersiverailroading:vtgui/buttons/cab_on.png"
+            element:
+                # slide bar
+                x = 25
+                y = 0
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # slider
+                    x = 0
+                    y = 0
+                    image = "immersiverailroading:vtgui/buttons/number_1.png"
+                    control = panto1
+                    translate =
+                        x = 78
+                        y = 0
+        element:
+            # off
+            x = 0
+            y = 0
+            toggle = true
+            hide = true
+            invert = true
+            control = "panto1ui"
+            image = "immersiverailroading:vtgui/buttons/cab_off.png"
