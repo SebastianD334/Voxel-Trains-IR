@@ -36,6 +36,9 @@ couplers =
 sounds =
 	horn = "sounds/vosslohg400bhorn.ogg"
 overlay = "immersiverailroading:vtgui/ui/am843.caml"
+particles =
+	smoke =
+		texture = "immersiverailroading:textures/voxel_smoke.png"
 animations:
 	readout = "throttle"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/am843sbbcargo/fans.anim"
