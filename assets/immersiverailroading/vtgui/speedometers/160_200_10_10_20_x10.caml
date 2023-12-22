@@ -60,7 +60,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 20
+                    value = 2
                     height = 4
                 rotate =
                     x = 0
@@ -92,7 +92,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 40
+                    value = 4
                     height = 4
                 rotate =
                     x = 0
@@ -124,7 +124,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 60
+                    value = 6
                     height = 4
                 rotate =
                     x = 0
@@ -156,7 +156,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 80
+                    value = 8
                     height = 4
                 rotate =
                     x = 0
@@ -188,7 +188,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 100
+                    value = 10
                     height = 4
                 rotate =
                     x = 0
@@ -220,7 +220,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 120
+                    value = 12
                     height = 4
                 rotate =
                     x = 0
@@ -252,7 +252,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 140
+                    value = 14
                     height = 4
                 rotate =
                     x = 0
@@ -284,7 +284,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 160
+                    value = 16
                     height = 4
                 rotate =
                     x = 0
@@ -316,7 +316,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 180
+                    value = 18
                     height = 4
                 rotate =
                     x = 0
@@ -348,7 +348,7 @@ element:
                 x = 12
                 y = -1
                 text =
-                    value = 200
+                    value = 20
                     height = 4
                 rotate =
                     x = 0
@@ -360,6 +360,13 @@ element:
             x = 22
             y = 22
             image = "immersiverailroading:vtgui/gauge_round/inner_circle.png"
+        element:
+            # x10
+            x = 60
+            y = 106
+            text =
+                value = x 10
+                height = 4
         element:
             # label
             x = 60
