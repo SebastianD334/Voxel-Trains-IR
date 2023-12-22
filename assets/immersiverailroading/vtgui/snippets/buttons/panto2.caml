@@ -9,14 +9,14 @@ element:
         element:
             x = 0
             y = 0
-            image = "immersiverailroading:vtgui/buttons/number_1.png"
+            image = "immersiverailroading:vtgui/buttons/number_2.png"
         element:
             # on
             x = 0
             y = 0
             toggle = true
             hide = true
-            control = "panto1ui"
+            control = "panto2ui"
             image = "immersiverailroading:vtgui/buttons/panto_on.png"
             element:
                 # slider background
@@ -28,7 +28,7 @@ element:
                     x = 0
                     y = 50
                     image = "immersiverailroading:vtgui/buttons/slider.png"
-                    control = panto1
+                    control = panto2
                     translate =
                         x = 0
                         y = -50
@@ -39,5 +39,5 @@ element:
             toggle = true
             hide = true
             invert = true
-            control = "panto1ui"
+            control = "panto2ui"
             image = "immersiverailroading:vtgui/buttons/panto_off.png"
