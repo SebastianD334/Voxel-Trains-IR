@@ -8,14 +8,23 @@ element:
             y = 0
             image = "immersiverailroading:vtgui/gauge_brake/markers.png"
         element:
-            # diesel
+            # desired
+            x = 1
+            y = 39
+            translate =
+                x = 0
+                y = -39
+            image = "immersiverailroading:vtgui/gauge_brake/pointer_white.png"
+            readout = TRAIN_BRAKE
+        element:
+            # brake pressure
             x = 1
             y = 39
             translate =
                 x = 0
                 y = -39
             image = "immersiverailroading:vtgui/gauge_brake/pointer.png"
-            readout = TRAIN_BRAKE
+            readout = BRAKE_PRESSURE
         element:
             # spice
             x = 0

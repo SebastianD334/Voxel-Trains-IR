@@ -8,7 +8,7 @@ element:
             y = 0
             image = "immersiverailroading:vtgui/gauge_brake/markers.png"
         element:
-            # diesel
+            # pointer
             x = 1
             y = 39
             translate =

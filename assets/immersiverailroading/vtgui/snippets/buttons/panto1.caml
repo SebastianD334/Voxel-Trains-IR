@@ -17,21 +17,21 @@ element:
             toggle = true
             hide = true
             control = "panto1ui"
-            image = "immersiverailroading:vtgui/buttons/cab_on.png"
+            image = "immersiverailroading:vtgui/buttons/panto_on.png"
             element:
-                # slide bar
+                # slider background
                 x = 25
-                y = 0
-                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                y = -40
+                image = "immersiverailroading:vtgui/buttons/slider_background.png"
                 element:
                     # slider
                     x = 0
-                    y = 0
-                    image = "immersiverailroading:vtgui/buttons/number_1.png"
+                    y = 50
+                    image = "immersiverailroading:vtgui/buttons/slider.png"
                     control = panto1
                     translate =
-                        x = 78
-                        y = 0
+                        x = 0
+                        y = -50
         element:
             # off
             x = 0
@@ -40,4 +40,4 @@ element:
             hide = true
             invert = true
             control = "panto1ui"
-            image = "immersiverailroading:vtgui/buttons/cab_off.png"
+            image = "immersiverailroading:vtgui/buttons/panto_off.png"
