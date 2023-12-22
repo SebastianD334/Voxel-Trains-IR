@@ -4,7 +4,14 @@
 	"works": "American Locomotive Company",
 	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/gtel_3rd_a/gtel_3rd_a.obj",
-	"darken_model": "0",
+	"tex_variants": {
+		"#1": "1",
+		"#6": "6",
+		"#7": "7",
+		"#8": "8",
+		"#17": "17",
+		"#30": "30"
+	},
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 2400,
@@ -14,10 +21,10 @@
 		"weight_kg": 100000
 	},
 	"passenger": {
-		"slots": 2,
-		"center_x": -2,
-		"center_y": 2.875,
-		"length": 9.2,
+		"slots": 3,
+		"center_x": 7.3125,
+		"center_y": 2.375,
+		"length": 0.9375,
 		"width": 2.25
 	},
 	"trucks": {
