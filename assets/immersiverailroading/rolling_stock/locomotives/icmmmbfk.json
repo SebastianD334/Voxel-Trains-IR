@@ -5,15 +5,27 @@
 	"pack": "Voxel Trains",
 	"modeler": "Foxy",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/icmmmbfk/icmmmbfk.obj",
+	"tex_variants": {
+		"Open Doors Left": "dl",
+		"Open Doors Right": "dr",
+		"Front Pantograph": "fp",
+		"Front Pantograph Open Doors Left": "fpdl",
+		"Front Pantograph Open Doors Right": "fpdr",
+		"Both Pantographs": "p",
+		"Both Pantographs Open Doors Left": "pdl",
+		"Both Pantographs Open Doors Right": "pdr",
+		"No Pantographs": "np",
+		"No Pantographs Open Doors Left": "npdl",
+		"No Pantographs Open Doors Right": "npdr"
+	},
+	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
 		"fuel_capacity_l": 4000,
 		"horsepower": 1690,
 		"tractive_effort_lbf": 26977,
 		"max_speed_kmh": 160,
-		"weight_kg": 62000,
-		"linear_brake_control": true,
-		"interior_light_level": 0.6
+		"weight_kg": 62000
 	},
 	"passenger": {
 		"slots": 79,
@@ -32,9 +44,8 @@
 		"rear_offset": -0.0625
 	},
 	"sounds": {
-		"horn": "sounds/ns/nsicmmhorn.ogg",
+		"horn": "sounds/nsicmmhorn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
-	},
-	 "overlay": "immersiverailroading:gui/vtgui/l160h1c1p.json"
+	}
 }

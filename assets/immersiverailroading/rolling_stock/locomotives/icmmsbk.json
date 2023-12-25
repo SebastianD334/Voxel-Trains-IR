@@ -35,7 +35,7 @@
 		"rear_offset": -0.0625
 	},
 	"sounds": {
-		"horn": "sounds/ns/nsicmmhorn.ogg",
+		"horn": "sounds/nsicmmhorn.ogg",
 		"idle": "sounds/stille.ogg"
 	}
 }
