@@ -12,7 +12,8 @@
 		"horsepower": 1000,
 		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 200,
-		"weight_kg": 35000
+		"weight_kg": 35000,
+		"cab_car": true
 	},
 	"passenger": {
 		"slots": 64,
