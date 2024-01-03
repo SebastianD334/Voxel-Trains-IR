@@ -39,5 +39,5 @@
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/l320h1c1ps.json"
+	 "overlay": "immersiverailroading:vtgui/ui/407cab.caml"
 }
