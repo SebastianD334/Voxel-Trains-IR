@@ -78,3 +78,12 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/vectronsbbci_olten/w4.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_3 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_4 =
+		texture = immersiverailroading:textures/no_flare.png
