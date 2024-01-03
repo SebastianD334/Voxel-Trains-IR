@@ -43,5 +43,5 @@
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/c200h1c1p.json"
+	"overlay": "immersiverailroading:vtgui/ui/re460cab.caml"
 }
