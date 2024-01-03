@@ -11,7 +11,7 @@
 		"fuel_capacity_l": 4000,
 		"horsepower": 8180,
 		"tractive_effort_lbf": 67443,
-		"max_speed_kmh": 200,
+		"max_speed_kmh": 230,
 		"weight_kg": 84000,
 		"linear_brake_control": true,
 		"interior_light_level": 0.6
@@ -38,5 +38,5 @@
 		"idle": "sounds/sbb/re460.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
-	 "overlay": "immersiverailroading:vtgui/ui/re460.caml"
+	"overlay": "immersiverailroading:vtgui/ui/re460.caml"
 }
