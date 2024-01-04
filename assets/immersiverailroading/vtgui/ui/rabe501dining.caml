@@ -1,0 +1,328 @@
+element:
+    # buttons
+    screen_x = LEFT
+    screen_y = BOTTOM
+    x = 5
+    y = -5
+    element:
+        # food
+        x = 0
+        y = -20
+        image = "immersiverailroading:vtgui/buttons/button.png"
+        element:
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/buttons/spice.png"
+        element:
+            # on
+            x = 0
+            y = 0
+            hide = True
+            control = "food"
+            image = "immersiverailroading:vtgui/buttons/food_on.png"
+            element:
+                # arrow
+                x = 22
+                y = -120
+                image = "immersiverailroading:vtgui/specific/wr6501/layout_arrow.png"
+            element:
+                # background
+                x = 30
+                y = -120
+                image = "immersiverailroading:vtgui/specific/wr6501/layout_background.png"
+                element:
+                    # spice
+                    x = 0
+                    y = 0
+                    image = "immersiverailroading:vtgui/specific/wr6501/layout_spice.png"
+                element:
+                    # layout
+                    x = 4
+                    y = 4
+                    image = "immersiverailroading:vtgui/specific/wr6501/layout.png"
+                element:
+                    # 5-1
+                    x = 8
+                    y = 107
+                    element:
+                        # off
+                        x = 0
+                        y = 0
+                        hide = True
+                        invert = True
+                        control = "51"
+                        image = "immersiverailroading:vtgui/buttons/plate_off.png"
+                    element:
+                        # on
+                        x = 0
+                        y = 0
+                        hide = True
+                        control = "51"
+                        image = "immersiverailroading:vtgui/buttons/plate_on.png"
+                        element:
+                            # arrow
+                            x = 54
+                            y = -112
+                            image = "immersiverailroading:vtgui/specific/wr6501/arrow_5.png"
+                            element:
+                                # choc button
+                                x = 8
+                                y = 0
+                                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                                element:
+                                    # on
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Choc Cake"
+                                        height = 10
+                                    color =
+                                        0 = "0xFFF0F0F0"
+                                    hide = True
+                                    control = "51choc"
+                                element:
+                                    # off
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Choc Cake"
+                                        height = 10
+                                    color =
+                                        0 = "0xFF505050"
+                                    hide = True
+                                    invert = True
+                                    control = "51choc"
+                                element:
+                                    x = 0
+                                    y = 0
+                                    control = "51choc"
+                                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+                            element:
+                                # salad button
+                                x = 8
+                                y = 25
+                                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                                element:
+                                    # on
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Salad"
+                                        height = 10
+                                    color =
+                                        0 = "0xFFF0F0F0"
+                                    hide = True
+                                    control = "51salad"
+                                element:
+                                    # off
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Salad"
+                                        height = 10
+                                    color =
+                                        0 = "0xFF505050"
+                                    hide = True
+                                    invert = True
+                                    control = "51salad"
+                                element:
+                                    x = 0
+                                    y = 0
+                                    control = "51salad"
+                                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+                element:
+                    # 5-2
+                    x = 18
+                    y = 107
+                    element:
+                        # off
+                        x = 0
+                        y = 0
+                        hide = True
+                        invert = True
+                        control = "52"
+                        image = "immersiverailroading:vtgui/buttons/plate_off.png"
+                    element:
+                        # on
+                        x = 0
+                        y = 0
+                        hide = True
+                        control = "52"
+                        image = "immersiverailroading:vtgui/buttons/plate_on.png"
+                        element:
+                            # arrow
+                            x = 44
+                            y = -112
+                            image = "immersiverailroading:vtgui/specific/wr6501/arrow_5.png"
+                            element:
+                                # choc button
+                                x = 8
+                                y = 0
+                                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                                element:
+                                    # on
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Choc Cake"
+                                        height = 10
+                                    color =
+                                        0 = "0xFFF0F0F0"
+                                    hide = True
+                                    control = "52choc"
+                                element:
+                                    # off
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Choc Cake"
+                                        height = 10
+                                    color =
+                                        0 = "0xFF505050"
+                                    hide = True
+                                    invert = True
+                                    control = "52choc"
+                                element:
+                                    x = 0
+                                    y = 0
+                                    control = "52choc"
+                                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+                            element:
+                                # salad button
+                                x = 8
+                                y = 25
+                                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                                element:
+                                    # on
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Salad"
+                                        height = 10
+                                    color =
+                                        0 = "0xFFF0F0F0"
+                                    hide = True
+                                    control = "52salad"
+                                element:
+                                    # off
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Salad"
+                                        height = 10
+                                    color =
+                                        0 = "0xFF505050"
+                                    hide = True
+                                    invert = True
+                                    control = "52salad"
+                                element:
+                                    x = 0
+                                    y = 0
+                                    control = "52salad"
+                                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+                element:
+                    # 6-1
+                    x = 8
+                    y = 116
+                    element:
+                        # off
+                        x = 0
+                        y = 0
+                        hide = True
+                        invert = True
+                        control = "61"
+                        image = "immersiverailroading:vtgui/buttons/plate_off.png"
+                    element:
+                        # on
+                        x = 0
+                        y = 0
+                        hide = True
+                        control = "61"
+                        image = "immersiverailroading:vtgui/buttons/plate_on.png"
+                        element:
+                            # arrow
+                            x = 54
+                            y = -121
+                            image = "immersiverailroading:vtgui/specific/wr6501/arrow_6.png"
+                            element:
+                                # choc button
+                                x = 8
+                                y = 0
+                                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                                element:
+                                    # on
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Choc Cake"
+                                        height = 10
+                                    color =
+                                        0 = "0xFFF0F0F0"
+                                    hide = True
+                                    control = "61choc"
+                                element:
+                                    # off
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Choc Cake"
+                                        height = 10
+                                    color =
+                                        0 = "0xFF505050"
+                                    hide = True
+                                    invert = True
+                                    control = "61choc"
+                                element:
+                                    x = 0
+                                    y = 0
+                                    control = "61choc"
+                                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+                            element:
+                                # salad button
+                                x = 8
+                                y = 25
+                                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                                element:
+                                    # on
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Salad"
+                                        height = 10
+                                    color =
+                                        0 = "0xFFF0F0F0"
+                                    hide = True
+                                    control = "61salad"
+                                element:
+                                    # off
+                                    x = 40
+                                    y = 5
+                                    text =
+                                        value = "Salad"
+                                        height = 10
+                                    color =
+                                        0 = "0xFF505050"
+                                    hide = True
+                                    invert = True
+                                    control = "61salad"
+                                element:
+                                    x = 0
+                                    y = 0
+                                    control = "61salad"
+                                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+        element:
+            # off
+            x = 0
+            y = 0
+            hide = True
+            invert = True
+            control = "food"
+            image = "immersiverailroading:vtgui/buttons/food_off.png"
+    element:
+        # interior lights
+        x = 0
+        y = -45
+        import: immersiverailroading:vtgui/snippets/buttons/il.caml
+element:
+    # passenger speedometer
+    import: immersiverailroading:vtgui/snippets/passenger_speedometer.caml
