@@ -1,6 +1,6 @@
 era = diesel
-name = "NS VIRMm MBvK 1/2"
-works = "Siemens"
+name = "NS VIRMm mBvk 1/2"
+works = "Talbot/Bombardier"
 modeler = "Foxy Floofy, Sebastian"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/virmmmbvk1-2new/virmmmbvk1-2new.obj"
@@ -27,7 +27,7 @@ trucks =
 	rear = -9.40625
 couplers =
 	front_offset = -0.3125
-	rear_offset = -0.09375
+	rear_offset = -0.0625
 	front_slack = 0
 	rear_slack = 0
 sounds =
