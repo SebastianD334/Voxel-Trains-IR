@@ -1,0 +1,14 @@
+element:
+    # buttons
+    screen_x = LEFT
+    screen_y = BOTTOM
+    x = 5
+    y = -5
+    element:
+        # panto
+        x = 0
+        y = -20
+        import: immersiverailroading:vtgui/snippets/buttons/panto.caml
+element:
+    # passenger speedometer
+    import: immersiverailroading:vtgui/snippets/passenger_speedometer.caml
