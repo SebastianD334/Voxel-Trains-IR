@@ -33,7 +33,7 @@ sounds =
 	horn = "sounds/re460horn.ogg"
 	idle = "sounds/sbb/re460.ogg"
 	wheels = "sounds/sound/drive.ogg"
-overlay = "immersiverailroading:vtgui/ui/re460.caml"
+overlay = "immersiverailroading:vtgui/ui/re450.caml"
 animations:
 	control_group = "d1"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/re460new/d1.anim"

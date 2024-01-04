@@ -31,4 +31,4 @@ couplers =
 	rear_slack = 0
 sounds =
 	horn = "sounds/re460horn.ogg"
-overlay = "immersiverailroading:vtgui/ui/re460cab.caml"
+overlay = "immersiverailroading:vtgui/ui/btdpzplus.caml"
