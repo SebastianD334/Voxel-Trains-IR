@@ -31,4 +31,4 @@ couplers =
 sounds =
 	horn = "sounds/re460horn.ogg"
 	idle = "sounds/sbb/eem923electric.ogg"
-overlay = "immersiverailroading:vtgui/ui/501power.caml"
+overlay = "immersiverailroading:vtgui/ui/gtwpower.caml"
