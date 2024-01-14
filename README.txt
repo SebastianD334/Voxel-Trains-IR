@@ -4,11 +4,10 @@ You will need:
 - Immersive Railroading 		https://www.curseforge.com/minecraft/mc-mods/immersive-railroading
 - Universal Mod Core 			https://www.curseforge.com/minecraft/mc-mods/universal-mod-core
 - TrackAPI 				https://www.curseforge.com/minecraft/mc-mods/track-api
-- Immersive Engineering (optional)	https://www.curseforge.com/minecraft/mc-mods/immersive-engineering
 
 [1] Make sure you have Immersive Railroading and all dependencies installed
 [2] Copy this ZIP folder into your Minecraft resourcepack directory
-[3] Start the game and activate the Voxel Trains resource pack
+[3] Start the game and activate the Voxel Trains resource pack in the resource packs menu
 
 
 If you're having rendering problems on 1.12.2 (trains disappearing when looked at from certain angles)
@@ -19,5 +18,5 @@ Visit us on Discord: https://discord.gg/aVvtM6C
 
 LICENSE
 
-Copyright (c) 2022 Voxel Trains
+Copyright (c) 2019-2024 Voxel Trains
 All rights reserved
