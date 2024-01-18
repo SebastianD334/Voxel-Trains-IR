@@ -16,7 +16,7 @@ element:
             y = 0
             toggle = true
             hide = true
-            control = "panto2ui"
+            setting = "panto2ui"
             image = "immersiverailroading:vtgui/buttons/panto_on.png"
             element:
                 # slider background
@@ -39,5 +39,5 @@ element:
             toggle = true
             hide = true
             invert = true
-            control = "panto2ui"
+            setting = "panto2ui"
             image = "immersiverailroading:vtgui/buttons/panto_off.png"
