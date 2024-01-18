@@ -5,12 +5,12 @@ element:
     x = 5
     y = -5
     element:
-        # panto
+        # panto 1
         x = 0
         y = -20
         import: immersiverailroading:vtgui/snippets/buttons/panto1.caml
     element:
-        # panto
+        # panto 2
         x = 0
         y = -45
         import: immersiverailroading:vtgui/snippets/buttons/panto2.caml

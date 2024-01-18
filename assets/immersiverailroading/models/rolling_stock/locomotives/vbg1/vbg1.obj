@@ -6748,10 +6748,10 @@ f 3844/51/143 3843/51/143 3842/51/143
 f 3845/51/143 3843/51/143 3844/51/143
 f 3846/51/144 3847/51/144 3848/51/144
 f 3848/51/144 3847/51/144 3849/51/144
-# from vbg1-24-WIDGET_33_TL_1.9375_Y_CG_panto_LABEL_Pantograph.
+# from vbg1-24-WIDGET_33_TL_1.9375_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_33_TL_1.9375_Y_CG_panto_LABEL_Pantograph
+o WIDGET_33_TL_1.9375_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -7082,10 +7082,10 @@ f 4049/52/150 4048/52/150 4047/52/150
 f 4050/52/150 4048/52/150 4049/52/150
 f 4052/52/150 4051/52/150 4050/52/150
 f 4053/52/150 4051/52/150 4052/52/150
-# from vbg1-25-WIDGET_35_CG_panto_LABEL_Pantograph
+# from vbg1-25-WIDGET_35_CG_panto1_LABEL_Pantograph
 
 # group
-o WIDGET_35_CG_panto_LABEL_Pantograph
+o WIDGET_35_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -7220,10 +7220,10 @@ f 4118/53/156 4119/53/156 4120/53/156
 f 4120/53/156 4119/53/156 4121/53/156
 f 4122/53/156 4123/53/156 4124/53/156
 f 4124/53/156 4123/53/156 4125/53/156
-# from vbg1-26-WIDGET_32_TL_1.9375_Y_CG_panto_LABEL_Pantograph.
+# from vbg1-26-WIDGET_32_TL_1.9375_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_32_TL_1.9375_Y_CG_panto_LABEL_Pantograph
+o WIDGET_32_TL_1.9375_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -7824,10 +7824,10 @@ f 4473/54/162 4474/54/162 4475/54/162
 f 4475/54/162 4474/54/162 4476/54/162
 f 4476/54/162 4474/54/162 4477/54/162
 f 4477/54/162 4474/54/162 4478/54/162
-# from vbg1-27-WIDGET_34_CG_panto_LABEL_Pantograph.
+# from vbg1-27-WIDGET_34_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_34_CG_panto_LABEL_Pantograph
+o WIDGET_34_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -8175,10 +8175,10 @@ f 4673/56/168 4674/56/168 4675/56/168
 f 4675/56/168 4674/56/168 4676/56/168
 f 4672/57/168 4675/57/168 4677/57/168
 f 4677/57/168 4675/57/168 4678/57/168
-# from vbg1-28-WIDGET_31_TL_1.9375_Y_CG_panto_LABEL_Pantograph.
+# from vbg1-28-WIDGET_31_TL_1.9375_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_31_TL_1.9375_Y_CG_panto_LABEL_Pantograph
+o WIDGET_31_TL_1.9375_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture

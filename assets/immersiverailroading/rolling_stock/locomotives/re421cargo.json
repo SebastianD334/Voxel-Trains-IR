@@ -50,5 +50,5 @@
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
 	},
-	 "overlay": "immersiverailroading:vtgui/ui/re420.caml"
+	"overlay": "immersiverailroading:vtgui/ui/re420doublepanto.caml"
 }

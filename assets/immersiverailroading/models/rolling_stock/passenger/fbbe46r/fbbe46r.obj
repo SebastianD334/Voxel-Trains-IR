@@ -422,10 +422,10 @@ f 187/6/35 186/6/35 185/6/35
 f 188/6/35 186/6/35 187/6/35
 f 189/6/36 190/6/36 191/6/36
 f 191/6/36 190/6/36 192/6/36
-# from fbbe46r-6-WIDGET_33_TL_1.625_Y_CG_panto_LABEL_Pantograph.
+# from fbbe46r-6-WIDGET_33_TL_1.625_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_33_TL_1.625_Y_CG_panto_LABEL_Pantograph
+o WIDGET_33_TL_1.625_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -756,10 +756,10 @@ f 392/7/42 391/7/42 390/7/42
 f 393/7/42 391/7/42 392/7/42
 f 395/7/42 394/7/42 393/7/42
 f 396/7/42 394/7/42 395/7/42
-# from fbbe46r-7-WIDGET_35_CG_panto_LABEL_Pantograph
+# from fbbe46r-7-WIDGET_35_CG_panto1_LABEL_Pantograph
 
 # group
-o WIDGET_35_CG_panto_LABEL_Pantograph
+o WIDGET_35_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -894,10 +894,10 @@ f 461/8/48 462/8/48 463/8/48
 f 463/8/48 462/8/48 464/8/48
 f 465/8/48 466/8/48 467/8/48
 f 467/8/48 466/8/48 468/8/48
-# from fbbe46r-8-WIDGET_32_TL_1.625_Y_CG_panto_LABEL_Pantograph.
+# from fbbe46r-8-WIDGET_32_TL_1.625_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_32_TL_1.625_Y_CG_panto_LABEL_Pantograph
+o WIDGET_32_TL_1.625_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -1511,10 +1511,10 @@ f 822/10/54 823/10/54 824/10/54
 f 824/10/54 823/10/54 825/10/54
 f 825/10/54 823/10/54 826/10/54
 f 826/10/54 823/10/54 827/10/54
-# from fbbe46r-9-WIDGET_34_CG_panto_LABEL_Pantograph.
+# from fbbe46r-9-WIDGET_34_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_34_CG_panto_LABEL_Pantograph
+o WIDGET_34_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -1845,10 +1845,10 @@ f 1014/12/60 1015/12/60 1016/12/60
 f 1016/12/60 1015/12/60 1017/12/60
 f 1014/12/60 1016/12/60 1018/12/60
 f 1018/12/60 1016/12/60 1019/12/60
-# from fbbe46r-10-WIDGET_31_TL_1.625_Y_CG_panto_LABEL_Pantograph.
+# from fbbe46r-10-WIDGET_31_TL_1.625_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_31_TL_1.625_Y_CG_panto_LABEL_Pantograph
+o WIDGET_31_TL_1.625_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture

@@ -24,6 +24,11 @@ element:
         x = 0
         y = -95
         import: immersiverailroading:vtgui/snippets/buttons/il.caml
+    element:
+        # panto
+        x = 0
+        y = -120
+        import: immersiverailroading:vtgui/snippets/buttons/panto.caml
 element:
     #gauges
     screen_x = RIGHT

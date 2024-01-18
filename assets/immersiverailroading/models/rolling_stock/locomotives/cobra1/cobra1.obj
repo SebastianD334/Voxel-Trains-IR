@@ -6352,10 +6352,10 @@ f 3604/51/143 3603/51/143 3602/51/143
 f 3605/51/143 3603/51/143 3604/51/143
 f 3606/51/144 3607/51/144 3608/51/144
 f 3608/51/144 3607/51/144 3609/51/144
-# from cobra1-24-WIDGET_33_TL_1.9375_Y_CG_panto_LABEL_Pantograph.
+# from cobra1-24-WIDGET_33_TL_1.9375_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_33_TL_1.9375_Y_CG_panto_LABEL_Pantograph
+o WIDGET_33_TL_1.9375_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -6686,10 +6686,10 @@ f 3809/52/150 3808/52/150 3807/52/150
 f 3810/52/150 3808/52/150 3809/52/150
 f 3812/52/150 3811/52/150 3810/52/150
 f 3813/52/150 3811/52/150 3812/52/150
-# from cobra1-25-WIDGET_35_CG_panto_LABEL_Pantograph
+# from cobra1-25-WIDGET_35_CG_panto1_LABEL_Pantograph
 
 # group
-o WIDGET_35_CG_panto_LABEL_Pantograph
+o WIDGET_35_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -6824,10 +6824,10 @@ f 3878/53/156 3879/53/156 3880/53/156
 f 3880/53/156 3879/53/156 3881/53/156
 f 3882/53/156 3883/53/156 3884/53/156
 f 3884/53/156 3883/53/156 3885/53/156
-# from cobra1-26-WIDGET_32_TL_1.9375_Y_CG_panto_LABEL_Pantograph.
+# from cobra1-26-WIDGET_32_TL_1.9375_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_32_TL_1.9375_Y_CG_panto_LABEL_Pantograph
+o WIDGET_32_TL_1.9375_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -7428,10 +7428,10 @@ f 4233/54/162 4234/54/162 4235/54/162
 f 4235/54/162 4234/54/162 4236/54/162
 f 4236/54/162 4234/54/162 4237/54/162
 f 4237/54/162 4234/54/162 4238/54/162
-# from cobra1-27-WIDGET_34_CG_panto_LABEL_Pantograph.
+# from cobra1-27-WIDGET_34_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_34_CG_panto_LABEL_Pantograph
+o WIDGET_34_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture
@@ -7779,10 +7779,10 @@ f 4433/56/168 4434/56/168 4435/56/168
 f 4435/56/168 4434/56/168 4436/56/168
 f 4432/57/168 4435/57/168 4437/57/168
 f 4437/57/168 4435/57/168 4438/57/168
-# from cobra1-28-WIDGET_31_TL_1.9375_Y_CG_panto_LABEL_Pantograph.
+# from cobra1-28-WIDGET_31_TL_1.9375_Y_CG_panto1_LABEL_Pantograph.
 
 # group
-o WIDGET_31_TL_1.9375_Y_CG_panto_LABEL_Pantograph
+o WIDGET_31_TL_1.9375_Y_CG_panto1_LABEL_Pantograph
 
 # material
 usemtl texture

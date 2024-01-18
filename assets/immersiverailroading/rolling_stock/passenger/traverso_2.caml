@@ -22,6 +22,7 @@ couplers =
 	rear_offset = -0.03125
 	front_slack = 0
 	rear_slack = 0
+overlay = "immersiverailroading:vtgui/ui/singlepanto.caml"
 animations:
 	control_group = "dl"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/traverso_2/door_left.anim"
