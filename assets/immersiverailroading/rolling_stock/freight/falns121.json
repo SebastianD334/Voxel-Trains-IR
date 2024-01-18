@@ -15,8 +15,8 @@
 		"width": 2
 	},
 	"freight": {
-		"slots": 30,
-		"width": 2,
+		"slots": 27,
+		"width": 9,
 		"cargo": ["all"],
 		"show_current_loads_only": true
 	},
