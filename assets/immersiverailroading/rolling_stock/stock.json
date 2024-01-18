@@ -38,7 +38,6 @@
 		"gtel_3rd_b",
 		"bigboy", 
 		"fef-1",
-		"gg1",
 		
 		//---------Czech Republic--------------------------------- 
 		"cd810_b", 
@@ -58,9 +57,9 @@
 		"tm234crane", 
 		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls", 
 		"traxx2sbbcargoac", "traxx2sbbcargoms",
-		"re450new", 
+		"re450new", "btdpzplusnew", 
 		"re450", "btdpzplus", 
-		"re460new", "btdpzplusnew", 
+		"re460new", 
 		"re460", 
 		"re465", 
 		"bt17500", 
@@ -154,7 +153,8 @@
 		"ab2511", "b3511", "b4511", "ab5511", 
 		"ab2511sbb", "b3511sbb", "b4511sbb", "ab5511sbb", 
 		"b2514", "b3514", 
-		"ewivas", "ewiva", "sbbwrm", "ewivb", "ewivasmod", "ewivamod", "ewivbmod", 
+		"ewivas", "ewiva", "ewivb", "ewivasmod", "ewivamod", "ewivbmod", 
+		"sbbwrm", 
 		"ecapmnew", "ecapmpanonew", 
 		"ecapm", "ecbpm", "ecapmmod", "ecbpmmod", "ecapmpano", 
 		"ic2000bnew", 
@@ -175,9 +175,10 @@
 		"virmmabv3-4new", "virmmabv6new", 
 		"virmmabv3-4", "virmmabv5", "virmmabv6", 
 		"dd-irmabv3-4", "dd-irmabv5", 
-		"icrb", "icrbd", "icra", "icrbpmz10",
 		"icmmabnew", 
 		"icmmab", "icmma", 
+		"icrbpmz10",
+		"icrb", "icrbd", "icra", 
 		"wcb61848870",
 		
 		//---------France----------------------------------------- 
