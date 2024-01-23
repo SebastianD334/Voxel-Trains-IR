@@ -17,6 +17,7 @@ properties =
 	throttle_notches = 12
 	rolling_resistance_coefficient = 0.0002
 	drag_coefficient = 0.28
+	dynamic_traction_control = true
 passenger =
 	slots = 2
 	center_x = -1.3125

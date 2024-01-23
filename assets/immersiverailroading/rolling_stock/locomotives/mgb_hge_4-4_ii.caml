@@ -15,6 +15,7 @@ properties =
 	interior_light_level = 0.55
 	linear_brake_control = true
 	throttle_notches = 24
+	dynamic_traction_control = true
 	cog = True
 passenger =
 	slots = 4
