@@ -5,7 +5,8 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/sggrs716_2/sggrs716_2.obj",
 	"tex_variants": {
-		"dirty containers": "cdirty"
+		"Maersk Container": "",
+		"Dirty Maersk Container": "cdirty"
 	},
 	"properties": {
 		"weight_kg": 12000,
