@@ -11,7 +11,7 @@
 		"fuel_capacity_l": 4000,
 		"horsepower": 7500,
 		"tractive_effort_lbf": 67000,
-		"max_speed_kmh": 160,
+		"max_speed_kmh": 140,
 		"weight_kg": 84000,
 		"linear_brake_control": true,
 		"interior_light_level": 0.75
@@ -36,5 +36,5 @@
 		"idle": "sounds/sound/idle.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
-	 "overlay": "immersiverailroading:vtgui/ui/traxx2.caml"
+	 "overlay": "immersiverailroading:vtgui/ui/traxx2_140.caml"
 }
