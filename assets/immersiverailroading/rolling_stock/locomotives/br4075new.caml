@@ -97,6 +97,8 @@ controls =
 		default = 1
 	stepfr =
 		default = 1
+	controls =
+		default = 1
 animations:
 	control_group = "dfl"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/br4075new/dfl.anim"
@@ -127,3 +129,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/br4075new/id1close.anim"
 	mode = "play_reverse"
 	frames_per_tick = 1.0
+animations:
+	control_group = "controls"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/br4075new/controls.anim"
+	mode = "value"
