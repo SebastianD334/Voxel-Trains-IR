@@ -1,4 +1,4 @@
-name = "SBB RABe 501 WR6"
+name = "SBB RABe 501 Giruno WR6"
 works = "STADLER"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains V5"
@@ -11,7 +11,7 @@ properties =
 passenger =
 	slots = 20
 	center_x = 0
-	center_y = 1.4375
+	center_y = 1.5
 	length = 8.75
 	width = 2
 trucks =
@@ -23,3 +23,18 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 overlay = "immersiverailroading:vtgui/ui/rabe501dining.caml"
+animations:
+	control_group = "NOTMOVING"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/wr6501/brake_indicator.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/wr6501/d1.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/wr6501/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0

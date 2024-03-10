@@ -1,4 +1,4 @@
-name = "SBB RABe 501 A5"
+name = "SBB RABe 501 Giruno A5"
 works = "STADLER"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains V5"
@@ -11,7 +11,7 @@ properties =
 passenger =
 	slots = 17
 	center_x = 0
-	center_y = 0.875
+	center_y = 1.3125
 	length = 8.75
 	width = 2
 trucks =
@@ -23,3 +23,13 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 overlay = "immersiverailroading:vtgui/ui/rabe501panto.caml"
+animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/d1.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0

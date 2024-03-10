@@ -1,5 +1,5 @@
 era = diesel
-name = "SBB RABe 501 At2"
+name = "SBB RABe 501 Giruno At2"
 works = "STADLER"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains V5"
@@ -37,3 +37,23 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
+animations:
+	control_group = "NOTMOVING"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/brake_indicator.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "d3"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/d3.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "d4"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/d4.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0

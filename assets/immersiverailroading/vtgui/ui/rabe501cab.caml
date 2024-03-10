@@ -19,6 +19,11 @@ element:
         x = 0
         y = -70
         import: immersiverailroading:vtgui/snippets/buttons/il.caml
+    element:
+        # displays
+        x = 0
+        y = -95
+        import: immersiverailroading:vtgui/snippets/buttons/displays.caml
 element:
     #gauges
     screen_x = RIGHT

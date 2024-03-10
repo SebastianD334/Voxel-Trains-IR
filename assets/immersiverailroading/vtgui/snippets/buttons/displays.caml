@@ -9,6 +9,7 @@ element:
         element:
             # on
             toggle = true
+            global = true
             x = 0
             y = 0
             hide = true
@@ -17,6 +18,7 @@ element:
         element:
             # off
             toggle = true
+            global = true
             x = 0
             y = 0
             hide = true

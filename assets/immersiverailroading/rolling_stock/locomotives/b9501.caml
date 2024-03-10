@@ -1,5 +1,5 @@
 era = diesel
-name = "SBB RABe 501 B9"
+name = "SBB RABe 501 Giruno B9"
 works = "STADLER"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains V5"
@@ -18,7 +18,7 @@ properties =
 passenger =
 	slots = 44
 	center_x = 0
-	center_y = 1
+	center_y = 1.3125
 	length = 8.75
 	width = 2
 trucks =
@@ -34,37 +34,17 @@ sounds =
 	idle = "sounds/sbb/eem923electric.ogg"
 overlay = "immersiverailroading:vtgui/ui/rabe501powerpanto.caml"
 animations:
+	control_group = "NOTMOVING"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/brake_indicator.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
 	control_group = "d1"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/d1.anim"
 	mode = "play_both"
-	frames_per_tick = 3.0
+	frames_per_tick = 1.0
 animations:
 	control_group = "d2"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/d2.anim"
 	mode = "play_both"
-	frames_per_tick = 3.0
-animations:
-	control_group = "d3"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/d3.anim"
-	mode = "play_both"
-	frames_per_tick = 3.0
-animations:
-	control_group = "d4"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/d4.anim"
-	mode = "play_both"
-	frames_per_tick = 3.0
-animations:
-	control_group = "dl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/dl.anim"
-	mode = "play_both"
-	frames_per_tick = 3.0
-animations:
-	control_group = "76l"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/76l.anim"
-	mode = "play_both"
-	frames_per_tick = 3.0
-animations:
-	control_group = "55l"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/55l.anim"
-	mode = "play_both"
-	frames_per_tick = 3.0
+	frames_per_tick = 1.0

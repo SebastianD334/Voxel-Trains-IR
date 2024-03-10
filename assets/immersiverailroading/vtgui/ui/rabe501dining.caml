@@ -17,29 +17,30 @@ element:
             # on
             x = 0
             y = 0
-            hide = True
-            control = "food"
+            toggle = true
+            hide = true
+            setting = "food"
             image = "immersiverailroading:vtgui/buttons/food_on.png"
             element:
                 # arrow
                 x = 22
                 y = -120
-                image = "immersiverailroading:vtgui/specific/wr6501/layout_arrow.png"
+                image = "immersiverailroading:vtgui/specific/rabe501dining/layout_arrow.png"
             element:
                 # background
                 x = 30
                 y = -120
-                image = "immersiverailroading:vtgui/specific/wr6501/layout_background.png"
+                image = "immersiverailroading:vtgui/specific/rabe501dining/layout_background.png"
                 element:
                     # spice
                     x = 0
                     y = 0
-                    image = "immersiverailroading:vtgui/specific/wr6501/layout_spice.png"
+                    image = "immersiverailroading:vtgui/specific/rabe501dining/layout_spice.png"
                 element:
                     # layout
                     x = 4
                     y = 4
-                    image = "immersiverailroading:vtgui/specific/wr6501/layout.png"
+                    image = "immersiverailroading:vtgui/specific/rabe501dining/layout.png"
                 element:
                     # 5-1
                     x = 8
@@ -48,22 +49,24 @@ element:
                         # off
                         x = 0
                         y = 0
-                        hide = True
-                        invert = True
-                        control = "51"
+                        toggle = true
+                        hide = true
+                        invert = true
+                        setting = "51"
                         image = "immersiverailroading:vtgui/buttons/plate_off.png"
                     element:
                         # on
                         x = 0
                         y = 0
-                        hide = True
-                        control = "51"
+                        toggle = true
+                        hide = true
+                        setting = "51"
                         image = "immersiverailroading:vtgui/buttons/plate_on.png"
                         element:
                             # arrow
                             x = 54
                             y = -112
-                            image = "immersiverailroading:vtgui/specific/wr6501/arrow_5.png"
+                            image = "immersiverailroading:vtgui/specific/rabe501dining/arrow_5.png"
                             element:
                                 # choc button
                                 x = 8
@@ -78,7 +81,8 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFFF0F0F0"
-                                    hide = True
+                                    toggle = true
+                                    hide = true
                                     control = "51choc"
                                 element:
                                     # off
@@ -89,12 +93,14 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFF505050"
-                                    hide = True
-                                    invert = True
+                                    toggle = true
+                                    hide = true
+                                    invert = true
                                     control = "51choc"
                                 element:
                                     x = 0
                                     y = 0
+                                    toggle = true
                                     control = "51choc"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
@@ -111,7 +117,8 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFFF0F0F0"
-                                    hide = True
+                                    toggle = true
+                                    hide = true
                                     control = "51salad"
                                 element:
                                     # off
@@ -122,12 +129,14 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFF505050"
-                                    hide = True
-                                    invert = True
+                                    toggle = true
+                                    hide = true
+                                    invert = true
                                     control = "51salad"
                                 element:
                                     x = 0
                                     y = 0
+                                    toggle = true
                                     control = "51salad"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                 element:
@@ -138,22 +147,24 @@ element:
                         # off
                         x = 0
                         y = 0
-                        hide = True
-                        invert = True
-                        control = "52"
+                        toggle = true
+                        hide = true
+                        invert = true
+                        setting = "52"
                         image = "immersiverailroading:vtgui/buttons/plate_off.png"
                     element:
                         # on
                         x = 0
                         y = 0
-                        hide = True
-                        control = "52"
+                        toggle = true
+                        hide = true
+                        setting = "52"
                         image = "immersiverailroading:vtgui/buttons/plate_on.png"
                         element:
                             # arrow
                             x = 44
                             y = -112
-                            image = "immersiverailroading:vtgui/specific/wr6501/arrow_5.png"
+                            image = "immersiverailroading:vtgui/specific/rabe501dining/arrow_5.png"
                             element:
                                 # choc button
                                 x = 8
@@ -168,7 +179,8 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFFF0F0F0"
-                                    hide = True
+                                    toggle = true
+                                    hide = true
                                     control = "52choc"
                                 element:
                                     # off
@@ -179,12 +191,14 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFF505050"
-                                    hide = True
-                                    invert = True
+                                    toggle = true
+                                    hide = true
+                                    invert = true
                                     control = "52choc"
                                 element:
                                     x = 0
                                     y = 0
+                                    toggle = true
                                     control = "52choc"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
@@ -201,7 +215,8 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFFF0F0F0"
-                                    hide = True
+                                    toggle = true
+                                    hide = true
                                     control = "52salad"
                                 element:
                                     # off
@@ -212,12 +227,14 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFF505050"
-                                    hide = True
-                                    invert = True
+                                    toggle = true
+                                    hide = true
+                                    invert = true
                                     control = "52salad"
                                 element:
                                     x = 0
                                     y = 0
+                                    toggle = true
                                     control = "52salad"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                 element:
@@ -228,22 +245,24 @@ element:
                         # off
                         x = 0
                         y = 0
-                        hide = True
-                        invert = True
-                        control = "61"
+                        toggle = true
+                        hide = true
+                        invert = true
+                        setting = "61"
                         image = "immersiverailroading:vtgui/buttons/plate_off.png"
                     element:
                         # on
                         x = 0
                         y = 0
-                        hide = True
-                        control = "61"
+                        toggle = true
+                        hide = true
+                        setting = "61"
                         image = "immersiverailroading:vtgui/buttons/plate_on.png"
                         element:
                             # arrow
                             x = 54
                             y = -121
-                            image = "immersiverailroading:vtgui/specific/wr6501/arrow_6.png"
+                            image = "immersiverailroading:vtgui/specific/rabe501dining/arrow_6.png"
                             element:
                                 # choc button
                                 x = 8
@@ -258,7 +277,8 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFFF0F0F0"
-                                    hide = True
+                                    toggle = true
+                                    hide = true
                                     control = "61choc"
                                 element:
                                     # off
@@ -269,12 +289,14 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFF505050"
-                                    hide = True
-                                    invert = True
+                                    toggle = true
+                                    hide = true
+                                    invert = true
                                     control = "61choc"
                                 element:
                                     x = 0
                                     y = 0
+                                    toggle = true
                                     control = "61choc"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
@@ -291,7 +313,8 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFFF0F0F0"
-                                    hide = True
+                                    toggle = true
+                                    hide = true
                                     control = "61salad"
                                 element:
                                     # off
@@ -302,27 +325,25 @@ element:
                                         height = 10
                                     color =
                                         0 = "0xFF505050"
-                                    hide = True
-                                    invert = True
+                                    toggle = true
+                                    hide = true
+                                    invert = true
                                     control = "61salad"
                                 element:
                                     x = 0
                                     y = 0
+                                    toggle = true
                                     control = "61salad"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
         element:
             # off
             x = 0
             y = 0
-            hide = True
-            invert = True
-            control = "food"
+            toggle = true
+            hide = true
+            invert = true
+            setting = "food"
             image = "immersiverailroading:vtgui/buttons/food_off.png"
-    element:
-        # interior lights
-        x = 0
-        y = -45
-        import: immersiverailroading:vtgui/snippets/buttons/il.caml
 element:
     # passenger speedometer
     import: immersiverailroading:vtgui/snippets/passenger_speedometer.caml
