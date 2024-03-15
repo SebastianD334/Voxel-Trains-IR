@@ -25,6 +25,3 @@ element:
         x = -45
         y = 0
         import: immersiverailroading:vtgui/snippets/gauge_temperature.caml
-element:
-    # passenger speedometer
-    import: immersiverailroading:vtgui/snippets/passenger_speedometer.caml
