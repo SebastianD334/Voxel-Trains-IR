@@ -1,0 +1,12 @@
+element:
+    #gauges
+    screen_x = RIGHT
+    screen_y = BOTTOM
+    x = -5
+    y = -5
+    element:
+        #independent brake
+        x = -20
+        y = -0
+        import: immersiverailroading:vtgui/snippets/brake_independent.caml
+        

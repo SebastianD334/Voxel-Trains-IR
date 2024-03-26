@@ -30,3 +30,4 @@ couplers =
 	rear_offset = 0
 	front_slack = 0
 	rear_slack = 0
+overlay = "immersiverailroading:vtgui/ui/ind_brake.caml"
