@@ -47,3 +47,33 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/bt1501/d2.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
+animations:
+	control_group = "55l"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/bt1501/55l.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "76l"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/bt1501/76l.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "55r"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/bt1501/55r.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "76r"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/bt1501/76r.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "dl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/bt1501/dl.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "dr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/bt1501/dr.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0

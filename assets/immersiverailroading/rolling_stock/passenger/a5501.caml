@@ -54,6 +54,16 @@ animations:
 	mode = "play_both"
 	frames_per_tick = 1.0
 animations:
+	control_group = "dl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/dl.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "dr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/dr.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
 	control_group = "55ll"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/55ll.anim"
 	mode = "play_both"
@@ -61,5 +71,15 @@ animations:
 animations:
 	control_group = "55rl"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/55rl.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "dll"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/dll.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/a5501/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
