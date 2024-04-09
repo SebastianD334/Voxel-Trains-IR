@@ -78,3 +78,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/dr.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
+animations:
+	control_group = "seat"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/b9501/seat.anim"
+	mode = "value"

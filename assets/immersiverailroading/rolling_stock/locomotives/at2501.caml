@@ -87,3 +87,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/dr.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
+animations:
+	control_group = "table"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/table.anim"
+	mode = "value"
