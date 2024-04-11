@@ -5,7 +5,7 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbba/trsbba.obj",
-	"sound_dampening_percentage": "0.20", 
+	"sound_dampening_percentage": "0.02", 
 	"properties": {
 		"fuel_efficiency_%": 99,
 		"fuel_capacity_l": 4000,
@@ -32,8 +32,8 @@
 	},
 	"sounds": {
 		"horn": "sounds/stille.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"idle": "sounds/sbb/icnaccelerate.ogg",
 		"track_wheels": "sounds/stille.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/s.json"
+	"overlay": "immersiverailroading:vtgui/ui/transrapidpower.caml"
 }
