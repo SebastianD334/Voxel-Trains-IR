@@ -91,3 +91,8 @@ animations:
 	control_group = "table"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/table.anim"
 	mode = "value"
+animations:
+	control_group = "hatch"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/at2501/hatch.anim"
+	mode = "play_both"
+	frames_per_tick = 1.0

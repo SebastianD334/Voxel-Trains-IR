@@ -113,7 +113,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -125,7 +125,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -325,7 +325,7 @@ element:
                                         0 = "0xFFF0F0F0"
                                     toggle = true
                                     hide = true
-                                    control = "11gipf"
+                                    control = "12gipf"
                                 element:
                                     # off
                                     x = 40
@@ -338,12 +338,12 @@ element:
                                     toggle = true
                                     hide = true
                                     invert = true
-                                    control = "11gipf"
+                                    control = "12gipf"
                                 element:
                                     x = 0
                                     y = 0
                                     toggle = true
-                                    control = "11gipf"
+                                    control = "12gipf"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
                                 # cheese button
@@ -355,31 +355,31 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
                                     toggle = true
                                     hide = true
-                                    control = "11cheese"
+                                    control = "12cheese"
                                 element:
                                     # off
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
                                     toggle = true
                                     hide = true
                                     invert = true
-                                    control = "11cheese"
+                                    control = "12cheese"
                                 element:
                                     x = 0
                                     y = 0
                                     toggle = true
-                                    control = "11cheese"
+                                    control = "12cheese"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
                                 # salad button
@@ -397,7 +397,7 @@ element:
                                         0 = "0xFFF0F0F0"
                                     toggle = true
                                     hide = true
-                                    control = "11salad"
+                                    control = "12salad"
                                 element:
                                     # off
                                     x = 40
@@ -410,12 +410,12 @@ element:
                                     toggle = true
                                     hide = true
                                     invert = true
-                                    control = "11salad"
+                                    control = "12salad"
                                 element:
                                     x = 0
                                     y = 0
                                     toggle = true
-                                    control = "11salad"
+                                    control = "12salad"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
                                 # geschnetzeltes button
@@ -433,7 +433,7 @@ element:
                                         0 = "0xFFF0F0F0"
                                     toggle = true
                                     hide = true
-                                    control = "11gesch"
+                                    control = "12gesch"
                                 element:
                                     # off
                                     x = 40
@@ -446,12 +446,12 @@ element:
                                     toggle = true
                                     hide = true
                                     invert = true
-                                    control = "11gesch"
+                                    control = "12gesch"
                                 element:
                                     x = 0
                                     y = 0
                                     toggle = true
-                                    control = "11gesch"
+                                    control = "12gesch"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
                                 # nuss button
@@ -469,7 +469,7 @@ element:
                                         0 = "0xFFF0F0F0"
                                     toggle = true
                                     hide = true
-                                    control = "11nuss"
+                                    control = "12nuss"
                                 element:
                                     # off
                                     x = 40
@@ -482,12 +482,12 @@ element:
                                     toggle = true
                                     hide = true
                                     invert = true
-                                    control = "11nuss"
+                                    control = "12nuss"
                                 element:
                                     x = 0
                                     y = 0
                                     toggle = true
-                                    control = "11nuss"
+                                    control = "12nuss"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                             element:
                                 # choc button
@@ -505,7 +505,7 @@ element:
                                         0 = "0xFFF0F0F0"
                                     toggle = true
                                     hide = true
-                                    control = "11choc"
+                                    control = "12choc"
                                 element:
                                     # off
                                     x = 40
@@ -518,12 +518,12 @@ element:
                                     toggle = true
                                     hide = true
                                     invert = true
-                                    control = "11choc"
+                                    control = "12choc"
                                 element:
                                     x = 0
                                     y = 0
                                     toggle = true
-                                    control = "11choc"
+                                    control = "12choc"
                                     image = "immersiverailroading:vtgui/buttons/spice_wide.png"
                 element:
                     # 1-3
@@ -597,7 +597,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -609,7 +609,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -839,7 +839,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -851,7 +851,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -1081,7 +1081,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -1093,7 +1093,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -1323,7 +1323,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -1335,7 +1335,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -1565,7 +1565,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -1577,7 +1577,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -1807,7 +1807,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -1819,7 +1819,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -2049,7 +2049,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -2061,7 +2061,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -2291,7 +2291,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -2303,7 +2303,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -2533,7 +2533,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -2545,7 +2545,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -2775,7 +2775,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -2787,7 +2787,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -3017,7 +3017,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -3029,7 +3029,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -3259,7 +3259,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -3271,7 +3271,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -3501,7 +3501,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -3513,7 +3513,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -3743,7 +3743,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -3755,7 +3755,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
@@ -3985,7 +3985,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFFF0F0F0"
@@ -3997,7 +3997,7 @@ element:
                                     x = 40
                                     y = 6
                                     text =
-                                        value = "Cheese Platter"
+                                        value = "Käseplatte"
                                         height = 8
                                     color =
                                         0 = "0xFF505050"
