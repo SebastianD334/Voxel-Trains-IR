@@ -13,7 +13,7 @@ element:
             y = 0
             hide = true
             control = "hatch"
-            image = "immersiverailroading:vtgui/buttons/baggage_room_lights_on.png"
+            image = "immersiverailroading:vtgui/buttons/hatch_on.png"
         element:
             # off
             toggle = true
@@ -22,4 +22,4 @@ element:
             hide = true
             invert = true
             control = "hatch"
-            image = "immersiverailroading:vtgui/buttons/baggage_room_lights_off.png"
+            image = "immersiverailroading:vtgui/buttons/hatch_off.png"
