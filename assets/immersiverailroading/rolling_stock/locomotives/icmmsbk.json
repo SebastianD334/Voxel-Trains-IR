@@ -11,12 +11,13 @@
 	},
 	"darken_model": "0",
 	"properties": {
-		"fuel_efficiency_%": 100,
-		"fuel_capacity_l": 4000,
+		"fuel_efficiency_%": 0,
+		"fuel_capacity_l": 0,
 		"horsepower": 0,
-		"tractive_effort_lbf": 26977,
+		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 160,
-		"weight_kg": 42000
+		"weight_kg": 42000,
+		"cab_car": true
 	},
 	"passenger": {
 		"slots": 80,
