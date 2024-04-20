@@ -6,7 +6,7 @@
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/icbt/icbt.obj",
 	"properties": {
-		"fuel_efficiency_%": 100,
+		"fuel_efficiency_%": 0,
 		"fuel_capacity_l": 0,
 		"horsepower": 0,
 		"tractive_effort_lbf": 0,
