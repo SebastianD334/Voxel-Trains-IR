@@ -12,7 +12,8 @@
 		"horsepower": 2718,
 		"tractive_effort_lbf": 52830,
 		"max_speed_kmh": 160,
-		"weight_kg": 80000
+		"weight_kg": 80000,
+		"dynamic_traction_control": true
 	},
 	"passenger": {
 		"slots": 2,

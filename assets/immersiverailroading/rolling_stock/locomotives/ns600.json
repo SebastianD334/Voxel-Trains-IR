@@ -1,6 +1,6 @@
 {
 	"era": "diesel",
-	"name": "NS Class 600",
+	"name": "NS 600",
 	"works": "English Electric",
 	"modeler": "Xenoniuss",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/ns600/ns600.obj",
@@ -11,7 +11,8 @@
 		"horsepower": 400,
 		"tractive_effort_lbf": 32147,
 		"max_speed_kmh": 30,
-		"weight_kg": 47000
+		"weight_kg": 47000,
+		"dynamic_traction_control": true
 	},
 	"passenger": {
 		"slots": 2,

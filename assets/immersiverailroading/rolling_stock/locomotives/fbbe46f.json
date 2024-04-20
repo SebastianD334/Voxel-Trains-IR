@@ -13,7 +13,8 @@
 		"tractive_effort_lbf": 20232,
 		"max_speed_kmh": 80,
 		"weight_kg": 16600,
-		"interior_light_level": 0.7
+		"interior_light_level": 0.7,
+		"dynamic_traction_control": true
 	},
 	"passenger": {
 		"slots": 29,

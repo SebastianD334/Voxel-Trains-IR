@@ -11,7 +11,8 @@
 		"horsepower": 7620,
 		"tractive_effort_lbf": 67000,
 		"max_speed_kmh": 220,
-		"weight_kg": 110000
+		"weight_kg": 110000,
+		"dynamic_traction_control": true
 	},
 	"tex_variants": {
 		"Clean": "clean",
