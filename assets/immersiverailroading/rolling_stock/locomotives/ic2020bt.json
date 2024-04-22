@@ -6,9 +6,9 @@
 	"modeler": "SebastianD334",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/ic2020bt/ic2020bt.obj",
 	"properties": {
-		"fuel_efficiency_%": 1000,
-		"fuel_capacity_l": 1000,
-		"horsepower": 1000,
+		"fuel_efficiency_%": 0,
+		"fuel_capacity_l": 0,
+		"horsepower": 0,
 		"tractive_effort_lbf": 0,
 		"max_speed_kmh": 200,
 		"weight_kg": 47000,

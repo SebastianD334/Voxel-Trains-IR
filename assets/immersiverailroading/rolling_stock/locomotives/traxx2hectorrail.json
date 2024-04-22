@@ -14,7 +14,8 @@
 		"max_speed_kmh": 140,
 		"weight_kg": 84000,
 		"linear_brake_control": true,
-		"interior_light_level": 0.75
+		"interior_light_level": 0.75,
+		"dynamic_traction_control": true
 	},
 	"passenger": {
 		"slots": 4,

@@ -5,7 +5,7 @@
 	"modeler": "SebastianD334",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/trsbbat/trsbbat.obj",
-	"sound_dampening_percentage": "0.20", 
+	"sound_dampening_percentage": "0.02", 
 	"properties": {
 		"fuel_efficiency_%": 99,
 		"fuel_capacity_l": 4000,
@@ -13,8 +13,8 @@
 		"tractive_effort_lbf": 112405,
 		"max_speed_kmh": 450,
 		"weight_kg": 30000,
-		"linear_brake_control": true,
-		"interior_light_level": 0.7
+		"interior_light_level": 0.7,
+		"dynamic_traction_control": true
 	},
 	"passenger": {
 		"slots": 53,
@@ -33,8 +33,8 @@
 	},
 	"sounds": {
 		"horn": "sounds/swisshorn.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"idle": "sounds/sbb/icnaccelerate.ogg",
 		"track_wheels": "sounds/stille.ogg"
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/l450h1c1ps.json"
+	"overlay": "immersiverailroading:vtgui/ui/transrapidcab.caml"
 }

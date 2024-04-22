@@ -11,7 +11,8 @@
 		"horsepower": 590,
 		"tractive_effort_lbf": 20000,
 		"max_speed_kmh": 140,
-		"weight_kg": 20000
+		"weight_kg": 20000,
+		"dynamic_traction_control": true
 	},
 	"passenger": {
 		"slots": 58,

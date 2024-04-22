@@ -14,7 +14,8 @@
 		"max_speed_kmh": 160,
 		"weight_kg": 66000,
 		"linear_brake_control": true,
-		"interior_light_level": 0.6
+		"interior_light_level": 0.6,
+		"dynamic_traction_control": true
 	},
 	"passenger": {
 		"slots": 110,
@@ -36,7 +37,7 @@
 	},
 	"sounds": {
 		"horn": "sounds/ns/nsvirmhorn.ogg",
-		"idle": "sounds/sound/idle.ogg",
+		"idle": "sounds/ns/virmaccelerate.ogg",
 		"track_wheels": "sounds/sound/drive.ogg"
 	},
 	"overlay": "immersiverailroading:vtgui/ui/virmpower.caml"

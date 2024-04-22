@@ -24,6 +24,11 @@ element:
         x = 0
         y = -95
         import: immersiverailroading:vtgui/snippets/buttons/displays.caml
+    element:
+        # hatch
+        x = 0
+        y = -120
+        import: immersiverailroading:vtgui/snippets/buttons/hatch.caml
 element:
     #gauges
     screen_x = RIGHT
