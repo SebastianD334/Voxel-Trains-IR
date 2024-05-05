@@ -34,7 +34,7 @@ sounds =
 	horn = "sounds/re460horn.ogg"
 	idle = "sounds/sbb/re460.ogg"
 	wheels = "sounds/sound/drive.ogg"
-overlay = "immersiverailroading:vtgui/ui/traxx2_140.caml"
+overlay = "immersiverailroading:vtgui/ui/traxx2_140_4.caml"
 animations:
 	readout = "engine"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbbc_re484/lights_off.anim"
