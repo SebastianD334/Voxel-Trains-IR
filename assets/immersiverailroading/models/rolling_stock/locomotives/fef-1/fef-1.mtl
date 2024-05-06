@@ -1,6 +1,16 @@
 # Blender 3.6.0 MTL File: 'fef-1.blend'
 # www.blender.org
 
+newmtl 800
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd 800.png
+
 newmtl 806
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -50,6 +60,26 @@ Ni 1.450000
 d 1.000000
 illum 1
 map_Kd 8444.png
+
+newmtl palette
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd texture.png
+
+newmtl texture.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd texture.png
 
 newmtl texture.002
 Ns 0.000000

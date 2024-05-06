@@ -5,11 +5,12 @@
 	"modeler": "Bossk",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/fef-1/fef-1.obj",
 	"tex_variants": {
+		"#800": "800",
 		"#806": "806",
 		"#809": "809",
 		"#815": "815",
 		"#817": "817",
-		"#8444": "8444"
+		"#8444 (Fantasy Scheme)": "8444"
 	},
 	"properties": {
 		"max_psi": 300,
@@ -31,7 +32,7 @@
 	"passenger": {
 		"slots": 4,
 		"center_x": -8.5,
-		"center_y": 2.8,
+		"center_y": 2.0,
 		"length": 1,
 		"width": 3.2,
 		"should_sit": false
