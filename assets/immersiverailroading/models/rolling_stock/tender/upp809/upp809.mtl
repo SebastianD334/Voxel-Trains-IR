@@ -1,7 +1,7 @@
-# Blender 3.6.0 MTL File: 'None'
+# Blender 3.6.0 MTL File: 'upp809.blend'
 # www.blender.org
 
-newmtl texture.005
+newmtl texture
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000

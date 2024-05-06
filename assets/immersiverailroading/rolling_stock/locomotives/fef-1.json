@@ -31,10 +31,10 @@
 	"passenger": {
 		"slots": 4,
 		"center_x": -8.5,
-		"center_y": 2.6,
+		"center_y": 2.8,
 		"length": 1,
 		"width": 3.2,
-		"should_sit": true
+		"should_sit": false
 	},
 	"trucks": {
 		"front": 6.9, 
