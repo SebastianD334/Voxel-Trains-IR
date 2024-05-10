@@ -35,6 +35,9 @@ sounds =
 	idle = "sounds/sbb/re460.ogg"
 	wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/traxx2_140_4.caml"
+controls =
+	controls =
+		default = 1
 animations:
 	readout = "engine"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbbc_re484/lights_off.anim"
@@ -48,6 +51,10 @@ animations:
 	control_group = "hb2"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbbc_re484/hb2.anim"
 	mode = "play_both"
+animations:
+	control_group = "controls"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbbc_re484/controls.anim"
+	mode = "value"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
