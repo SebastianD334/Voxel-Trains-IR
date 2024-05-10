@@ -35,6 +35,7 @@
 	},
 	"sounds": {
 		"whistle": "sounds/bigboy/whistle.ogg",
+		"bell": "sounds/bigboy/bell.ogg",
 		"idle": "sounds/bigboy/idle.ogg",
 		"pressure": "sounds/bigboy/pressure.ogg",
 		"chuff": "sounds/bigboy/chuff.ogg",
@@ -44,7 +45,7 @@
 				"pull_end": 0.55,
 				"pitch_start": 0.7,
 				"pitch_end": 1.0,
-				"sample": "sounds/bigboy/bbquilling.ogg"
+				"sample": "sounds/bigboy/whistle.ogg"
 			}
 		]
 	}

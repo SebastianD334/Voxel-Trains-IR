@@ -46,19 +46,28 @@
 		"rear_offset": -0.5
 	},
 	"sounds": {
-		"whistle": "sounds/bigboy/whistle.ogg",
-		"idle": "sounds/bigboy/idle.ogg",
-		"pressure": "sounds/bigboy/pressure.ogg",
-		"chuff": "sounds/bigboy/chuff.ogg",
+		"whistle": "sounds/fef-1/whistle.ogg",
+		"bell": "sounds/fef-1/bell.ogg",
+		"idle": "sounds/fef-1/idle.ogg",
+		"pressure": "sounds/fef-1/pressure.ogg",
+		"chuff": "sounds/fef-1/chuff.ogg",
 		"quilling": [
 			{
 				"pull_start": 0.25,
 				"pull_end": 0.55,
 				"pitch_start": 0.7,
 				"pitch_end": 1.0,
-				"sample": "sounds/bigboy/bbquilling.ogg"
+				"sample": "sounds/fef-1/whistle.ogg"
 			}
 		]
+	},
+	"particles": {
+		"smoke": {
+			"texture": "immersiverailroading:textures/voxel_dark_smoke.png"
+		},
+		"steam": {
+			"texture": "immersiverailroading:textures/voxel_smoke.png"
+		}
 	}
 
 }
