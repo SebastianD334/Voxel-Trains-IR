@@ -48,6 +48,14 @@
 				"sample": "sounds/bigboy/whistle.ogg"
 			}
 		]
+	},
+	"particles": {
+		"smoke": {
+			"texture": "immersiverailroading:textures/voxel_dark_smoke.png"
+		},
+		"steam": {
+			"texture": "immersiverailroading:textures/voxel_smoke.png"
+		}
 	}
 
 }
