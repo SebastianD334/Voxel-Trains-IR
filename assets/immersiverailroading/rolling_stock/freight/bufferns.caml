@@ -1,8 +1,8 @@
-name = "Zuerich HB Buffer Stop"
-works = "-"
-modeler = "SebastianD334"
+name = "Dutch Buffer Stop"
+works = "Rawie"
+modeler = "Foxy Floofy"
 pack = "Voxel Trains"
-model = "immersiverailroading:models/rolling_stock/freight/bufferzh/bufferzh.obj"
+model = "immersiverailroading:models/rolling_stock/freight/bufferns/bufferns.obj"
 properties =
 	weight_kg = 2500
 	rolling_resistance_coefficient = 50

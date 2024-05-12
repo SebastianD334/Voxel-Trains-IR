@@ -1,8 +1,8 @@
-name = "Zuerich HB Buffer Stop"
-works = "-"
-modeler = "SebastianD334"
+name = "Portuguese Railways Track Blocker"
+works = ""
+modeler = "Joao da Fonseca"
 pack = "Voxel Trains"
-model = "immersiverailroading:models/rolling_stock/freight/bufferzh/bufferzh.obj"
+model = "immersiverailroading:models/rolling_stock/freight/ip_track_blocker/ip_track_blocker.obj"
 properties =
 	weight_kg = 2500
 	rolling_resistance_coefficient = 50

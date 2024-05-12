@@ -109,10 +109,10 @@
 		"railjet_afmpz", 
 		
 		//---------Denmark---------------------------------------- 
-		"traktor", 
+		"traktor"
 		
 		//---------Miscellaneous---------------------------------- 
-		"buffer", "bufferns", "buffer_ip_metal"
+		
 	],
 
 	"passenger": [
@@ -221,7 +221,10 @@
 		"franz", 
 		
 		//---------Miscellaneous---------------------------------- 
-		"bufferzh", "bufferzhextension" 
+		"buffer", 
+		"ip_buffer_metal", 
+		"bufferzh", "bufferzhextension", 
+		"bufferns" 
 	],
 
     "tank": [
