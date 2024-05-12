@@ -3,7 +3,7 @@
 	"name": "CP 5600",
 	"works": "Trafo Union",
 	"modeler": "JoaoDaFonseca",
-	"model": "immersiverailroading:models/rolling_stock/locomotives/cp5600new/cp5600.obj",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/cp5600/cp5600.obj",
 	"darken_model": "0",
 	"properties": {
 		"fuel_efficiency_%": 100,
