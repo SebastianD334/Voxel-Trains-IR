@@ -397,7 +397,7 @@ element:
             # marker 110
             x = 2
             y = 59
-            image = "immersiverailroading:vtgui/gauge_round/marker:small.png"
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
             rotate =
                 x = 58
                 y = 1
@@ -427,7 +427,7 @@ element:
             # marker 130
             x = 2
             y = 59
-            image = "immersiverailroading:vtgui/gauge_round/marker.png"
+            image = "immersiverailroading:vtgui/gauge_round/marker_small.png"
             rotate =
                 x = 58
                 y = 1
