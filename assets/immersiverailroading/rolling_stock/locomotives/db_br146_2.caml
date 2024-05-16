@@ -37,17 +37,21 @@ sounds =
 overlay = "immersiverailroading:vtgui/ui/traxx2_160.caml"
 animations:
 	readout = "engine"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br185_2/lights_off.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br146_2/lights_off.anim"
 	mode = "play_both"
 	invert = true
 animations:
 	control_group = "hb1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br185_2/hb1.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br146_2/hb1.anim"
 	mode = "play_both"
 animations:
 	control_group = "hb2"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br185_2/hb2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br146_2/hb2.anim"
 	mode = "play_both"
+animations:
+	control_group = "controls"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br146_2/controls.anim"
+	mode = "value"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png

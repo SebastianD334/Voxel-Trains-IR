@@ -48,6 +48,10 @@ animations:
 	control_group = "hb2"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br185_2/hb2.anim"
 	mode = "play_both"
+animations:
+	control_group = "controls"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br185_2/controls.anim"
+	mode = "value"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
