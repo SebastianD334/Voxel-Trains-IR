@@ -1,7 +1,7 @@
 era = diesel
 name = "NS VIRMm mBvk1/2"
 works = "Talbot/Bombardier"
-modeler = "Foxy Floofy, Sebastian"
+modeler = "Foxy Floofy, SebastianD334"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/virmmmbvk1-2new/virmmmbvk1-2new.obj"
 sound_dampening_percentage = 0.20
