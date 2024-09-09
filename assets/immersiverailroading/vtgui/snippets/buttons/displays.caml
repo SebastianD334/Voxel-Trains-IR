@@ -1,27 +1,27 @@
 element:
+    x = 0
+    y = 0
+    image = "immersiverailroading:vtgui/buttons/button.png"
+    element:
         x = 0
         y = 0
-        image = "immersiverailroading:vtgui/buttons/button.png"
-        element:
-            x = 0
-            y = 0
-            image = "immersiverailroading:vtgui/buttons/spice.png"
-        element:
-            # on
-            toggle = true
-            global = true
-            x = 0
-            y = 0
-            hide = true
-            control = "displays"
-            image = "immersiverailroading:vtgui/buttons/displays_on.png"
-        element:
-            # off
-            toggle = true
-            global = true
-            x = 0
-            y = 0
-            hide = true
-            invert = true
-            control = "displays"
-            image = "immersiverailroading:vtgui/buttons/displays_off.png"
+        image = "immersiverailroading:vtgui/buttons/spice.png"
+    element:
+        # on
+        toggle = true
+        global = true
+        x = 0
+        y = 0
+        hide = true
+        control = "displays"
+        image = "immersiverailroading:vtgui/buttons/displays_on.png"
+    element:
+        # off
+        toggle = true
+        global = true
+        x = 0
+        y = 0
+        hide = true
+        invert = true
+        control = "displays"
+        image = "immersiverailroading:vtgui/buttons/displays_off.png"

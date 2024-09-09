@@ -1,29 +1,29 @@
 element:
+    x = 0
+    y = 0
+    image = "immersiverailroading:vtgui/buttons/button.png"
+    element:
         x = 0
         y = 0
-        image = "immersiverailroading:vtgui/buttons/button.png"
-        element:
-            x = 0
-            y = 0
-            image = "immersiverailroading:vtgui/buttons/spice.png"
-        element:
-            x = 0
-            y = 0
-            image = "immersiverailroading:vtgui/buttons/number_2.png"
-        element:
-            # on
-            toggle = true
-            x = 0
-            y = 0
-            hide = true
-            control = "hb2"
-            image = "immersiverailroading:vtgui/buttons/high_beam_on.png"
-        element:
-            # off
-            toggle = true
-            x = 0
-            y = 0
-            hide = true
-            invert = true
-            control = "hb2"
-            image = "immersiverailroading:vtgui/buttons/high_beam_off.png"
+        image = "immersiverailroading:vtgui/buttons/spice.png"
+    element:
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/number_2.png"
+    element:
+        # on
+        toggle = true
+        x = 0
+        y = 0
+        hide = true
+        control = "hb2"
+        image = "immersiverailroading:vtgui/buttons/high_beam_on.png"
+    element:
+        # off
+        toggle = true
+        x = 0
+        y = 0
+        hide = true
+        invert = true
+        control = "hb2"
+        image = "immersiverailroading:vtgui/buttons/high_beam_off.png"
