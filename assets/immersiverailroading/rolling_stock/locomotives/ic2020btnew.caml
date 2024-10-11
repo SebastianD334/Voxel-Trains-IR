@@ -13,7 +13,7 @@ properties =
 	max_speed_kmh = 200
 	weight_kg = 48000
 	linear_brake_control = true
-	interior_light_level = 0.65
+	interior_light_level = 0.45
 	cab_car = true
 passenger =
 	slots = 61
@@ -39,36 +39,36 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 animations:
 	control_group = "d2"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/d2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ic2020btnew/d2.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "d3"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/d3.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ic2020btnew/d3.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "d4"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/d4.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ic2020btnew/d4.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ic2020btnew/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ic2020btnew/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/drl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ic2020btnew/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "drr"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/ic2020bnew/drr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ic2020btnew/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
