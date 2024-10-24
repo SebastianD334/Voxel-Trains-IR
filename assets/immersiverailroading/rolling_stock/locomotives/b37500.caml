@@ -3,6 +3,7 @@ name = "SBB RABDe 500 ICN B 3/7"
 works = "ADtranz, FIAT-SIG / Bombardier, Alstom"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains V6"
+extra_tooltip_info = "Drive sound from verenasounds on Soundcloud"
 model = "immersiverailroading:models/rolling_stock/locomotives/b37500/b37500.obj"
 sound_dampening_percentage = 0.30
 properties =
