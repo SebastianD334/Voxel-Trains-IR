@@ -19,7 +19,7 @@ trucks =
 	rear = -9.59375
 couplers =
 	front_offset = -1.78125
-	rear_offset = -0.03125
+	rear_offset = -0.21875
 	front_slack = 0
 	rear_slack = 0
 animations:
