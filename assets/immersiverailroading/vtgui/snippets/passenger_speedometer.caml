@@ -13,7 +13,7 @@ element:
     element:
         # speed readout
         text =
-            value = "stat.speed"
+            value = "stat.speed stat.units_speed"
             height = 10
         x = 40
         y = 5
