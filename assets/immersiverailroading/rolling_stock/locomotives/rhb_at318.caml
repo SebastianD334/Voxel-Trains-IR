@@ -1,6 +1,6 @@
 era = diesel
 name = "RhB Capricorn At 318"
-works = "STADLER"
+works = "Stadler"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/rhb_at318/rhb_at318.obj"
