@@ -1,6 +1,6 @@
 era = diesel
 name = "SBB RABe 501 Giruno B9"
-works = "STADLER"
+works = "Stadler"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains V5"
 model = "immersiverailroading:models/rolling_stock/locomotives/b9501/b9501.obj"

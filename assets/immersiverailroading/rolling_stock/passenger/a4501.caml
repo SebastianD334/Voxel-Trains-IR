@@ -1,5 +1,5 @@
 name = "SBB RABe 501 Giruno A4"
-works = "STADLER"
+works = "Stadler"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains V5"
 model = "immersiverailroading:models/rolling_stock/passenger/a4501/a4501.obj"

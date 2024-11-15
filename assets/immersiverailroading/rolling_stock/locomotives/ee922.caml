@@ -1,6 +1,6 @@
 era = diesel
 name = "SBB Ee 922"
-works = "Stadler Rail"
+works = "Stadler"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/ee922/ee922.obj"
