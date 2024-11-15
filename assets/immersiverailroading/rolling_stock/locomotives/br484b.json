@@ -44,5 +44,5 @@
 			"texture": "immersiverailroading:textures/no_flare.png"
 		}
 	},
-	 "overlay": "immersiverailroading:gui/vtgui/l160h1c1p.json"
+	"overlay": "immersiverailroading:vtgui/ui/br484power.caml"
 }

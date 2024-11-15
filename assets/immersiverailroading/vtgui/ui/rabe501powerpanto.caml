@@ -21,15 +21,15 @@ element:
     x = -5
     y = -5
     element:
-        # diesel gauge
-        x = -20
-        y = 0
-        import: immersiverailroading:vtgui/snippets/gauge_diesel.caml
-    element:
         # temperature gauge
         x = -45
         y = 0
         import: immersiverailroading:vtgui/snippets/gauge_temperature.caml
+    element:
+        # diesel gauge
+        x = -20
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_diesel.caml
 element:
     # passenger speedometer
     import: immersiverailroading:vtgui/snippets/passenger_speedometer.caml
