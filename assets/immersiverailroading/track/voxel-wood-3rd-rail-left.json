@@ -1,5 +1,6 @@
 {
   "name": "Voxel Third Rail Left Wood",
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-wood-3rd-rail-left/voxel-wood-3rd-rail-left.obj"
   },

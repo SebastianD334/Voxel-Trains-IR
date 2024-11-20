@@ -1,6 +1,6 @@
 {
   "name": "Voxel Meter Gauge Rails Only Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-meter-rails-only/voxel-meter-rails-only.obj"
   },

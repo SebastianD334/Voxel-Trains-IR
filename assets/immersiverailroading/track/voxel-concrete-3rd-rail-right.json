@@ -1,5 +1,6 @@
 {
   "name": "Voxel Third Rail Right Concrete",
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-concrete-3rd-rail-right/voxel-concrete-3rd-rail-right.obj"
   },

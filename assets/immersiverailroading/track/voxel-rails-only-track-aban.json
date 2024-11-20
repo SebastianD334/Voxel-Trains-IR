@@ -1,5 +1,6 @@
 {
   "name": "Voxel Rails Only Abandoned Track",
+  "clack": true,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-rails-only-track-aban/voxel-rails-only-track.obj"
   },

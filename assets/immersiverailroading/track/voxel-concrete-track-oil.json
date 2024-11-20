@@ -1,6 +1,6 @@
 {
   "name": "Voxel Concrete Track Oily",
-    "clack": true,
+  "clack": true,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-concrete-track-oily/voxel-concrete-track-oil.obj"
   },

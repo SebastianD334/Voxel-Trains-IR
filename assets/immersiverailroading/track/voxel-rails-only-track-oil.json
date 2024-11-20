@@ -1,5 +1,6 @@
 {
   "name": "Voxel Rails Only Oily Track",
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-rails-only-track-oil/voxel-rails-only-track.obj"
   },

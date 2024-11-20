@@ -1,6 +1,6 @@
 {
   "name": "Voxel Transrapid Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-transrapid-track/voxel-transrapid-track.obj"
   },

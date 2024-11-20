@@ -1,6 +1,6 @@
 {
   "name": "Voxel Meter Gauge Rails Only Abandoned Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-meter-rails-only-aban/voxel-meter-rails-only.obj"
   },

@@ -1,6 +1,6 @@
 {
   "name": "Voxel Low Profile Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-low-profile-track/voxel-low-profile-track.obj"
   },

@@ -1,6 +1,6 @@
 {
   "name": "Voxel Concrete Meter Gauge Oily Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-meter-concrete-oil/voxel-meter-concrete.obj"
   },

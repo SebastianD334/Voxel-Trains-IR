@@ -1,6 +1,6 @@
 {
   "name": "Voxel Concrete Channel New Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel_concrete_channel_track_new/voxel_concrete_channel_track.obj"
   },

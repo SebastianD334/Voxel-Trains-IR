@@ -1,6 +1,6 @@
 {
   "name": "Voxel Meter Gauge Low Profile Track",
-    "clack": false,
+  "clack": false,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-meter-low-profile/voxel-meter-low-profile.obj"
   },

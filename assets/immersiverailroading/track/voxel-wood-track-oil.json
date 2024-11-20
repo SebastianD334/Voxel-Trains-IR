@@ -1,6 +1,6 @@
 {
   "name": "Voxel Wood Track Oily",
-    "clack": true,
+  "clack": true,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-wood-track-oily/voxel-wood-track-oil.obj"
   },

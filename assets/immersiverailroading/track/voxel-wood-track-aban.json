@@ -1,6 +1,6 @@
 {
   "name": "Voxel Abandoned Wood Track",
-    "clack": true,
+  "clack": true,
   "models": {
     ">0": "immersiverailroading:models/track/voxel-wood-track-aban/voxel-wood-track-abandoned.obj"
   },
