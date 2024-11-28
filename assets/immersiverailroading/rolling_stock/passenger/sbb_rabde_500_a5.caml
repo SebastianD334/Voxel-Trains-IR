@@ -23,3 +23,18 @@ couplers =
 	rear_offset = -0.15625
 	front_slack = 0
 	rear_slack = 0
+controls =
+	slim_doors =
+		default = 1
+animations:
+	control_group = "slim_doors"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_rabde_500_a5/slim_doors.anim"
+	mode = "value"
+animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_rabde_500_a5/d1.anim"
+	mode = "value"
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_rabde_500_a5/d2.anim"
+	mode = "value"

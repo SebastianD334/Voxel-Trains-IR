@@ -40,3 +40,14 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
+controls =
+	slim_doors =
+		default = 1
+animations:
+	control_group = "slim_doors"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_rabde_500_bt1/slim_doors.anim"
+	mode = "value"
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_rabde_500_bt1/d2.anim"
+	mode = "value"
