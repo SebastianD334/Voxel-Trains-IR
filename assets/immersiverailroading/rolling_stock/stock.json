@@ -84,7 +84,7 @@
 		//---------Netherlands------------------------------------ 
 		"sltmabk", "sltmb1", "sltmb2", "sltmb3", 
 		"snga1", "sngb2", "sngc1", 
-		"virmmmbvk1-2new", "virmmmbvk1-2dirty", 
+		"ns_virmm1_mbvk1-2", "ns_virmm1_mbvk1-2_dirty", "ns_virmm1_mbv7",
 		"virmmmbvk1-2", "virmmmbv7", 
 		"icmmmbfknew", "icmmsbknew", 
 		"icmmmbfk", "icmmsbk", "icmmmb", 
@@ -160,7 +160,7 @@
 		//---------Netherlands------------------------------------ 
 		"sltb1", "sltb2", "sltab", "sltl", "sltmb",
 		"sngb", 
-		"virmmabv3-4new", "virmmabv6new", 
+		"ns_virmm1_abv3-4", "ns_virmm1_abv6", "ns_virmm1_abv5",
 		"virmmabv3-4", "virmmabv5", "virmmabv6", 
 		"icmmabnew", 
 		"icmmab", "icmma", 
