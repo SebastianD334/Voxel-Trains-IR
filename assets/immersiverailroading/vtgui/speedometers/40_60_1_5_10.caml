@@ -43,7 +43,6 @@ element:
             rotate =
                 x = 58
                 y = 1
-                degrees = 270
                 offset = -22.5
         element:
             # marker 10
@@ -65,7 +64,6 @@ element:
                 rotate =
                     x = 0
                     y = 2
-                    degrees = 270
                     offset = -0
         element:
             # marker 15
