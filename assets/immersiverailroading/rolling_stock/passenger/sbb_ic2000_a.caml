@@ -1,0 +1,64 @@
+name = "SBB IC2000 A"
+works = "Schindler Waggon"
+modeler = "SebastianD334, Foxy Floofy"
+pack = "Voxel Trains"
+model = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/sbb_ic2000_a.obj"
+sound_dampening_percentage = 0.35
+properties =
+	max_speed_kmh = 200
+	weight_kg = 45000
+	interior_light_level = 0.45
+passenger =
+	slots = 86
+	center_x = 0
+	center_y = 2.75
+	length = 13.4
+	width = 1.9
+trucks =
+	front = 10.09375
+	rear = -10.09375
+couplers =
+	front_offset = -0.125
+	rear_offset = -0.125
+	front_slack = 0
+	rear_slack = 0
+animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/d1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d3"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/d3.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d4"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/d4.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
