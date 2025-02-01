@@ -1,13 +1,10 @@
 {
 	"era": "diesel",
-	"name": "DBpbzfa 766.0",
+	"name": "DB DBpbzfa 766.0",
 	"works": "Bombardier",
 	"modeler": "CEO_of_Dummheit",
-    "pack": "Voxel Trains",
-	"model": "immersiverailroading:models/rolling_stock/locomotives/db_dbpbzfa_766/dbpbzfa766.obj",
-	
-
-	"darken_model": "0",
+	"pack": "Voxel Trains",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/db_dbpbzfa_766/db_dbpbzfa_766.obj",
 	"properties": {
 		"cab_car": true,
 		"fuel_efficiency_%":0,
@@ -17,7 +14,8 @@
 		"max_speed_kmh": 160,
 		"weight_kg": 52000,
 		"linear_brake_control" :true,
-		"interior_light_level": 0.8
+		"interior_light_level": 0.8,
+		"sound_dampening_percentage": 1
 	},
 	"passenger": {
 		"slots": 93,
@@ -29,23 +27,17 @@
 	},
 	"trucks": {
 		"front": 9.625, 
-		"rear": -10,
-		"front_slack" : 0,
-        "rear_slack" : 0 
+		"rear": -10
 	},
 	"couplers": {
-	    "front_offset":0,
+		"front_offset":0,
 		"rear_offset":0,
-	"sound_dampening_percentage": 1
+		"front_slack" : 0,
+		"rear_slack" : 0
 	},
-		"sounds": {
+	"sounds": {
 		"horn": "sounds/sound/horn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"wheels": "sounds/sound/drive.ogg"
 	}
-		
-		}
-
-	
-
-
+}
