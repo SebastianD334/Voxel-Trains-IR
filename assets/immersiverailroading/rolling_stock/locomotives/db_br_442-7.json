@@ -1,0 +1,43 @@
+{
+	"era": "diesel",
+	"name": "DB Br 442.7",
+	"works": "Bombardier",
+	"modeler": "CEO_of_Dummheit",
+	"pack": "Voxel Trains",
+	"model": "immersiverailroading:models/rolling_stock/locomotives/db_br_442-7/db_br_442-7.obj",
+	"properties": {
+		"fuel_efficiency_%":0,
+		"fuel_capacity_l": 0,
+		"horsepower": 1373,
+		"tractive_effort_lbf": 88574,
+		"max_speed_kmh": 160,
+		"weight_kg": 44500,
+		"linear_brake_control" :true,
+		"interior_light_level": 0.8,
+		"sound_dampening_percentage": 1
+	},
+	"passenger": {
+		"slots": 66,
+		"center_x": 0,
+		"center_y": 1.5,
+		"length": 8.5,
+		"width": 2.2,
+		"should_sit": false
+	},
+	"trucks": {
+		"front":9.5625, 
+		"rear": -5.9375
+	},
+	"couplers": {
+		"front_offset":-0.125,
+		"rear_offset":0,
+		"front_slack" : 0,
+		"rear_slack" : 0
+	},
+	"sounds": {
+		"horn": "sounds/sound/horn.ogg",
+		"idle": "sounds/sound/idle.ogg",
+		"wheels": "sounds/sound/drive.ogg"
+	},
+	"overlay": "immersiverailroading:vtgui/ui/db_dbpbzfa_766.caml"
+}

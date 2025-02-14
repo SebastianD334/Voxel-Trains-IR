@@ -1,0 +1,38 @@
+{
+    "name": "DB Br 443.7",
+    "modeler": "CEO_of_Dummheit",
+    "pack": "Voxel Trains",
+    "model": "immersiverailroading:models/rolling_stock/passenger/db_br_443-7/db_br_443-7.obj",
+   
+    
+    "properties": {
+        "weight_kg": 23000,
+        "sound_dampening_percentage": 1,
+        "interior_light_level": 0.8
+
+    },
+    "passenger": {
+        "slots": 40,
+        "center_x": 0,
+        "center_y":1,
+        "length": 7.6,
+        "width": 2.2
+
+    
+
+    },
+	"trucks": {
+		"front": 8.1875, 
+		"rear": -6.6875,
+        "front_slack" : 0,
+        "rear_slack" : 0 
+	
+	},
+    "couplers":{
+	    "front_offset":0,
+		"rear_offset":-1.8125,
+	"sound_dampening_percentage": 1
+
+    
+    }
+}
