@@ -9,7 +9,7 @@
 		"fuel_efficiency_%":0,
 		"fuel_capacity_l": 0,
 		"horsepower": 1373,
-		"tractive_effort_lbf": 88574,
+		"tractive_effort_lbf": 15346.9571823,
 		"max_speed_kmh": 160,
 		"weight_kg": 44500,
 		"linear_brake_control" :true,
@@ -29,7 +29,7 @@
 		"rear": -9.5625
 	},
 	"couplers": {
-		"front_offset":-0.125,
+		"front_offset":0,
 		"rear_offset":-1.8,
 		"front_slack" : 0,
 		"rear_slack" : 0

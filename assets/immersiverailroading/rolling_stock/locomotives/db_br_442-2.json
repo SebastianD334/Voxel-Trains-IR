@@ -9,7 +9,7 @@
 		"fuel_efficiency_%":0,
 		"fuel_capacity_l": 0,
 		"horsepower": 1373,
-		"tractive_effort_lbf": 88574,
+		"tractive_effort_lbf": 15346.9571823,
 		"max_speed_kmh": 160,
 		"weight_kg": 44500,
 		"linear_brake_control" :true,
