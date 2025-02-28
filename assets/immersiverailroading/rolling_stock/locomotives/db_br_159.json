@@ -27,8 +27,8 @@
 		"should_sit": false
 	},
 	"trucks": {
-		"front": 6.8125, 
-		"rear": -6.875,
+		"front": 6.6875, 
+		"rear": -6.6875,
 		"front_slack" : 0,
         "rear_slack" : 0 
 	},
