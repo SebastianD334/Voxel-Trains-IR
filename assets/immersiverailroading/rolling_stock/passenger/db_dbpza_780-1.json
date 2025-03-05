@@ -23,16 +23,15 @@
     },
 	"trucks": {
 		"front": 9.8125, 
-		"rear": -9.625,
+		"rear": -9.625
+
+	},
+    "couplers":{
+	    "front_offset":0,
+		"rear_offset":0,
         "front_slack" : 0,
         "rear_slack" : 0 
         
-	},
-    "couplers":{
-	    "front_offset":-0.1,
-		"rear_offset":-0.1,
-	"sound_dampening_percentage": 1
-
     
     }
 }
