@@ -1,7 +1,7 @@
 {
 	"name": "DB Samms 709",
 	"works": "Waggonbau Graaff",
-	"modeler": "UnitFireFox",
+	"modeler": "UnitFireFox, CEO_of_Dummheit",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/freight/samms709/samms709_graaff.obj",
 	"show_current_load_only": true,
@@ -11,7 +11,7 @@
 		"independent_brake": true
 	},
 	"extra_tooltip_info": [
-		"Waggonbau Graaff Variant",
+		"Waggonbau Graaff",
 		"Loaded with Leopard 2A6"
 	  ],
 	"passenger": {
