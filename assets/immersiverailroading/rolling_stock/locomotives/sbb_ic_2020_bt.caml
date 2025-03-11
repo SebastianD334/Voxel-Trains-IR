@@ -31,7 +31,14 @@ couplers =
 	rear_slack = 0
 sounds =
 	horn = "sounds/re460horn.ogg"
-overlay = "immersiverailroading:vtgui/ui/re460cab.caml"
+overlay = "immersiverailroading:vtgui/ui/ic2000cab.caml"
+controls =
+	slim_covers =
+		default = 1
+	connected1 =
+		default = 1
+	connected2 =
+		default = 1
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
@@ -72,3 +79,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_ic_2020_bt/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
+animations:
+	control_group = "slim_covers"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_ic_2020_bt/slim_covers.anim"
+	mode = "value"

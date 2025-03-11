@@ -1,0 +1,358 @@
+element:
+    # Gangway 1
+    x = 0
+    y = 0
+    image = "immersiverailroading:vtgui/buttons/button.png"
+    element:
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/spice.png"
+    element:
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/number_1.png"
+    element:
+        # off
+        x = 0
+        y = 0
+        toggle = true
+        hide = true
+        invert = true
+        setting = "gangway1"
+        image = "immersiverailroading:vtgui/specific/ic2000/gangway_off.png"
+    element:
+        # on
+        x = 0
+        y = 0
+        toggle = true
+        hide = true
+        setting = "gangway1"
+        image = "immersiverailroading:vtgui/specific/ic2000/gangway_on.png"
+        element:
+            # arrow
+            x = 22
+            y = -75
+            image = "immersiverailroading:vtgui/arrows/arrow_1-4.png"
+            element:
+                # Connected Button
+                x = 8
+                y = 75
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Connected"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "connected1"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Connected"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "connected1"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "connected1"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+            element:
+                # No Cover Button
+                x = 8
+                y = 50
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "No Cover"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "nocover1"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "No Cover"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "nocover1"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "nocover1"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+            element:
+                # Soft Cover Button
+                x = 8
+                y = 25
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Soft Cover"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "softcover1"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Soft Cover"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "softcover1"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "softcover1"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+            element:
+                # Hard Cover Button
+                x = 8
+                y = 0
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Hard Cover"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "hardcover1"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Hard Cover"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "hardcover1"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "hardcover1"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+element:
+    # Gangway 2
+    x = 0
+    y = -25
+    image = "immersiverailroading:vtgui/buttons/button.png"
+    element:
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/spice.png"
+    element:
+        x = 0
+        y = 0
+        image = "immersiverailroading:vtgui/buttons/number_2.png"
+    element:
+        # off
+        x = 0
+        y = 0
+        toggle = true
+        hide = true
+        invert = true
+        setting = "gangway2"
+        image = "immersiverailroading:vtgui/specific/ic2000/gangway_off.png"
+    element:
+        # on
+        x = 0
+        y = 0
+        toggle = true
+        hide = true
+        setting = "gangway2"
+        image = "immersiverailroading:vtgui/specific/ic2000/gangway_on.png"
+        element:
+            # arrow
+            x = 22
+            y = -50
+            image = "immersiverailroading:vtgui/arrows/arrow_2-4.png"
+            element:
+                # Connected Button
+                x = 8
+                y = 75
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Connected"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "connected2"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Connected"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "connected2"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "connected2"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+            element:
+                # No Cover Button
+                x = 8
+                y = 50
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "No Cover"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "nocover2"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "No Cover"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "nocover2"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "nocover2"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+            element:
+                # Soft Cover Button
+                x = 8
+                y = 25
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Soft Cover"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "softcover2"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Soft Cover"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "softcover2"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "softcover2"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"
+            element:
+                # Hard Cover Button
+                x = 8
+                y = 0
+                image = "immersiverailroading:vtgui/buttons/button_wide.png"
+                element:
+                    # on
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Hard Cover"
+                        height = 8
+                    color =
+                        0 = "0xFFF0F0F0"
+                    toggle = true
+                    hide = true
+                    control = "hardcover2"
+                element:
+                    # off
+                    x = 40
+                    y = 6
+                    text =
+                        value = "Hard Cover"
+                        height = 8
+                    color =
+                        0 = "0xFF505050"
+                    toggle = true
+                    hide = true
+                    invert = true
+                    control = "hardcover2"
+                element:
+                    x = 0
+                    y = 0
+                    toggle = true
+                    control = "hardcover2"
+                    image = "immersiverailroading:vtgui/buttons/spice_wide.png"

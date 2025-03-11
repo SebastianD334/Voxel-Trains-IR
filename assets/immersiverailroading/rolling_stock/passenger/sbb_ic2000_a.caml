@@ -22,6 +22,14 @@ couplers =
 	rear_offset = -0.125
 	front_slack = 0
 	rear_slack = 0
+overlay = "immersiverailroading:vtgui/ui/ic2000.caml"
+controls =
+	slim_covers =
+		default = 1
+	connected1 =
+		default = 1
+	connected2 =
+		default = 1
 animations:
 	control_group = "d1"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/d1.anim"
@@ -62,3 +70,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
+animations:
+	control_group = "slim_covers"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic2000_a/slim_covers.anim"
+	mode = "value"

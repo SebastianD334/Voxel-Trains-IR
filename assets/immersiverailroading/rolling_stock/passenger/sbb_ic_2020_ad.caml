@@ -2,7 +2,7 @@ name = "SBB IC 2020 AD"
 works = "Schindler Waggon"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains"
-model = "immersiverailroading:models/rolling_stock/passenger/sbb_ic_2020_AD/sbb_ic_2020_AD.obj"
+model = "immersiverailroading:models/rolling_stock/passenger/sbb_ic_2020_ad/sbb_ic_2020_ad.obj"
 sound_dampening_percentage = 0.35
 properties =
 	max_speed_kmh = 200
@@ -22,14 +22,21 @@ couplers =
 	rear_offset = -0.125
 	front_slack = 0
 	rear_slack = 0
+overlay = "immersiverailroading:vtgui/ui/ic2000ad.caml"
 controls =
 	elevator =
 		default = 0.424242
-	slim_doors =
+	slim_door =
+		default = 1
+	slim_covers =
+		default = 1
+	connected1 =
+		default = 1
+	connected2 =
 		default = 1
 animations:
-	control_group = "slim_doors"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic_2020_ad/slim_doors.anim"
+	control_group = "slim_door"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic_2020_ad/slim_door.anim"
 	mode = "value"
 animations:
 	control_group = "d2"
@@ -61,3 +68,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic_2020_ad/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
+animations:
+	control_group = "slim_covers"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ic_2020_ad/slim_covers.anim"
+	mode = "value"

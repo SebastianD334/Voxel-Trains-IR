@@ -1,0 +1,11 @@
+element:
+    # buttons
+    screen_x = LEFT
+    screen_y = BOTTOM
+    x = 5
+    y = -5
+    element:
+        # Gangway 2
+        x = 0
+        y = -20
+        import: immersiverailroading:vtgui/specific/ic2000/gangway2.caml
