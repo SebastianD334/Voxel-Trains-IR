@@ -32,14 +32,14 @@
         "rear_slack" : 0 
 	},
 	"couplers": {
-	    "front_offset":-0.5,
-		"rear_offset":-0.5,
+	    "front_offset":-0.46875,
+		"rear_offset":-0.46875,
 	"sound_dampening_percentage": 1
 	},
 		"sounds": {
-		"horn": "sounds/sound/horn.ogg",
-		"idle": "sounds/sound/idle.ogg",
-		"wheels": "sounds/sound/drive.ogg"
+		"horn": "sounds/db/br_111_horn.ogg",
+		"idle": "sounds/db/br_111_idle.ogg",
+		"wheels": "sounds/db/br_111_drive.ogg"
 	}
 		
 		}
