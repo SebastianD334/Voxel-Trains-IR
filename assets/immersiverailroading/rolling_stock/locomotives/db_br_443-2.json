@@ -5,6 +5,7 @@
 	"modeler": "CEO_of_Dummheit",
 	"pack": "Voxel Trains",
 	"model": "immersiverailroading:models/rolling_stock/locomotives/db_br_443-2/db_br_443-2.obj",
+	"overlay": "immersiverailroading:vtgui/ui/talent2power.caml",
 	"properties": {
 		"fuel_efficiency_%":0,
 		"fuel_capacity_l": 0,
