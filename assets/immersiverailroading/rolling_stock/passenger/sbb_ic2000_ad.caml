@@ -30,8 +30,6 @@ controls =
 		default = 1
 	slim_covers =
 		default = 1
-	connected1 =
-		default = 1
 	connected2 =
 		default = 1
 animations:
