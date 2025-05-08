@@ -37,7 +37,7 @@
 		"rear_slack" : 0
 	},
 	"sounds": {
-		"horn": "sounds/dosto94/dosto94horn.ogg",
+		"horn": "sounds/sound/dosto94horn.ogg",
 		"idle": "sounds/sound/idle.ogg",
 		"wheels": "sounds/sound/drive.ogg"
 	}
