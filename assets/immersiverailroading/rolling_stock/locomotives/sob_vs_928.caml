@@ -23,16 +23,30 @@ trucks =
 	rear = -7.8125
 couplers =
 	front_offset = -0.5625
-	rear_offset = -0.3125
+	rear_offset = -0.15625
 	front_slack = 0
 	rear_slack = 0
 sounds =
 	horn = "sounds/dosto94/dosto94horn.ogg"
 	idle = "sounds/sound/idle2.ogg"
 	track_wheels = "sounds/sound/drive.ogg"
-
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/vt_628_dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 2.2
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/vt_628_dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 2.2
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/vt_628_drl.anim"
+	mode = "play_both"
+	frames_per_tick = 2.2
