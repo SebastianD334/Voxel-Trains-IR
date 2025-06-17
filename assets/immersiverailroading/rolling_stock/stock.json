@@ -187,9 +187,10 @@
 		"vtua10", 
 
 		//---------Austria---------------------------------------- 
-		"railjet_bmpz"
+		"railjet_bmpz",
 		
 		//---------Miscellaneous---------------------------------- 
+		"portaloonew",
 	],
 
 	"freight": [
