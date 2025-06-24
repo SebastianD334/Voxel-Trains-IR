@@ -1,0 +1,43 @@
+name = "DB BR 401 ICE 1"
+consist:
+	stock = "br401"
+	direction = "FLIPPED"
+consist:
+	stock = "br802"
+	direction = "FLIPPED"
+consist:
+	stock = "br802"
+	direction = "FLIPPED"
+consist:
+	stock = "br802"
+	direction = "FLIPPED"
+consist:
+	stock = "br802"
+	direction = "FLIPPED"
+consist:
+	stock = "br802"
+	direction = "FLIPPED"
+consist:
+	stock = "br802"
+	direction = "FLIPPED"
+consist:
+	stock = "br802"
+	direction = "FLIPPED"
+consist:
+	stock = "br804"
+	direction = "DEFAULT"
+consist:
+	stock = "br802"
+	direction = "DEFAULT"
+consist:
+	stock = "br802"
+	direction = "DEFAULT"
+consist:
+	stock = "br802"
+	direction = "DEFAULT"
+consist:
+	stock = "br802"
+	direction = "DEFAULT"
+consist:
+	stock = "br401"
+	direction = "DEFAULT"

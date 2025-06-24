@@ -251,5 +251,29 @@
 
 		//---------Miscellaneous---------------------------------- 
     	"draisine"
+    ],
+
+    "multiple_unit": [
+    	"db_br_401", 
+    	"db_br_407", 
+    	"sbb_hvz", 
+    	"sbb_dpzplus", 
+    	"sbb_rabde_500", 
+    	"sbb_rabe_501", 
+    	"sob_traverso", 
+    	"sob_flirt3", 
+    	"rhb_capricorn", 
+    	"ns_sng-iii", 
+    	"ns_sng-iv", 
+    	"ns_virmm-1-iv", 
+    	"ns_virmm-1-vi", 
+    	"ns_icmm-iii", 
+    	"vbz_cobra", 
+    	"vbg_cobra", 
+
+    	// Freight_______________________________________
+
+    	"hupac_t3000e", 
+    	"laeks_427"
     ]
 }

@@ -1,0 +1,28 @@
+name = "VBZ Be 5/6 Cobra"
+consist:
+	stock = "cobra1"
+	direction = "FLIPPED"
+consist:
+	stock = "cobrabellow"
+	direction = "FLIPPED"
+consist:
+	stock = "cobra2"
+	direction = "FLIPPED"
+consist:
+	stock = "cobrabellow"
+	direction = "FLIPPED"
+consist:
+	stock = "cobra3"
+	direction = "FLIPPED"
+consist:
+	stock = "cobrabellow"
+	direction = "FLIPPED"
+consist:
+	stock = "cobra4"
+	direction = "FLIPPED"
+consist:
+	stock = "cobrabellow"
+	direction = "FLIPPED"
+consist:
+	stock = "cobra5"
+	direction = "FLIPPED"

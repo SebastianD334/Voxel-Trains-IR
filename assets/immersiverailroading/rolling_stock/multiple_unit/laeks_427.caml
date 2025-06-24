@@ -1,0 +1,7 @@
+name = "GEFCO Laeks 427"
+consist:
+	stock = "laeks427_2"
+	direction = "DEFAULT"
+consist:
+	stock = "laeks427_1"
+	direction = "DEFAULT"

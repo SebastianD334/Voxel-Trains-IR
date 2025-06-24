@@ -1,0 +1,25 @@
+name = "DB BR 407 ICE 3 (MS)"
+consist:
+	stock = "db_br_407_5"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_407_6"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_407_7"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_407_8"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_407_8"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_407_7"
+	direction = "DEFAULT"
+consist:
+	stock = "db_br_407_6"
+	direction = "DEFAULT"
+consist:
+	stock = "db_br_407_5"
+	direction = "DEFAULT"

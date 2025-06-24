@@ -1,0 +1,7 @@
+name = "HUPAC Sdggmrss 4992 T3000e"
+consist:
+	stock = "hupac_t3000e_b"
+	direction = "DEFAULT"
+consist:
+	stock = "hupac_t3000e_a"
+	direction = "DEFAULT"

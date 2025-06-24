@@ -1,0 +1,25 @@
+name = "SOB RABe 526 FLIRT3 Traverso"
+consist:
+	stock = "sob_traverso_8"
+	direction = "FLIPPED"
+consist:
+	stock = "sob_traverso_7"
+	direction = "FLIPPED"
+consist:
+	stock = "sob_traverso_6"
+	direction = "FLIPPED"
+consist:
+	stock = "sob_traverso_5"
+	direction = "FLIPPED"
+consist:
+	stock = "sob_traverso_4"
+	direction = "DEFAULT"
+consist:
+	stock = "sob_traverso_3"
+	direction = "DEFAULT"
+consist:
+	stock = "sob_traverso_2"
+	direction = "DEFAULT"
+consist:
+	stock = "sob_traverso_1"
+	direction = "DEFAULT"

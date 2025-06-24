@@ -1,0 +1,13 @@
+name = "SBB DPZplus"
+consist:
+	stock = "sbb_re_450"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_b_dpz_ndw"
+	direction = "DEFAULT"
+consist:
+	stock = "sbb_ab_dpzplus"
+	direction = "DEFAULT"
+consist:
+	stock = "sbb_bt_dpzplus"
+	direction = "DEFAULT"

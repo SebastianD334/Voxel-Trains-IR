@@ -1,0 +1,13 @@
+name = "SOB RABe 526 FLIRT3"
+consist:
+	stock = "sob_flirt3_4"
+	direction = "FLIPPED"
+consist:
+	stock = "sob_flirt3_3"
+	direction = "FLIPPED"
+consist:
+	stock = "sob_flirt3_2"
+	direction = "DEFAULT"
+consist:
+	stock = "sob_flirt3_1"
+	direction = "DEFAULT"

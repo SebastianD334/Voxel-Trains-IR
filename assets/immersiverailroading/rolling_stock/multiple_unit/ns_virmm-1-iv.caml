@@ -1,0 +1,15 @@
+name = "NS VIRMm-1-IV"
+consist:
+	stock = "ns_virmm1_mbvk1-2_dirty"
+	direction = "FLIPPED"
+consist:
+	stock = "ns_virmm1_abv6"
+	texture = ""
+	direction = "FLIPPED"
+consist:
+	stock = "ns_virmm1_abv3-4"
+	texture = ""
+	direction = "FLIPPED"
+consist:
+	stock = "ns_virmm1_mbvk1-2"
+	direction = "DEFAULT"

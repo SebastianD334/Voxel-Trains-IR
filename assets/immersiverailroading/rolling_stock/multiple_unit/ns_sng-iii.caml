@@ -1,0 +1,11 @@
+name = "NS SNG-III"
+consist:
+	stock = "ns_sng_a1-2"
+	direction = "FLIPPED"
+consist:
+	stock = "ns_sng_b"
+	texture = ""
+	direction = "FLIPPED"
+consist:
+	stock = "ns_sng_a2"
+	direction = "DEFAULT"

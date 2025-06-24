@@ -1,0 +1,34 @@
+name = "SBB RABe 501 Giruno"
+consist:
+	stock = "bt1501"
+	direction = "FLIPPED"
+consist:
+	stock = "b11501"
+	direction = "FLIPPED"
+consist:
+	stock = "b10501"
+	direction = "FLIPPED"
+consist:
+	stock = "b9501"
+	direction = "FLIPPED"
+consist:
+	stock = "b8501"
+	direction = "FLIPPED"
+consist:
+	stock = "wr6501"
+	direction = "DEFAULT"
+consist:
+	stock = "b7501"
+	direction = "FLIPPED"
+consist:
+	stock = "a5501"
+	direction = "DEFAULT"
+consist:
+	stock = "a4501"
+	direction = "DEFAULT"
+consist:
+	stock = "a3501"
+	direction = "DEFAULT"
+consist:
+	stock = "at2501"
+	direction = "DEFAULT"

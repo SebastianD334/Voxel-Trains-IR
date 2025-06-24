@@ -1,0 +1,11 @@
+name = "NS ICMm-III"
+consist:
+	stock = "icmmmbfknew"
+	direction = "FLIPPED"
+consist:
+	stock = "icmmabnew"
+	texture = ""
+	direction = "DEFAULT"
+consist:
+	stock = "icmmsbknew"
+	direction = "DEFAULT"

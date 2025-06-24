@@ -1,0 +1,13 @@
+name = "RhB ABe 4/16 Capricorn"
+consist:
+	stock = "rhb_be_4-4_310"
+	direction = "FLIPPED"
+consist:
+	stock = "rhb_b316"
+	direction = "DEFAULT"
+consist:
+	stock = "rhb_b317"
+	direction = "DEFAULT"
+consist:
+	stock = "rhb_at318"
+	direction = "DEFAULT"

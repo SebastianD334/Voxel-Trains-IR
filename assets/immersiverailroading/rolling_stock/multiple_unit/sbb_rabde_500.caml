@@ -1,0 +1,22 @@
+name = "SBB RABDe 500 ICN"
+consist:
+	stock = "sbb_rabde_500_bt1"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_rabde_500_b3-7"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_rabde_500_ad6"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_rabde_500_a5"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_rabde_500_wra4"
+	direction = "DEFAULT"
+consist:
+	stock = "sbb_rabde_500_b3-7"
+	direction = "DEFAULT"
+consist:
+	stock = "sbb_rabde_500_bt1"
+	direction = "DEFAULT"

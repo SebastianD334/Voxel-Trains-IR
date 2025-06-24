@@ -1,0 +1,25 @@
+name = "SBB HVZ"
+consist:
+	stock = "re420lion"
+	direction = "RANDOM"
+consist:
+	stock = "bhvz"
+	direction = "DEFAULT"
+consist:
+	stock = "abhvz"
+	direction = "DEFAULT"
+consist:
+	stock = "bhvz"
+	direction = "DEFAULT"
+consist:
+	stock = "bhvz"
+	direction = "DEFAULT"
+consist:
+	stock = "abhvz"
+	direction = "DEFAULT"
+consist:
+	stock = "bhvz"
+	direction = "DEFAULT"
+consist:
+	stock = "re420lion"
+	direction = "RANDOM"
