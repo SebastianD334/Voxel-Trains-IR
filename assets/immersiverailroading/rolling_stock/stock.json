@@ -55,7 +55,7 @@
 		//---------Switzerland------------------------------------ 
 		"sbb_tm_234_crane", 
 		"re420swissex", "re420sbbgreen", "re420sbb", "re421cargo", "re420lion", "re420bls", 
-		"sbb_re_450", "sbb_dpzplus_bt", 
+		"sbb_re_450", "sbb_bt_dpzplus", 
 		"re450", "btdpzplus", 
 		"sbb_re_460", 
 		"re460", 
@@ -144,7 +144,7 @@
 		"sorefameregional1", "sorefameregional2", 
 		
 		//---------Switzerland------------------------------------ 
-		"sbb_dpz_ndw_b", "sbb_dpzplus_ab", 
+		"sbb_b_dpz_ndw", "sbb_ab_dpzplus", 
 		"bdpzndw", "abdpzplus", 
 		"bhvz", "abhvz", 
 		"sbb_rabde_500_wra4", "sbb_rabde_500_a5", "sbb_rabde_500_ad6", 
