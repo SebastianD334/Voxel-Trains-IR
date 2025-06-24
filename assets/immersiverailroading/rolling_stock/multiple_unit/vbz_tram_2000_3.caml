@@ -1,0 +1,16 @@
+name = "VBZ Tram 2000 3rd Gen"
+consist:
+	stock = "tram20003front"
+	direction = "FLIPPED"
+consist:
+	stock = "tram2000bogie"
+	direction = "FLIPPED"
+consist:
+	stock = "tram20003middle"
+	direction = "FLIPPED"
+consist:
+	stock = "tram2000bogie"
+	direction = "FLIPPED"
+consist:
+	stock = "tram20003rear"
+	direction = "FLIPPED"

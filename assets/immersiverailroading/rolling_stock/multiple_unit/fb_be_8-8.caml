@@ -1,0 +1,7 @@
+name = "Forchbahn Be 8/8"
+consist:
+	stock = "fbbe88f"
+	direction = "FLIPPED"
+consist:
+	stock = "fbbe88f"
+	direction = "DEFAULT"

@@ -1,0 +1,19 @@
+name = "SBB RABe 511 KISS 6-Car IR"
+consist:
+	stock = "bt16511sbb"
+	direction = "FLIPPED"
+consist:
+	stock = "ab2511sbb"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_rabe_511_b3"
+	direction = "DEFAULT"
+consist:
+	stock = "b4511sbb"
+	direction = "DEFAULT"
+consist:
+	stock = "ab5511sbb"
+	direction = "DEFAULT"
+consist:
+	stock = "bt16511sbb"
+	direction = "DEFAULT"

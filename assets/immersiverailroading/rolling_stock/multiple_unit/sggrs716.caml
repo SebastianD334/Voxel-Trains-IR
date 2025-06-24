@@ -1,0 +1,7 @@
+name = "DB Cargo Sggrs 716"
+consist:
+	stock = "sggrs716_2"
+	direction = "DEFAULT"
+consist:
+	stock = "sggrs716_1"
+	direction = "DEFAULT"

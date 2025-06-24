@@ -1,0 +1,10 @@
+name = "VBZ Tram 2000 1st Gen Blinde Kuh"
+consist:
+	stock = "tram20001bkfront"
+	direction = "FLIPPED"
+consist:
+	stock = "tram2000bogie"
+	direction = "FLIPPED"
+consist:
+	stock = "tram20001bkrear"
+	direction = "FLIPPED"

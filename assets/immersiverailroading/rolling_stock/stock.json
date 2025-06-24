@@ -261,6 +261,10 @@
     	"sbb_dpzplus", 
     	"sbb_rabde_500", 
     	"sbb_rabe_501", 
+    	"sbb_rabe_511_regio", 
+    	"sbb_rabe_511_ir_4", 
+    	"sbb_rabe_511_ir_6", 
+    	"sbb_rabe_514", 
     	"sob_traverso", 
     	"sob_flirt3", 
     	"rhb_capricorn", 
@@ -269,11 +273,19 @@
     	"ns_virmm-1-iv", 
     	"ns_virmm-1-vi", 
     	"ns_icmm-iii", 
+
+    	// Light Rail____________________________________
+    	"fb_be_4-6", 
+    	"fb_be_8-8", 
+
+    	// Tram__________________________________________
     	"vbz_cobra", 
     	"vbg_cobra", 
+    	"vbz_tram_2000_1", "vbz_tram_2000_1_bk", 
+    	"vbz_tram_2000_2", 
+    	"vbz_tram_2000_3", 
 
     	// Freight_______________________________________
-
     	"hupac_t3000e", 
     	"laeks_427"
     ]

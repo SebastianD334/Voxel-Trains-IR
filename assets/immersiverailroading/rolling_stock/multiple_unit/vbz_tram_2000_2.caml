@@ -1,0 +1,10 @@
+name = "VBZ Tram 2000 2nd Gen"
+consist:
+	stock = "tram20002front"
+	direction = "FLIPPED"
+consist:
+	stock = "tram2000bogie"
+	direction = "FLIPPED"
+consist:
+	stock = "tram20002rear"
+	direction = "FLIPPED"

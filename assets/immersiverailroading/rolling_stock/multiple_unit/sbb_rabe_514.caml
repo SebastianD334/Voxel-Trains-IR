@@ -1,0 +1,13 @@
+name = "SBB RABe 514 DTZ"
+consist:
+	stock = "at1514"
+	direction = "FLIPPED"
+consist:
+	stock = "b2514"
+	direction = "FLIPPED"
+consist:
+	stock = "b3514"
+	direction = "DEFAULT"
+consist:
+	stock = "bt4514"
+	direction = "DEFAULT"

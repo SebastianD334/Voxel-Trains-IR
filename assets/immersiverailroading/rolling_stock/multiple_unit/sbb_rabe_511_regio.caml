@@ -1,0 +1,19 @@
+name = "SBB RABe 511 KISS Regio"
+consist:
+	stock = "bt16511"
+	direction = "FLIPPED"
+consist:
+	stock = "ab2511"
+	direction = "FLIPPED"
+consist:
+	stock = "b3511"
+	direction = "FLIPPED"
+consist:
+	stock = "b4511"
+	direction = "DEFAULT"
+consist:
+	stock = "ab5511"
+	direction = "DEFAULT"
+consist:
+	stock = "bt16511"
+	direction = "DEFAULT"
