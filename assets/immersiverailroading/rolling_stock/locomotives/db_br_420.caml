@@ -4,6 +4,7 @@ works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/db_br_420.obj"
+overlay = "immersiverailroading:vtgui/ui/db_br_420.caml"
 sound_dampening_percentage = 0.9
 properties =
 	fuel_efficiency_% = 99
