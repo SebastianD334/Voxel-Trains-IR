@@ -22,7 +22,7 @@
 		"db_br_407_7", "db_br_407_5", 
 		"br4070", "br4075", "br4070g", "br4075g", 
 		"db_br_442-2","db_br_443-2","db_br_442-7",
-		"db_br_420","db_br_421",
+		"db_br_420","db_br_421","db_br_420_modernized","db_br_421_modernized",
 		"sob_vt_628","sob_vs_928","neg_vt_505","neg_vt_506",
 		"br481",
 		"br484a", "br484b",
@@ -259,6 +259,7 @@
     "multiple_unit": [
     	"db_br_401", 
     	"db_br_407", 
+		"db_br_420", "db_br_420_modernized",
     	"sbb_hvz", 
     	"sbb_dpzplus", 
     	"sbb_rabde_500", 
