@@ -34,9 +34,9 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = "sounds/dosto94/dosto94horn.ogg"
-	idle = "sounds/db/vt628_idle.ogg"
-	wheels = "sounds/db/vt628_drive.ogg"
+	horn = "sounds/db/br_111_horn.ogg"
+	idle = "sounds/db/br_420_idle.ogg"
+	wheels = "sounds/db/br_111_drive.ogg"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
@@ -47,3 +47,4 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_modernized/lights_off.anim"
 	mode = "play_both"
 	invert = true
+
