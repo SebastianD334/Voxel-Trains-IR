@@ -1,5 +1,5 @@
 era = diesel
-name = "TRI BR 111"
+name = "TRI BR 111 130"
 works = "AEG, BBC, Henschel, Krauss-Maffei, Krupp, Siemens"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -11,7 +11,7 @@ properties =
 	horsepower = 5030
 	tractive_effort_lbf = 61597
 	max_speed_kmh = 160
-	weight_kg = 123000
+	weight_kg = 83000
 	interior_light_level = 0.60
 	linear_brake_control = true
 	throttle_notches = 28
