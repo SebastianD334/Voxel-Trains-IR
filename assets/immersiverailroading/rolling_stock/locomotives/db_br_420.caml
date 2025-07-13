@@ -48,3 +48,60 @@ animations:
 	mode = "play_both"
 	invert = true
 
+animations:
+	control_group = "whistle"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/br_420_horn.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "dfml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfml.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drml.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "dfmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfmr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drmr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+

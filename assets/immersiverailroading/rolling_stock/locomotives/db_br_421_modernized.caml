@@ -43,3 +43,58 @@ lights =
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
 
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_modernized/zza_off.anim"
+	mode = "play_both"
+	invert = true
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "dfml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfml.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drml.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "dfmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfmr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drmr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
