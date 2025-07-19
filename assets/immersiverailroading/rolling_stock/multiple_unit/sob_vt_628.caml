@@ -1,7 +1,0 @@
-name = "SOB VT 628.4"
-consist:
-	stock = "sob_vt_628"
-	direction = "FLIPPED"
-consist:
-	stock = "sob_vs_928"
-	direction = "DEFAULT"

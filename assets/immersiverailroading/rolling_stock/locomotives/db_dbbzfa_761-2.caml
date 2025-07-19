@@ -1,0 +1,69 @@
+era = diesel
+name = "DB REGIO DBbzfa 761.2"
+works = "Waggonbau Goerlitz"
+modeler = "CEO_of_Dummheit"
+pack = "Voxel Trains"
+model = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/db_dbbzfa_761-2.obj"
+overlay = "immersiverailroading:vtgui/ui/db_dbbzfa_761.caml"
+sound_dampening_percentage = 0.9
+properties =
+	max_speed_kmh = 140
+	weight_kg = 48000
+	interior_light_level = 0.8
+	linear_brake_control = true
+	throttle_notches = 28
+	cab_car = true
+passenger =
+	slots = 103
+	center_x = -1.2
+	center_y = 1.5
+	length = 12.5
+	width = 2.2
+trucks =
+	front = 9.625
+	rear = -9.75
+couplers =
+	front_offset = -0.5
+	rear_offset = -0.375
+	front_slack = 0
+	rear_slack = 0
+sounds =
+	horn = "sounds/dosto94/dosto94horn.ogg"
+	idle = "sounds/sound/idle.ogg"
+	wheels = "sounds/db/drive.ogg"
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/dfl2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/dfr2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/drl2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/drr2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "gdr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/gdr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/lights_off.anim"
+	mode = "play_both"
+	invert = true
