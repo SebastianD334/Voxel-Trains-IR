@@ -38,22 +38,22 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/dfl2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/dfr2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/drl2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
 	control_group = "drr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/drr2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_dbbzfa_761/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:

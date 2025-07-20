@@ -28,8 +28,8 @@ animations:
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
-	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_dbpza_751/dfr.anim"
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_dbpza_751/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
