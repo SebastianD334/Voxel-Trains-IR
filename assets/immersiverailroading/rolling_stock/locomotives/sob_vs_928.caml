@@ -37,16 +37,16 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/vt_628_dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/dfl.anim"
 	mode = "play_both"
-	frames_per_tick = 2.2
+	frames_per_tick = 3.0
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/vt_628_dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/dfr.anim"
 	mode = "play_both"
-	frames_per_tick = 2.2
+	frames_per_tick = 3.0
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/vt_628_drl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/drl.anim"
 	mode = "play_both"
-	frames_per_tick = 2.2
+	frames_per_tick = 3.0
