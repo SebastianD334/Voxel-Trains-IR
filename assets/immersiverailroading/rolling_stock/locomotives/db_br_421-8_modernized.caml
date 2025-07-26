@@ -1,0 +1,100 @@
+era = diesel
+name = "S-Bahn Muenchen BR 421 8.Bauserie modernized"
+works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
+modeler = "CEO_of_Dummheit"
+pack = "Voxel Trains"
+model = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/db_br_421-8_modernized.obj"
+overlay = "immersiverailroading:vtgui/ui/single_panto_power.caml"
+sound_dampening_percentage = 0.9
+properties =
+	fuel_efficiency_% = 99
+	fuel_capacity_l = 1250
+	horsepower = 1088
+	tractive_effort_lbf = 32597
+	max_speed_kmh = 120
+	weight_kg = 41000
+	interior_light_level = 0.6
+	linear_brake_control = true
+	throttle_notches = 100
+	rolling_resistance_coefficient = 0.0007
+	drag_coefficient = 0.8
+	dynamic_traction_control = false
+passenger =
+	slots = 66
+	center_x = -1.2
+	center_y = 1.5
+	length = 11
+	width = 2.2
+trucks =
+	front = 7
+	rear = -6.9375
+couplers =
+	front_offset = 0
+	rear_offset = 0
+	front_slack = 0
+	rear_slack = 0
+sounds =
+	horn = "sounds/stille.ogg"
+	idle = "sounds/db/br_420_idle.ogg"
+	wheels = "sounds/db/br_111_drive.ogg"
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_modernized/zza_off.anim"
+	mode = "play_both"
+	invert = true
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "dfml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfml.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drml.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "dfmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfmr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drmr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
