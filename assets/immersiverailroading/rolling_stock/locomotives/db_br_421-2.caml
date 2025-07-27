@@ -1,5 +1,5 @@
 era = diesel
-name = "DB BR 421 2.Bauserie"
+name = "S-Bahn Rhein-Ruhr BR 421 2.Bauserie"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -45,50 +45,50 @@ lights =
 
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "dfml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "dfmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false

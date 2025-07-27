@@ -1,5 +1,5 @@
 era = diesel
-name = "DB BR 420 2.Bauserie"
+name = "S-Bahn Rhein-Ruhr BR 420 2.Bauserie"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -56,52 +56,58 @@ animations:
 	invert = false
 
 animations:
+	control_group = "hb"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/handbrake.anim"
+	mode = "value"
+
+animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "dfml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/dfml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/drml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "dfmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/dfmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/dfmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/drmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/drr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
+
 

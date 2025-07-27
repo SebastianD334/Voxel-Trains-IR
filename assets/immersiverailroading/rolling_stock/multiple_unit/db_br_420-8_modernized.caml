@@ -1,0 +1,10 @@
+name = "S-Bahn Muenchen BR420 8.Bauserie Modernisiert"
+consist:
+	stock = "db_br_420-8_modernized"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_421-8_modernized"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_420-8_modernized"
+	direction = "DEFAULT"

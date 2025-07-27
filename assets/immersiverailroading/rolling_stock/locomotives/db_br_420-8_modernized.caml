@@ -47,11 +47,6 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_modernized/lights_off.anim"
 	mode = "play_both"
 	invert = true
-animations:
-	readout = "engine"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_modernized/zza_off.anim"
-	mode = "play_both"
-	invert = true
 
 animations:
 	control_group = "whistle"

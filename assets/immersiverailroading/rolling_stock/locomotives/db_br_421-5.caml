@@ -46,50 +46,50 @@ lights =
 
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "dfml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "dfmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/dfmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 animations:
 	control_group = "drr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false

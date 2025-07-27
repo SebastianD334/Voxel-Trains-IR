@@ -1,12 +1,12 @@
-# OBJ Combiner @ SebastianD334 feat. juliand665
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
 
-newmtl texture
-Ns 0
-Ka 0 0 0
-Kd 1 1 1
-Ks 0 0 0
-Ke 0 0 0
-Ni 1.45
-d 1
-Illum 1
+newmtl texture.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
 map_Kd texture.png

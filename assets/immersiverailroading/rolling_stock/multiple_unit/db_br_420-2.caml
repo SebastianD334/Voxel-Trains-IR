@@ -1,4 +1,4 @@
-name = "S-Bahn Muenchen BR420 8.Bauserie"
+name = "S-Bahn Rhein Ruhr BR420 2.Bauserie"
 consist:
 	stock = "db_br_420-2"
 	direction = "FLIPPED"

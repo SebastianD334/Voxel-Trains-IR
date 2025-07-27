@@ -44,14 +44,8 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 
 animations:
-	readout = "engine"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_modernized/zza_off.anim"
-	mode = "play_both"
-	invert = true
-
-animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
