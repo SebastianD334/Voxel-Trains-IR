@@ -1,4 +1,4 @@
-name = "DB BR 407.8 ICE 3 (MS)"
+name = "DB BR 407.8 - Velaro D - ICE 3 (MS)"
 works = "Siemens"
 modeler = "SebastianD334"
 pack = "Voxel Trains"
@@ -6,7 +6,7 @@ model = "immersiverailroading:models/rolling_stock/passenger/db_br_407_8/db_br_4
 sound_dampening_percentage = 0.04
 properties =
 	max_speed_kmh = 320
-	weight_kg = 59000
+	weight_kg = 54000
 	interior_light_level = 0.7
 	rolling_resistance_coefficient = 0.0001
 	drag_coefficient = 0.16

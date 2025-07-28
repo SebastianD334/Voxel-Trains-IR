@@ -1,5 +1,5 @@
 era = diesel
-name = "DB BR 407.7 ICE 3 (MS)"
+name = "DB BR 407.7 - Velaro D - ICE 3 (MS)"
 works = "Siemens"
 modeler = "SebastianD334, Foxy Floofy"
 pack = "Voxel Trains"
@@ -11,7 +11,7 @@ properties =
 	horsepower = 3570
 	tractive_effort_lbf = 16861
 	max_speed_kmh = 320
-	weight_kg = 57700
+	weight_kg = 55000
 	interior_light_level = 0.7
 	linear_brake_control = true
 	rolling_resistance_coefficient = 0.0001

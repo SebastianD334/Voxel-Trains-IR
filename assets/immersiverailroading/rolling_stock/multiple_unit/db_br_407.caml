@@ -1,15 +1,15 @@
-name = "DB BR 407 ICE 3 (MS)"
+name = "DB BR 407 - Velaro D - ICE 3 (MS)"
 consist:
-	stock = "db_br_407_5"
+	stock = "db_br_407_0"
 	direction = "FLIPPED"
 consist:
-	stock = "db_br_407_6"
+	stock = "db_br_407_1"
 	direction = "FLIPPED"
 consist:
-	stock = "db_br_407_7"
+	stock = "db_br_407_2"
 	direction = "FLIPPED"
 consist:
-	stock = "db_br_407_8"
+	stock = "db_br_407_3"
 	direction = "FLIPPED"
 consist:
 	stock = "db_br_407_8"
