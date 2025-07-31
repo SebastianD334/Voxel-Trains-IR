@@ -1,0 +1,37 @@
+element:
+    # buttons
+    screen_x = LEFT
+    screen_y = BOTTOM
+    x = 5
+    y = -5
+    element:
+        # engine
+        x = 0
+        y = -20
+        import: immersiverailroading:vtgui/snippets/buttons/engine.caml
+    element:
+        # panto 1
+        x = 0
+        y = -45
+        import: immersiverailroading:vtgui/snippets/buttons/panto1.caml
+    element:
+        # panto 2
+        x = 0
+        y = -70
+        import: immersiverailroading:vtgui/snippets/buttons/panto2.caml
+element:
+    #gauges
+    screen_x = RIGHT
+    screen_y = BOTTOM
+    x = -5
+    y = -5
+    element:
+        # temperature gauge
+        x = -45
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_temperature.caml
+    element:
+        # diesel gauge
+        x = -20
+        y = 0
+        import: immersiverailroading:vtgui/snippets/gauge_diesel.caml
