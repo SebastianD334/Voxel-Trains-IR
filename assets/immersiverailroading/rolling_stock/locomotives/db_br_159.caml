@@ -43,3 +43,9 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_4 =
 		texture = immersiverailroading:textures/no_flare.png
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_159/lights_off.anim"
+	mode = "play_both"
+	invert = true

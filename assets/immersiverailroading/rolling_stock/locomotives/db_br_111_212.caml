@@ -51,6 +51,10 @@ animations:
 	invert = true
 
 animations:
-	control_group = "hb"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_111/handbrake.anim"
+	control_group = "hb10"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_111/handbrake1.anim"
+	mode = "value"
+animations:
+	control_group = "hb11"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_111/handbrake2.anim"
 	mode = "value"

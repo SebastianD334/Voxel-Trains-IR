@@ -6,7 +6,7 @@ model = "immersiverailroading:models/rolling_stock/freight/db_cargo_hbbins_306/d
 show_current_load_only = true
 tex_variants =
 	Clean = ""
-	Dirty = dirty
+	Weathered = dirty
 properties =
 	weight_kg = 17000
 	independent_brake = true
@@ -29,3 +29,8 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 overlay = "immersiverailroading:vtgui/ui/ind_brake.caml"
+
+animations:
+	control_group = "hb"
+	animatrix = "immersiverailroading:models/rolling_stock/freight/db_cargo_hbbins_306/handbrake.anim"
+	mode = "value"
