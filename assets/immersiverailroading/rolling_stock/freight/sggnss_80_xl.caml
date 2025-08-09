@@ -1,6 +1,6 @@
 name = "VTG Sggnss 80 XL"
 works = "Tatravagonka"
-modeler = "CEO_of_Dummheit"
+modeler = "CEO_of_Dummheit, UnitFireFox"
 pack = "Voxel Trains "
 model = "immersiverailroading:models/rolling_stock/freight/sggnss_80/sggnss_80_xl.obj"
 show_current_load_only = true
