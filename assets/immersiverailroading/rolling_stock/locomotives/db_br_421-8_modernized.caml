@@ -35,13 +35,14 @@ couplers =
 	rear_slack = 0
 sounds =
 	horn = "sounds/db/br_111_horn.ogg"
-	idle = "sounds/db/br_420_idle.ogg"
+	idle = "sounds/stille.ogg
 	running = "sounds/db/br_420_drive.ogg"
-lights =
-	HEADLIGHT_1 =
-		texture = immersiverailroading:textures/no_flare.png
-	HEADLIGHT_2 =
-		texture = immersiverailroading:textures/no_flare.png
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/idle.anim"
+	mode = "loop"
+	sound = "sounds/db/br_420_idle.ogg"
 
 animations:
 	control_group = "dfl"
@@ -49,18 +50,21 @@ animations:
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
+	
 animations:
 	control_group = "dfml"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
+
 animations:
 	control_group = "drml"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
+
 animations:
 	control_group = "drl"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drl.anim"
@@ -68,24 +72,28 @@ animations:
 	frames_per_tick = 3.0
 	invert = false
 
+
 animations:
 	control_group = "dfr"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
+
 animations:
 	control_group = "dfmr"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/dfmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
+
 animations:
 	control_group = "drmr"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
+	
 animations:
 	control_group = "drr"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_modernized/drr.anim"

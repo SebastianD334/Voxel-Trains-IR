@@ -39,7 +39,7 @@ couplers =
 	rear_slack = 0
 sounds =
 	horn = "sounds/db/br_111_horn.ogg"
-	idle = "sounds//br_420_idle.ogg"
+	idle = "sounds/stille.ogg
 	running = "sounds/db/br_420_drive.ogg"
 lights =
 	HEADLIGHT_1 =
@@ -53,7 +53,6 @@ animations:
 	mode = "loop"
 	sound = "sounds/db/br_420_idle.ogg"
 	
-
 animations:
 	readout = "engine"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/lights_off.anim"
