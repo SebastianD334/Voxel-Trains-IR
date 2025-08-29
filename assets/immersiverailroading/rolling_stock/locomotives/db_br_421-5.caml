@@ -1,5 +1,5 @@
 era = diesel
-name = "S-Bahn Stuttgart BR 421 5.Bauserie modernized"
+name = "S-Bahn Muenchen BR 421 5.Bauserie"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -36,7 +36,7 @@ couplers =
 sounds =
 	horn = "sounds/db/br_111_horn.ogg"
 	idle = "sounds/db/br_420_idle.ogg"
-	wheels = "sounds/db/br_420_drive.ogg"
+	running = "sounds/db/br_420_drive.ogg"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png

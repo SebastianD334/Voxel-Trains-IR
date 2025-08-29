@@ -1,0 +1,10 @@
+name = "DB BR 420 5.Bauserie Pop-Lackierung"
+consist:
+	stock = "db_br_420-5_pop"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_421-5_pop"
+	direction = "FLIPPED"
+consist:
+	stock = "db_br_420-5_pop"
+	direction = "DEFAULT"

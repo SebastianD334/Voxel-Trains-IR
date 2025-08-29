@@ -1,5 +1,5 @@
 era = diesel
-name = "S-Bahn Stuttgart BR 420 5.Bauserie"
+name = "S-Bahn Muenchen BR 420 5.Bauserie"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -36,7 +36,7 @@ couplers =
 sounds =
 	horn = "sounds/db/br_111_horn.ogg"
 	idle = "sounds/db/br_420_idle.ogg"
-	wheels = "sounds/db/br_420_drive.ogg"
+	running = "sounds/db/br_420_drive.ogg"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
@@ -82,6 +82,13 @@ animations:
 animations:
 	control_group = "dfr"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	invert = false
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420_early/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
