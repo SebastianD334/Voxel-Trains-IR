@@ -11,7 +11,7 @@ d 1.000000
 illum 1
 map_Kd texture.png
 
-newmtl texture1
+newmtl texure1
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
