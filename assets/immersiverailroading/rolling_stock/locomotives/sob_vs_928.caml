@@ -51,8 +51,3 @@ animations:
 	mode = "play_both"
 	frames_per_tick = 3.0
 
-animations:
-	control_group = "tb"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_vt_628/tb.anim"
-	mode = "value"
-	sound = "immersiverailroading:sounds/db/vt_628_brake_hiss.ogg"
