@@ -48,6 +48,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/idle.anim"
 	mode = "loop"
 	sound = "sounds/db/br_420_idle.ogg"
+	wheels = "sounds/db/br_420_wheels.ogg"
 	
 animations:
 	readout = "engine"

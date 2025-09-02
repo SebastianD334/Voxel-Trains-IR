@@ -37,6 +37,7 @@ sounds =
 	horn = "sounds/db/br_111_horn.ogg"
 	idle = "sounds/stille.ogg
 	running = "sounds/db/br_420_drive.ogg"
+	wheels = "sounds/db/br_420_wheels.ogg"
 
 animations:
 	readout = "engine"
