@@ -5,7 +5,7 @@ pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/umbauwagen/db_b3yg.obj"
 sound_dampening_percentage = 0.90
 properties =
-	max_speed_kmh = 110
+	max_speed_kmh = 100
 	weight_kg = 18000
 	interior_light_level = 0.65
 passenger =
@@ -18,7 +18,19 @@ trucks =
 	front = 3.75
 	rear = -3.75
 couplers =
-	front_offset = -0.25
-	rear_offset = -0.25
+	front_offset = -0.4375
+	rear_offset = -0.4375
 	front_slack = 0
 	rear_slack = 0
+
+animations:
+	control_group = "d5"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/umbauwagen/d5.anim"
+	mode = "value"
+	invert = false
+
+animations:
+	control_group = "d6"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/umbauwagen/d6.anim"
+	mode = "value"
+	invert = false	
