@@ -18,8 +18,8 @@ passenger =
 	length = 7
 	width = 2.5
 freight = 
-	slots = 27
-	width = 9
+	slots = 5
+	width = 5
 	cargo : "all"
 trucks =
 	front = 5.3125
