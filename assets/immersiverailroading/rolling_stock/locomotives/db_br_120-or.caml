@@ -15,6 +15,10 @@ properties =
 	interior_light_level = 0.60
 	linear_brake_control = true
 	throttle_notches = 50	
+tex_variants =
+	Light Vents = ""
+	Dark Vents = 1
+
 passenger =
 	slots = 4
 	center_x = 0
