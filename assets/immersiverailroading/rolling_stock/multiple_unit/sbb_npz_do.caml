@@ -1,0 +1,10 @@
+name = "SBB NPZ DO «NPZ Domino»"
+consist:
+	stock = "sbb_rbde_560_do"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_b_npz_do_toilet"
+	direction = "FLIPPED"
+consist:
+	stock = "sbb_abt_npz_do"
+	direction = "DEFAULT"
