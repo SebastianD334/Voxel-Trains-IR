@@ -1,11 +1,10 @@
 name = "NS ICMm-III"
 consist:
-	stock = "icmmmbfknew"
+	stock = "ns_icmm_mbfk"
 	direction = "FLIPPED"
 consist:
-	stock = "icmmabnew"
-	texture = ""
+	stock = "ns_icmm_ab"
 	direction = "DEFAULT"
 consist:
-	stock = "icmmsbknew"
+	stock = "ns_icmm_sbk"
 	direction = "DEFAULT"
