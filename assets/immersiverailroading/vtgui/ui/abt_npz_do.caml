@@ -29,7 +29,7 @@ element:
         # speedometer
         x = -170
         y = 0
-        import: immersiverailroading:vtgui/speedometers/140_180_5_10_20_cab.caml
+        import: immersiverailroading:vtgui/speedometers/140_180_5_20_20_cab.caml
     element:
         #reverser
         x = -45
