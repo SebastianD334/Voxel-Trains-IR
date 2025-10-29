@@ -38,16 +38,22 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
+controls =
+	seat_setup =
+		default = 1
 animations:
-	control_group = "dl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_traverso_8/door_left.anim"
-	mode = "play_both"
-	frames_per_tick = 3.0
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_traverso_1/door_1.anim"
+	mode = "value"
 animations:
 	control_group = "d2"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_traverso_8/door_2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_traverso_1/door_2.anim"
 	mode = "value"
 animations:
 	control_group = "seat"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_traverso_8/seat.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_traverso_1/seat.anim"
+	mode = "value"
+animations:
+	control_group = "seat_setup"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sob_traverso_1/seat_setup.anim"
 	mode = "value"
