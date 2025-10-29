@@ -21,7 +21,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = -45.0
 		element:
 			# label
@@ -30,6 +30,11 @@ element:
 			text =
 				value = 0
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = 45.0
 	element:
 		# marker 5
 		x = 2.0
@@ -38,7 +43,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = -37.5
 	element:
 		# marker 10
@@ -48,7 +53,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = -30.0
 	element:
 		# marker 15
@@ -58,7 +63,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = -22.5
 	element:
 		# marker 20
@@ -68,7 +73,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = -15.0
 		element:
 			# label
@@ -77,6 +82,11 @@ element:
 			text =
 				value = 20
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = 15.0
 	element:
 		# marker 25
 		x = 2.0
@@ -85,7 +95,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = -7.5
 	element:
 		# marker 30
@@ -95,7 +105,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 0.0
 	element:
 		# marker 35
@@ -105,7 +115,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 7.5
 	element:
 		# marker 40
@@ -115,7 +125,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = 15.0
 		element:
 			# label
@@ -124,6 +134,11 @@ element:
 			text =
 				value = 40
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -15.0
 	element:
 		# marker 45
 		x = 2.0
@@ -132,7 +147,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 22.5
 	element:
 		# marker 50
@@ -142,7 +157,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 30.0
 	element:
 		# marker 55
@@ -152,7 +167,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 37.5
 	element:
 		# marker 60
@@ -162,7 +177,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = 45.0
 		element:
 			# label
@@ -171,6 +186,11 @@ element:
 			text =
 				value = 60
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -45.0
 	element:
 		# marker 65
 		x = 2.0
@@ -179,7 +199,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 52.5
 	element:
 		# marker 70
@@ -189,7 +209,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 60.0
 	element:
 		# marker 75
@@ -199,7 +219,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 67.5
 	element:
 		# marker 80
@@ -209,7 +229,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = 75.0
 		element:
 			# label
@@ -218,6 +238,11 @@ element:
 			text =
 				value = 80
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -75.0
 	element:
 		# marker 85
 		x = 2.0
@@ -226,7 +251,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 82.5
 	element:
 		# marker 90
@@ -236,7 +261,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 90.0
 	element:
 		# marker 95
@@ -246,7 +271,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 97.5
 	element:
 		# marker 100
@@ -256,7 +281,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = 105.0
 		element:
 			# label
@@ -265,6 +290,11 @@ element:
 			text =
 				value = 100
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -105.0
 	element:
 		# marker 105
 		x = 2.0
@@ -273,7 +303,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 112.5
 	element:
 		# marker 110
@@ -283,7 +313,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 120.0
 	element:
 		# marker 115
@@ -293,7 +323,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 127.5
 	element:
 		# marker 120
@@ -303,7 +333,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = 135.0
 		element:
 			# label
@@ -312,6 +342,11 @@ element:
 			text =
 				value = 120
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -135.0
 	element:
 		# marker 125
 		x = 2.0
@@ -320,7 +355,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 142.5
 	element:
 		# marker 130
@@ -330,7 +365,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 150.0
 	element:
 		# marker 135
@@ -340,7 +375,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 157.5
 	element:
 		# marker 140 limit
@@ -348,9 +383,9 @@ element:
 		y = 59.0
 		image = "immersiverailroading:vtgui/gauge_round/marker_limit.png"
 		rotate =
-			x = 58.0
-			y = 1.0
-			degrees = 0.0
+			x = 48.0
+			y = 0.5
+			degrees = 270.0
 			offset = 165.0
 		element:
 			# label
@@ -367,7 +402,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 172.5
 	element:
 		# marker 150
@@ -377,7 +412,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 180.0
 	element:
 		# marker 155
@@ -387,7 +422,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 187.5
 	element:
 		# marker 160
@@ -397,7 +432,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = 195.0
 		element:
 			# label
@@ -406,6 +441,11 @@ element:
 			text =
 				value = 160
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -195.0
 	element:
 		# marker 165
 		x = 2.0
@@ -414,7 +454,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 202.5
 	element:
 		# marker 170
@@ -424,7 +464,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 210.0
 	element:
 		# marker 175
@@ -434,7 +474,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 0.5
-			degrees = 0.0
+			degrees = 270.0
 			offset = 217.5
 	element:
 		# marker 180
@@ -444,7 +484,7 @@ element:
 		rotate =
 			x = 58.0
 			y = 1.0
-			degrees = 0.0
+			degrees = 270.0
 			offset = 225.0
 		element:
 			# label
@@ -453,6 +493,11 @@ element:
 			text =
 				value = 180
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -225.0
 	element:
 		# inner_circle
 		x = 22.0
