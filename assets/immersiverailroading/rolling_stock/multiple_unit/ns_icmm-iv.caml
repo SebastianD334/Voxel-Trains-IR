@@ -1,0 +1,13 @@
+name = "NS ICMm-IV"
+consist:
+	stock = "ns_icmm_mbfk"
+	direction = "FLIPPED"
+consist:
+	stock = "ns_icmm_mb"
+	direction = "DEFAULT"
+consist:
+	stock = "ns_icmm_a"
+	direction = "DEFAULT"
+consist:
+	stock = "ns_icmm_sbk"
+	direction = "DEFAULT"
