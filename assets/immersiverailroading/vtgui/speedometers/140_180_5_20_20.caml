@@ -8,8 +8,8 @@ element:
 		y = 59.5
 		image = "immersiverailroading:vtgui/gauge_round/pointer.png"
 		rotate =
-			x = 58.0
-			y = 1.0
+			x = 48.0
+			y = 0.5
 			degrees = 210.0
 			offset = -45.0
 		readout = SPEED
@@ -383,8 +383,8 @@ element:
 		y = 59.0
 		image = "immersiverailroading:vtgui/gauge_round/marker_limit.png"
 		rotate =
-			x = 48.0
-			y = 0.5
+			x = 58.0
+			y = 1.0
 			degrees = 270.0
 			offset = 165.0
 		element:
@@ -394,6 +394,11 @@ element:
 			text =
 				value = 140
 				height = 4.0
+			rotate =
+				x = 0.0
+				y = 2.0
+				degrees = 270.0
+				offset = -165.0
 	element:
 		# marker 145
 		x = 2.0
