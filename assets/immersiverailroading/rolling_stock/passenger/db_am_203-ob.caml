@@ -1,13 +1,13 @@
-name = "DB InterCity Am 203 Ozeanblau Beige"
+name = "DB IC Am 203 Ozeanblau Beige"
 works = "N/A"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
-model = "immersiverailroading:models/rolling_stock/passenger/db_intercity/db_am_203-ob/db_am_203-ob.obj"
+model = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ob/db_am_203-ob.obj"
 sound_dampening_percentage = 0.04
 properties =
 	max_speed_kmh = 200
 	weight_kg = 38500
-	interior_light_level = 0.8
+	interior_light_level = 0.6
 passenger =
 	slots = 66
 	center_x = 0
@@ -22,3 +22,24 @@ couplers =
 	rear_offset = -0.375
 	front_slack = 0
 	rear_slack = 0
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 4.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 4.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 4.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 4.0
