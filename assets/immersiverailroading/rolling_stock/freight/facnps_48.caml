@@ -1,7 +1,7 @@
 name = "Facnps 48m3"
 works = "N/A"
 modeler = "CEO_of_Dummheit"
-pack = "Voxel Trains "
+pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/freight/facnps_48/facnps_48.obj"
 show_current_load_only = true
 properties =
