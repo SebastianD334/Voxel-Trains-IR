@@ -38,12 +38,21 @@ sounds =
 	idle = "sounds/stille.ogg
 	running = "sounds/db/br_420_drive.ogg"
 
+controls =
+	nothing =
+		default = 1
+
 animations:
 	readout = "engine"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/idle.anim"
 	mode = "loop"
 	sound = "sounds/db/br_420_idle.ogg"
 	wheels = "sounds/db/br_420_wheels.ogg"
+
+animations:
+	control_group = "nothing"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/door.anim"
+	mode = "value"
 
 animations:
 	control_group = "dfl"

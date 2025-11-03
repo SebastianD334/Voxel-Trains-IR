@@ -1,5 +1,5 @@
 era = diesel
-name = "DB BR 421 2.Bauserie Pop-Lackierung"
+name = "S-Bahn Muenchen BR 421 2.Bauserie Pop-Lackierung"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -21,7 +21,6 @@ properties =
 	dynamic_traction_control = false
 tex_variants =
 	Kieselgrau Gruenblau = ""
-	Kieselgrau Karminrot = kr
 	Kieselgrau Reinorange = ko
 passenger =
 	slots = 66
@@ -43,11 +42,20 @@ sounds =
 	running = "sounds/db/br_420_drive.ogg"
 	wheels = "sounds/db/br_420_wheels.ogg"
 
+controls =
+	nothing =
+		default = 1
+
 animations:
 	readout = "engine"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/idle.anim"
 	mode = "loop"
 	sound = "sounds/db/br_420_idle.ogg"
+
+animations:
+	control_group = "nothing"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/door.anim"
+	mode = "value"
 
 animations:
 	control_group = "dfl"

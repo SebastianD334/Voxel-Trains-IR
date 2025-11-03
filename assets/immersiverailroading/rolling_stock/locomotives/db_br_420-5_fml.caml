@@ -43,18 +43,21 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
-
-animations:
-	readout = "engine"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/idle.anim"
-	mode = "loop"
-	sound = "sounds/db/br_420_idle.ogg"
 	
 animations:
 	readout = "engine"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420/lights_off.anim"
 	mode = "play_both"
 	invert = true
+
+controls =
+	nothing =
+		default = 1
+
+animations:
+	control_group = "nothing"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421_early/door.anim"
+	mode = "value"
 
 animations:
 	control_group = "whistle"
