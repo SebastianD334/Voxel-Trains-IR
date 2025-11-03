@@ -33,5 +33,6 @@ couplers =
 	rear_slack = 0
 sounds =
 	horn = "sounds/stille.ogg"
-	idle = "sounds/ns/virmaccelerate.ogg"
+	idle = "sounds/stille.ogg"
+	running = "sounds/ns/virmaccelerate.ogg"
 overlay = "immersiverailroading:vtgui/ui/virmpower.caml"
