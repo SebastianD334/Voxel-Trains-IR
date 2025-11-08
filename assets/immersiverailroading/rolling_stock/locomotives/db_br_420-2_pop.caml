@@ -1,5 +1,5 @@
 era = diesel
-name = "-Bahn Muenchen BR 420 2.Bauserie Pop-Lackierung"
+name = "S-Bahn Muenchen BR 420 2.Bauserie Pop-Lackierung"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -15,7 +15,7 @@ properties =
 	weight_kg = 44500
 	interior_light_level = 0.6
 	linear_brake_control = true
-	throttle_notches = 100
+	throttle_notches = 25
 	rolling_resistance_coefficient = 0.0007
 	drag_coefficient = 0.8
 	dynamic_traction_control = false
