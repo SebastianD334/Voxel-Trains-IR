@@ -8,6 +8,7 @@ properties =
 	max_speed_kmh = 200
 	weight_kg = 38500
 	interior_light_level = 0.6
+	independent_brake = true
 passenger =
 	slots = 66
 	center_x = 0
