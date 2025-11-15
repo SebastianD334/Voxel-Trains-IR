@@ -43,3 +43,32 @@ animations:
 	mode = "play_both"
 	invert = true
 
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "gd2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/gd.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
