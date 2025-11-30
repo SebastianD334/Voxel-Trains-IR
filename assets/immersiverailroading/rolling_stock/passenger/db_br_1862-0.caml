@@ -29,5 +29,5 @@ controls =
 
 animations:
 	control_group = "toilet"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1862-0/ohnotoilet.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_1862-0/ohnotoilet.anim"
 	mode = "value"
