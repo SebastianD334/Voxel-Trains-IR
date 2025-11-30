@@ -34,11 +34,10 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = "sounds/db/br_111_horn.ogg"
-	idle = "sounds/stille.ogg
-	running = "sounds/db/br_420_drive.ogg"
-	wheels = "sounds/db/br_420_wheels.ogg"
-
+	horn = sounds/db/br_111_horn.ogg
+	idle = sounds/stille.ogg
+	running = sounds/db/br_420_drive.ogg
+	wheels = sounds/db/br_420_wheels.ogg
 controls =
 	nothing =
 		default = 1
