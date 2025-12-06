@@ -51,3 +51,63 @@ animations:
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = true
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "sb1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/sb1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "sb2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/sb2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "sb3"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/sb3.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "sb4"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/sb4.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "td"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/ohnotoilet.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "cw1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/cab_window_1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "cw2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/cab_window_2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+	

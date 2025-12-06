@@ -3,7 +3,7 @@ works = "Siemens"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/db_br_1862-0/db_br_1862-0.obj"
-sound_dampening_percentage = 0.8
+sound_dampening_percentage = 0.6
 properties =
 	max_speed_kmh = 160
 	weight_kg = 43000
@@ -31,3 +31,24 @@ animations:
 	control_group = "toilet"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_1862-0/ohnotoilet.anim"
 	mode = "value"
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/dfl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/dfr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/drl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/drr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
