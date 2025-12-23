@@ -5,7 +5,7 @@ modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/db_bimdzf_269-ic.obj"
 overlay = "immersiverailroading:vtgui/ui/db_ic_cab.caml"
-sound_dampening_percentage = 0.5
+sound_dampening_percentage = 0.7
 properties =
 	max_speed_kmh = 200
 	weight_kg = 46000
@@ -28,7 +28,7 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = "sounds/dosto94/dosto94horn.ogg"
+	horn = sounds/db/br_111_horn.ogg
 	idle = "sounds/sound/idle.ogg"
 	
 lights =

@@ -3,7 +3,7 @@ works = "N/A"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/db_bm_235-ic/db_bm_235-ic.obj"
-sound_dampening_percentage = 0.04
+sound_dampening_percentage = 0.7
 properties =
 	max_speed_kmh = 200
 	weight_kg = 39000
@@ -28,19 +28,30 @@ animations:
 	control_group = "dfl"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/dfl.anim"
 	mode = "play_both"
-	frames_per_tick = 4.0
+	frames_per_tick = 3.0
 animations:
 	control_group = "drl"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/drl.anim"
 	mode = "play_both"
-	frames_per_tick = 4.0
+	frames_per_tick = 3.0
 animations:
 	control_group = "dfr"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/dfr.anim"
 	mode = "play_both"
-	frames_per_tick = 4.0
+	frames_per_tick = 3.0
 animations:
 	control_group = "drr"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/drr.anim"
 	mode = "play_both"
-	frames_per_tick = 4.0
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "g1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/gd1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "g2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/gd2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
