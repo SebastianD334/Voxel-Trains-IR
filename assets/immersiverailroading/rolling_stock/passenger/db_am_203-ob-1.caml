@@ -2,7 +2,7 @@ name = "DB IC Am 203 « Ozeanblau Beige »"
 works = "N/A"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
-model = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ob/db_am_203-ob.obj"
+model = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ob-1/db_am_203-ob-1.obj"
 sound_dampening_percentage = 0.7
 properties =
 	max_speed_kmh = 200
@@ -46,12 +46,12 @@ animations:
 	frames_per_tick = 3.0
 
 animations:
-	control_group = "g1"
+	control_group = "gd1"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/gd1.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
-	control_group = "g2"
+	control_group = "gd2"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/gd2.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
