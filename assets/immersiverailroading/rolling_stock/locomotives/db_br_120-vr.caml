@@ -16,15 +16,12 @@ properties =
 	linear_brake_control = true
 	throttle_notches = 25
 	dynamic_traction_control = true	
-tex_variants =
-	Light Vents = ""
-	Dark Vents = 1
 
 passenger =
 	slots = 4
 	center_x = 0
-	center_y = 1.625
-	length = 11.25
+	center_y = 1.8125
+	length = 8.1
 	width = 2.2
 trucks =
 	front = 5.125
