@@ -1,0 +1,27 @@
+name = "DB Kds 54 without Handbrake"
+works = "N/A"
+modeler = "CEO_of_Dummheit"
+pack = "Voxel Trains "
+model = "immersiverailroading:models/rolling_stock/freight/db_kds_54/db_kds_54.obj"
+properties =
+	weight_kg = 11400
+	independent_brake = false
+passenger =
+	slots = 2
+	center_x = 0
+	center_y = 1.5
+	length = 3.9
+	width = 2.6
+freight = 
+	slots = 16
+	width = 4
+	cargo : "all"
+trucks =
+	front = 2.5
+	rear = -2.4375
+couplers =
+	front_offset = 0
+	rear_offset = 0
+	front_slack = 0
+	rear_slack = 0
+overlay = "immersiverailroading:vtgui/ui/ind_brake.caml"
