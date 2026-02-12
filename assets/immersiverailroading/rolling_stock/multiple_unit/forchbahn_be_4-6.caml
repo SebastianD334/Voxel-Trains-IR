@@ -1,0 +1,7 @@
+name = "Forchbahn Be 4/6"
+consist:
+	stock = "forchbahn_be_4-6_a"
+	direction = "FLIPPED"
+consist:
+	stock = "forchbahn_be_4-6_b"
+	direction = "FLIPPED"

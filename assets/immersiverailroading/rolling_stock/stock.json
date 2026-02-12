@@ -94,6 +94,7 @@
 		"tram20001front", "tram20001bkfront", "tram20002front", "tram20002pony", "tram20003front", "tram20003pony", 
 		"cobra1", 
 		"vbg1", 
+		"forchbahn_be_4-6_a", 
 		"fbbe46f", 
 		"fbbe88f", 
 		"trsbbbt", "trsbbb", "trsbbwr", "trsbba", "trsbbat", 
@@ -183,6 +184,7 @@
 		"tram2000bogie", "tram20001rear", "tram20001bkrear", "tram20002rear", "tram20003middle", "tram20003rear", 
 		"cobrabellow", "cobra2", "cobra3", "cobra4", "cobra5", 
 		"vbgbellow", "vbg2", "vbg3", "vbg4", "vbg5", 
+		"forchbahn_be_4-6_b", 
 		"fbbe46r", 
 		
 		// Netherlands_____________________________________________ 
@@ -301,6 +303,7 @@
     	"ns_icmm-iii", "ns_icmm-iv", 
 
     	// Light Rail____________________________________
+    	"forchbahn_be_4-6", 
     	"fb_be_4-6", 
     	"fb_be_8-8", 
 
