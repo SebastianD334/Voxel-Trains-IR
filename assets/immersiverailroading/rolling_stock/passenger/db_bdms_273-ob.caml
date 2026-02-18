@@ -19,14 +19,36 @@ trucks =
 	front = 9.5
 	rear = -9.4375
 couplers =
-	front_offset = -0.375
-	rear_offset = -0.375
+	front_offset = -0
+	rear_offset = -0
 	front_slack = 0
 	rear_slack = 0
 
+controls =
+	nothing =
+		default = 1
+
+animations:
+	control_group = "nothing"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bdms_273-ob/bd3.anim"
+	mode = "value"
+
+animations:
+	control_group = "bd2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bdms_273-ob/bd2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "bd1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bdms_273-ob/bd1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bdms_273-ob/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:
@@ -36,7 +58,7 @@ animations:
 	frames_per_tick = 3.0
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bdms_273-ob/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 animations:

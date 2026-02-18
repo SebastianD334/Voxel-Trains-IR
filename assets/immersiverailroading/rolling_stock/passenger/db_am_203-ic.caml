@@ -1,4 +1,4 @@
-name = "DB IC Am 203"
+name = "DB Intercity Am 203"
 works = "N/A"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -19,8 +19,8 @@ trucks =
 	front = 9.5
 	rear = -9.4375
 couplers =
-	front_offset = -0.375
-	rear_offset = -0.375
+	front_offset = -0
+	rear_offset = -0
 	front_slack = 0
 	rear_slack = 0
 

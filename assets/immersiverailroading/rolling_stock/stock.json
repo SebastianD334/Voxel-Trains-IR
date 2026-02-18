@@ -31,7 +31,7 @@
 		"db_br_1462-0","db_br_1462-5",
 		"br481",
 		"br484a", "br484b",
-		"db_bimdzf_269-or","db_bimdzf_269-vr","db_bimdzf_269-ic","db_bimdzf_271-ic","db_bimmdzf_287-ic","db_bimmdzf_287-ic-abschiedsfahrt",
+		"db_bimdzf_269-ir","db_bimdzf_269-or","db_bimdzf_269-vr","db_bimdzf_269-ic","db_bimdzf_271-ic","db_bimmdzf_287-ic","db_bimmdzf_287-ic-abschiedsfahrt",
 		"bnrbdzf480", 
 		"db_dbbzfa_761-0","db_dbbzfa_761-2","db_dabpbzfa_762","tri_dabpbzfa_762",
 		"db_dbpbzfa_766",
@@ -132,7 +132,8 @@
 		
 		// Germany_________________________________________________ 
 		"db_ab3yg","db_b3yg","db_bd3yg","db_bd3yge",
-		"db_am_203-ob","db_am_203-ob-1","db_am_203-or","db_am_203-vr","db_am_203-ic","db_abm_226-ob","db_abm_228-ob","db_bm_234-ob","db_bm_235-ob","db_bm_235-or","db_bm_235-vr","db_bm_235-ic","db_bdms_273-ob",
+		"db_am_203-ob","db_am_203-ob-1","db_am_203-or","db_am_203-vr","db_am_203-ic","db_abm_226-ob","db_abm_228-ob","db_bm_234-ob","db_bm_235-ob","db_bm_235-or","db_bm_235-vr","db_bm_235-ic","db_aimz_261-ir","db_bimz_264-ir","db_bdms_273-ob",
+	
 		"br802", "br804", 
 		"db_br_407_1", "db_br_407_3", "db_br_407_8", "db_br_407_6", 
 		"br4071", "br4072", "br4073", "br4078", "br4077", "br4076", 
