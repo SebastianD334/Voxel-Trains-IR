@@ -1,9 +1,9 @@
 era = diesel
-name = "S-Bahn Muenchen BR 421 8.Bauserie"
+name = "S-Bahn Muenchen BR 421 8. Bauserie"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
-model = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/db_br_421-8.obj"
+model = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/db_br_421-8.obj"
 overlay = "immersiverailroading:vtgui/ui/single_panto_power.caml"
 sound_dampening_percentage = 0.9
 properties =
@@ -34,41 +34,42 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = sounds/db/br_111_horn.ogg
+	horn = sounds/stille.ogg
+	bell = sounds/stille.ogg
 	idle = sounds/stille.ogg
 	running = sounds/db/br_420_drive.ogg
 	wheels = sounds/db/br_420_wheels.ogg
 
 animations:
 	readout = "engine"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/idle.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/idle.anim"
 	mode = "loop"
 	sound = "sounds/db/br_420_idle.ogg"
 
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "dfml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/dfml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "drml"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drml.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/drml.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
@@ -76,28 +77,28 @@ animations:
 
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "dfmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/dfmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/dfmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 
 animations:
 	control_group = "drmr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drmr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/drmr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
 	
 animations:
 	control_group = "drr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421/drr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-8/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 	invert = false
