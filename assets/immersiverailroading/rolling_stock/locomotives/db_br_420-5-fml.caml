@@ -3,7 +3,7 @@ name = "DB BR 420 5. Bauserie « Flughafen Muenchen Linie »"
 works = "MAN, WMD, LHB, MBB, O&K, DUEWAG, WU, Rathgeber"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
-model = "immersiverailroading:models/rolling_stock/locomotives/db_br_420-5_fml/db_br_420-5_fml.obj"
+model = "immersiverailroading:models/rolling_stock/locomotives/db_br_420-5-fml/db_br_420-5-fml.obj"
 overlay = "immersiverailroading:vtgui/ui/db_br_420.caml"
 sound_dampening_percentage = 0.9
 properties =
@@ -34,7 +34,7 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = sounds/db/br_111_horn.ogg
+	horn = sounds/db/db_whistle.ogg
 	bell = sounds/stille.ogg
 	idle = sounds/stille.ogg
 	running = sounds/db/br_420_drive.ogg
@@ -66,13 +66,6 @@ animations:
 	control_group = "nothing"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_421-2/door.anim"
 	mode = "value"
-
-animations:
-	control_group = "whistle"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_420-8/br_420_horn.anim"
-	mode = "play_both"
-	frames_per_tick = 3.0
-	invert = false
 
 animations:
 	control_group = "hb"
