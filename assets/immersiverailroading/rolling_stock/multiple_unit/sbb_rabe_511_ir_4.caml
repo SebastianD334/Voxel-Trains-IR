@@ -1,13 +1,13 @@
 name = "SBB RABe 511 KISS 4-Car IR"
 consist:
-	stock = "bt16511sbb"
+	stock = "sbb_rabe_511_bt1-6"
 	direction = "FLIPPED"
 consist:
-	stock = "ab2511sbb"
+	stock = "sbb_rabe_511_ab2"
 	direction = "FLIPPED"
 consist:
-	stock = "b4511sbb"
+	stock = "sbb_rabe_511_b4"
 	direction = "DEFAULT"
 consist:
-	stock = "bt16511sbb"
+	stock = "sbb_rabe_511_bt1-6"
 	direction = "DEFAULT"

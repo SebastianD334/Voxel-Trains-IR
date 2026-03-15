@@ -3,13 +3,13 @@ consist:
 	stock = "sbb_rabe_511_bt1-6"
 	direction = "FLIPPED"
 consist:
-	stock = "ab2511sbb"
+	stock = "sbb_rabe_511_ab2"
 	direction = "FLIPPED"
 consist:
 	stock = "sbb_rabe_511_b3"
 	direction = "DEFAULT"
 consist:
-	stock = "b4511sbb"
+	stock = "sbb_rabe_511_b4"
 	direction = "DEFAULT"
 consist:
 	stock = "sbb_rabe_511_ab5"
