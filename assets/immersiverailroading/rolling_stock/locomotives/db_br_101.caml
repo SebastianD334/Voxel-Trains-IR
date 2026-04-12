@@ -1,7 +1,7 @@
 era = diesel
 name = "DB BR 101"
 works = "ABB/ADtranz"
-modeler = "SebastianD334"
+modeler = "SebastianD334,CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_br_101/db_br_101.obj"
 sound_dampening_percentage = 0.45
@@ -20,8 +20,8 @@ passenger =
 	slots = 4
 	center_x = 0
 	center_y = 1.8125
-	length = 8
-	width = 2
+	length = 7.85
+	width = 2.2
 trucks =
 	front = 5.46875
 	rear = -5.46875
@@ -35,3 +35,22 @@ sounds =
 	idle = "sounds/sbb/re460.ogg"
 	wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/br101.caml"
+
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_3 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_4 =
+		texture = immersiverailroading:textures/no_flare.png
+
+animations:
+	control_group = "hb1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_146_2/hb1.anim"
+	mode = "play_both"
+animations:
+	control_group = "hb2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_146_2/hb2.anim"
+	mode = "play_both"
