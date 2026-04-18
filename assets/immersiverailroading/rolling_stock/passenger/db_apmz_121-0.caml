@@ -55,3 +55,14 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_am_203-ic/gd2.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
+
+animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_apmz_121-0/d1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_apmz_121-0/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
