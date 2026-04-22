@@ -34,12 +34,19 @@ sounds =
 	idle = "sounds/stille.ogg"
 	running = "sounds/sbb/eem923electric.ogg"
 overlay = "immersiverailroading:vtgui/ui/rabe511cab.caml"
+animations:
+	control_group = "controls"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbbc_re_484/controls.anim"
+	mode = "value"
+animations:
+	control_group = "blind12"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_rabe_511_bt1-6/blind12.anim"
+	mode = "value"
+controls =
+	controls =
+		default = 1
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
-animations:
-	control_group = "blind12"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_rabe_511_bt1-6/blind12.anim"
-	mode = "value"
