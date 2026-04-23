@@ -36,7 +36,7 @@ sounds =
 overlay = "immersiverailroading:vtgui/ui/rabe511cab.caml"
 animations:
 	control_group = "controls"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbbc_re_484/controls.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_rabe_511_bt1-6/controls.anim"
 	mode = "value"
 animations:
 	control_group = "blind12"
