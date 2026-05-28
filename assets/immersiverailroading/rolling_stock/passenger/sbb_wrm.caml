@@ -22,3 +22,10 @@ couplers =
 	rear_offset = -0
 	front_slack = 0
 	rear_slack = 0
+animations:
+	control_group = "slim_doors"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_wrm/slim_doors.anim"
+	mode = "value"
+controls =
+	slim_doors =
+		default = 1
