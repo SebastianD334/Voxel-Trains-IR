@@ -2,7 +2,32 @@
   "name": "Voxel Third Rail Left Concrete",
   "clack": false,
   "models": {
-    ">0": "immersiverailroading:models/track/voxel-concrete-3rd-rail-left/voxel-concrete-3rd-rail-left.obj"
+    ">0": {
+      "model": "immersiverailroading:models/track/voxel-concrete-3rd-rail-left/voxel-concrete-3rd-rail-left.obj",
+      "groups": [
+        {
+          "ident": "support",
+          "parts": {
+            "RAIL_LEFT": ["RAIL_LEFT"],
+            "RAIL_RIGHT": ["RAIL_RIGHT"],
+            "RAIL_BASE": ["RAIL_BASE", "sleepers", "support", "conductor_split", "cover_split"]
+          }
+        },
+        {
+          "ident": "main",
+          "parts": {
+            "RAIL_LEFT": ["RAIL_LEFT"],
+            "RAIL_RIGHT": ["RAIL_RIGHT"],
+            "RAIL_BASE": ["RAIL_BASE", "sleepers", "conductor", "cover"]
+          }
+        }
+      ],
+      "order": {
+        "near": ["support", "main*3"],
+        "mid": ["support", "main*3"],
+        "far": ["support"]
+      }
+    }
   },
   "materials": {
     "TIE": [{
