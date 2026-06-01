@@ -23,6 +23,7 @@ couplers =
 	rear_offset = -0.375
 	front_slack = 0
 	rear_slack = 0
+overlay = "immersiverailroading:vtgui/ui/ind_brake.caml"
 animations:
 	control_group = "slim_doors"
 	animatrix = "immersiverailroading:models/rolling_stock/passenger/sbb_ew-iv_b/slim_doors.anim"
