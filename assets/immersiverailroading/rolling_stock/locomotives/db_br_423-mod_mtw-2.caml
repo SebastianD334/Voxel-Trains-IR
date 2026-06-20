@@ -12,7 +12,7 @@ properties =
 	tractive_effort_kn = 145
 	max_speed_kmh = 140
 	weight_kg = 29000
-	interior_light_level = 0.7
+	interior_light_level = 0.75
 	linear_brake_control = true
 	throttle_notches = 25
 	rolling_resistance_coefficient = 0.0007
@@ -21,8 +21,8 @@ properties =
 passenger =
 	slots = 45
 	center_x = 0
-	center_y = 1.5
-	length = 7.5
+	center_y = 1.4
+	length = 7.65
 	width = 2.2
 trucks =
 	front = 6.375
@@ -36,7 +36,7 @@ sounds =
 	horn = sounds/stille.ogg
 	bell = sounds/stille.ogg
 	idle = sounds/stille.ogg
-	running = sounds/db/br_420_drive.ogg
+	running = sounds/ns/virmaccelerate.ogg
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
@@ -45,6 +45,71 @@ lights =
 	
 animations:
 	readout = "engine"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/lights_off.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/zza_off.anim"
 	mode = "play_both"
 	invert = true
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dfl_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dfl_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dml_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dml_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/drl_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/drl_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dfr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dfr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dmr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dmr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/drr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/drr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
