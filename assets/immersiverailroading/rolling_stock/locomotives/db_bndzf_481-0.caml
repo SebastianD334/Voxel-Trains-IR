@@ -13,6 +13,7 @@ properties =
 	linear_brake_control = true
 	throttle_notches = 20
 	cab_car = true
+	independent_brake = true
 passenger =
 	slots = 88
 	center_x = -0.5
@@ -36,3 +37,129 @@ lights =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/lights_off.anim"
+	mode = "play_both"
+	invert = true
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfl_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfl_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfli"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfli_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfli"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfli_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfri"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfri_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfri"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/dfri_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drl_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drl_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drli"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drli_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drli"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drli_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drri"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drri_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drri"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drri_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "gd1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/gd1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "id1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id1.anim"
+	mode = "value"
+
+animations:
+	control_group = "id2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id2.anim"
+	mode = "value"
+
+animations:
+	control_group = "id3"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id3.anim"
+	mode = "value"
