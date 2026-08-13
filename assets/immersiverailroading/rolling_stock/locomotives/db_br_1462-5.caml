@@ -32,6 +32,7 @@ couplers =
 sounds =
 	horn = "sounds/re460horn.ogg"
 	idle = "sounds/sbb/re460.ogg"
+overlay = "immersiverailroading:vtgui/ui/desiro_hc_160_cab.caml"
 
 lights =
 	HEADLIGHT_1 =
