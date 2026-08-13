@@ -37,6 +37,7 @@ sounds =
 	bell = sounds/stille.ogg
 	idle = sounds/stille.ogg
 	running = sounds/ns/virmaccelerate.ogg
+overlay = "immersiverailroading:vtgui/ui/power.caml"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
