@@ -1,5 +1,5 @@
 name = "DB Regio Bnrz 451.4 « n-Wagen »"
-works = "AW Krefeld"
+works = "AW Hannover; AW Krefeld; AW Neumünster; AW Wittenberge; Stadler, Werk Weiden"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-4/db_bnrz_451-4.obj"
@@ -125,7 +125,7 @@ animations:
 
 animations:
 	control_group = "gd1"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/gd1.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-4/gd1.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 

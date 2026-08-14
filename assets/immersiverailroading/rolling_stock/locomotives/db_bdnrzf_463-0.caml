@@ -146,20 +146,20 @@ animations:
 
 animations:
 	control_group = "id2"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id2.anim"
 	mode = "value"
 
 animations:
 	control_group = "id3"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id3.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id3.anim"
 	mode = "value"
 
 animations:
 	control_group = "id4"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id4.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id4.anim"
 	mode = "value"
 
 animations:
 	control_group = "id5"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id5.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id5.anim"
 	mode = "value"

@@ -1,5 +1,5 @@
 name = "DB Regio Bnrz 452.4 « n-Wagen »"
-works = "AW Krefeld"
+works = "AW Hannover; AW Krefeld; AW Neumünster; AW Potsdam; AW Wittenberge"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-4/db_bnrz_452-4.obj"

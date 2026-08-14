@@ -1,6 +1,6 @@
 era = diesel
 name = "DB Regio Bnrbdzf 483.1 « n-Wagen Wittenberger Kopf»"
-works = "AW Wittenberge"
+works = "	AW Delitzsch; PFA Weiden"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/db_bnrbdzf_483-1.obj"

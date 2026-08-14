@@ -1,5 +1,5 @@
 name = "DB Regio Bnrdz 451.9 « n-Wagen »"
-works = "AW Wittenberge"
+works = "AW Halberstadt; AW Hannover; AW Krefeld; AW Limburg; AW Neumünster; AW Wittenberge; PFA Weiden"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/db_bnrdz_451-9/db_bnrdz_451-9.obj"
@@ -125,7 +125,7 @@ animations:
 
 animations:
 	control_group = "gd1"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/gd1.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-4/gd1.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 
