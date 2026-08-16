@@ -1,0 +1,165 @@
+era = diesel
+name = "DB BDnrzf 740.2 « Silberling Karlsruher Kopf »"
+works = "AW Karlsruhe"
+modeler = "CEO_of_Dummheit"
+pack = "Voxel Trains"
+model = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_740-2/db_bdnrzf_740-2.obj"
+overlay = "immersiverailroading:vtgui/ui/db_dbbzfa_761.caml"
+sound_dampening_percentage = 0.9
+properties =
+	max_speed_kmh = 140
+	weight_kg = 33000
+	interior_light_level = 0.5
+	linear_brake_control = true
+	throttle_notches = 10
+	cab_car = true
+	independent_brake = true
+passenger =
+	slots = 78
+	center_x = -0.5
+	center_y = 1.2
+	length = 12.5
+	width = 2.2
+trucks =
+	front = 9.5
+	rear = -9.5
+couplers =
+	front_offset = -0
+	rear_offset = -0
+	front_slack = 0
+	rear_slack = 0
+sounds =
+	horn = "sounds/db/br_111_horn.ogg"
+	idle = "sounds/sound/idle.ogg"
+
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/lights_off.anim"
+	mode = "play_both"
+	invert = true
+
+
+animations:
+	control_group = "bdl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/bdl.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "bdr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/bdr.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+
+
+
+animations:
+	control_group = "dfli"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfli_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfli"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfli_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+
+animations:
+	control_group = "dfri"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfri_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfri"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfri_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drl_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drl_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drli"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drli_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drli"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drli_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drri"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drri_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drri"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/drri_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dr1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/dr1.anim"
+	mode = "value"
+
+animations:
+	control_group = "id1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id1.anim"
+	mode = "value"
+
+animations:
+	control_group = "id2"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id2.anim"
+	mode = "value"
+
+animations:
+	control_group = "id3"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id3.anim"
+	mode = "value"
+
+animations:
+	control_group = "id4"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id4.anim"
+	mode = "value"
+
+animations:
+	control_group = "id5"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id5.anim"
+	mode = "value"

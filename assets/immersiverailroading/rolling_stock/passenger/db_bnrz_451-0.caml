@@ -1,5 +1,5 @@
 name = "DB Regio Bnrz 451.0 « n-Wagen »"
-works = "	AW Halberstadt; AW Hannover; AW Krefeld; AW Limburg; AW Neumünster; AW Wittenberge; PFA Weiden"
+works = "AW Halberstadt; AW Hannover; AW Krefeld; AW Limburg; AW Neumünster; AW Wittenberge; PFA Weiden"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_451-0/db_bnrz_451-0.obj"
