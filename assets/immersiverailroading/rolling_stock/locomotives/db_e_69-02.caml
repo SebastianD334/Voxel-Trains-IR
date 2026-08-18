@@ -36,6 +36,10 @@ sounds =
 	running = "sounds/db/e_69_drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/e-69.caml"
 
+controls =
+	fd =
+		default = 1
+
 animations:
 	readout = engine
 	animatrix = immersiverailroading:models/rolling_stock/locomotives/db_e_69/idle.anim
