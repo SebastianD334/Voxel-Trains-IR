@@ -1,5 +1,5 @@
 era = diesel
-name = "DB BDnf 738 « Silberling Hasenkasten »"
+name = "DB BDnf 738.0 « Silberling Hasenkasten »"
 works = "AW Karlsruhe"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
@@ -16,9 +16,9 @@ properties =
 	independent_brake = true
 passenger =
 	slots = 79
-	center_x = -0.5
+	center_x = 0
 	center_y = 1.2
-	length = 12.5
+	length = 13.0
 	width = 2.2
 trucks =
 	front = 9.5
@@ -56,7 +56,6 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/bdr.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
-
 
 
 animations:
@@ -135,31 +134,21 @@ animations:
 	frames_per_tick = 3.0
 
 animations:
-	control_group = "dr1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/dr1.anim"
-	mode = "value"
-
-animations:
 	control_group = "id1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id1.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id1.anim"
 	mode = "value"
 
 animations:
 	control_group = "id2"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id2.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id2.anim"
 	mode = "value"
 
 animations:
 	control_group = "id3"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id3.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id3.anim"
 	mode = "value"
 
 animations:
 	control_group = "id4"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id4.anim"
-	mode = "value"
-
-animations:
-	control_group = "id5"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bdnrzf_463-0/id5.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_bnrz_452-0/id4.anim"
 	mode = "value"
