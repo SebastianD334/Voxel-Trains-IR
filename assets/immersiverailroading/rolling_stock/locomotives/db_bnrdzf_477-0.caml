@@ -40,6 +40,13 @@ lights =
 
 
 animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bimdzf_269-ic/lights_off.anim"
+	mode = "play_both"
+	invert = true
+	
+
+animations:
 	control_group = "dfli"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfli_open.anim"
 	mode = "play_forward"
