@@ -109,6 +109,7 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dfr_close.anim"
 	mode = "play_reverse"
 	frames_per_tick = 3.0
+	
 animations:
 	control_group = "dmr"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dmr_open.anim"

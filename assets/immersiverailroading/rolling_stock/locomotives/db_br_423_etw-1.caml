@@ -1,0 +1,132 @@
+era = diesel
+name = "S-Bahn Muenchen BR 423 ETW 1/4"
+works = "Adtranz, Alstom LHB, ABB, Bombardier"
+modeler = "CEO_of_Dummheit"
+pack = "Voxel Trains"
+model = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/db_br_423_etw-1.obj"
+sound_dampening_percentage = 0.6
+properties =
+	fuel_efficiency_% = 99
+	fuel_capacity_l = 1250
+	power_kw = 587.5
+	tractive_effort_kn = 145
+	max_speed_kmh = 140
+	weight_kg = 29000
+	interior_light_level = 0.6
+	linear_brake_control = true
+	throttle_notches = 25
+	rolling_resistance_coefficient = 0.0007
+	drag_coefficient = 0.9
+	dynamic_traction_control = true
+passenger =
+	slots = 45
+	center_x = 0.76
+	center_y = 1.4
+	length = 8.4
+	width = 2.2
+trucks =
+	front = 7.375
+	rear = -6.375
+couplers =
+	front_offset = -0.25
+	rear_offset = -2.4375
+	front_slack = 0
+	rear_slack = 0
+sounds =
+	horn = sounds/db/vt_628_horn.ogg
+	bell = sounds/stille.ogg
+	idle = sounds/stille.ogg
+	running = sounds/ns/virmaccelerate.ogg
+overlay = "immersiverailroading:vtgui/ui/br_423_cab.caml"
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
+	
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/lights_off.anim"
+	mode = "play_both"
+	invert = true
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/zza_off.anim"
+	mode = "play_both"
+	invert = true
+
+animations:
+	readout = "coupled_front"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/coupled_front.anim"
+	mode = "play_both"
+
+animations:
+	control_group = "cd1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/cab_door.anim"
+	mode = "value"
+
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dfl_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dfl_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dml_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dml"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dml_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/drl_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drl"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/drl_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dfr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dfr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dfr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+	
+animations:
+	control_group = "dmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dmr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "dmr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/dmr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
+
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/drr_open.anim"
+	mode = "play_forward"
+	frames_per_tick = 3.0
+animations:
+	control_group = "drr"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423/drr_close.anim"
+	mode = "play_reverse"
+	frames_per_tick = 3.0
