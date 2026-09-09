@@ -33,7 +33,7 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = sounds/db/vt_628_horn.ogg
+	horn = sounds/db/br_423_horn.ogg
 	bell = sounds/stille.ogg
 	idle = sounds/stille.ogg
 	running = sounds/ns/virmaccelerate.ogg
@@ -54,7 +54,6 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/zza_off.anim"
 	mode = "play_both"
 	invert = true
-
 
 animations:
 	readout = "coupled_front"
