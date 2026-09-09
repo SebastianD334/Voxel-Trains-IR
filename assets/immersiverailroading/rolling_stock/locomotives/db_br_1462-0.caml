@@ -4,7 +4,7 @@ works = "Siemens"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_br_1462-0/db_br_1462-0.obj"
-sound_dampening_percentage = 0.6
+sound_dampening_percentage = 0.5
 properties =
 	fuel_efficiency_% = 95
 	fuel_capacity_l = 4000
@@ -30,8 +30,12 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = "sounds/re460horn.ogg"
-	idle = "sounds/sbb/re460.ogg"
+	horn = "sounds/ice_t_horn.ogg"
+	bell = "sounds/stille.ogg"
+	idle = "sounds/stille.ogg"
+	running = "sounds/db/desiro_hc_acceleration.ogg"
+	wheels = "sounds/db/dosto_roll.ogg"
+
 overlay = "immersiverailroading:vtgui/ui/desiro_hc_160_cab.caml"
 
 lights =

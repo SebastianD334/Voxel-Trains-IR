@@ -3,7 +3,7 @@ works = "Siemens"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/db_br_1862-0/db_br_1862-0.obj"
-sound_dampening_percentage = 0.6
+sound_dampening_percentage = 0.5
 properties =
 	max_speed_kmh = 160
 	weight_kg = 43000
@@ -22,6 +22,8 @@ couplers =
 	rear_offset = -0.1875
 	front_slack = 0
 	rear_slack = 0
+
+	wheels = "sounds/db/dosto_roll.ogg"
 
 controls =
 	toilet =
