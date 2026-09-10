@@ -38,3 +38,8 @@ animations:
 	control_group = "shl"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ns_dh700/shl.anim"
 	mode = "play_both"
+animations:
+	control_group = "bc"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/ns_dh700/bc.anim"
+	mode = "loop"
+	frames_per_tick = 2
