@@ -71,3 +71,12 @@ animations:
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_re_460/controls2open.anim"
 	mode = "PLAY_REVERSE"
 	frames_per_tick = 1
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_3 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_4 =
+		texture = immersiverailroading:textures/no_flare.png
