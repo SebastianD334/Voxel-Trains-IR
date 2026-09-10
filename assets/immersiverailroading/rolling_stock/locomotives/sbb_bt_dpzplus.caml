@@ -28,3 +28,17 @@ couplers =
 sounds =
 	horn = "sounds/re460horn.ogg"
 overlay = "immersiverailroading:vtgui/ui/btdpzplus.caml"
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_bt_dpzplus/lights_off.anim"
+	mode = "play_both"
+	invert = true
+animations:
+	control_group = "hb1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/sbb_bt_dpzplus/hb1.anim"
+	mode = "play_both"
+lights =
+	HEADLIGHT_1 =
+		texture = immersiverailroading:textures/no_flare.png
+	HEADLIGHT_2 =
+		texture = immersiverailroading:textures/no_flare.png
