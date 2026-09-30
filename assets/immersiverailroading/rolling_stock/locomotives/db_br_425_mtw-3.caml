@@ -1,6 +1,6 @@
 era = diesel
 name = "DB Regio BR 425 MTW 3"
-works = Adtranz/Bombardier, Siemens
+works = Adtranz / Bombardier, Siemens
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_br_425/db_br_425_mtw-3.obj"

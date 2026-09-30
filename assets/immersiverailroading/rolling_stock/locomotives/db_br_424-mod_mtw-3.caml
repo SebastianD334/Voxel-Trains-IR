@@ -1,6 +1,6 @@
 era = diesel
 name = "S-Bahn Muenchen BR 424 MTW 3  Modernisiert"
-works = Adtranz/Bombardier, Siemens
+works = Adtranz / Bombardier, Siemens
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_br_424-mod/db_br_424_mtw-3.obj"
