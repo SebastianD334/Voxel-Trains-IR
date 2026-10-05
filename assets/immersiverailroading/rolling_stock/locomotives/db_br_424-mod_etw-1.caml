@@ -52,19 +52,25 @@ animations:
 
 animations:
 	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_425/idle.anim"
+	mode = "loop"
+	sound = "sounds/db/br_423_ac.ogg"
+
+animations:
+	readout = "engine"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_425/zza_off.anim"
 	mode = "play_both"
 	invert = true
 
 animations:
+	control_group = "cd1"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_425/cab_door.anim"
+	mode = "value"
+
+animations:
 	readout = "coupled_front"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/coupled_front.anim"
 	mode = "play_both"
-
-animations:
-	control_group = "cd1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/cab_door.anim"
-	mode = "value"
 
 animations:
 	control_group = "dfl"

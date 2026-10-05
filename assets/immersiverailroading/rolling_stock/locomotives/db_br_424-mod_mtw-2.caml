@@ -51,6 +51,12 @@ animations:
 	invert = true
 
 animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_425/idle.anim"
+	mode = "loop"
+	sound = "sounds/db/br_423_ac.ogg"
+
+animations:
 	control_group = "dfl"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_423-mod/dfl_open.anim"
 	mode = "play_forward"
