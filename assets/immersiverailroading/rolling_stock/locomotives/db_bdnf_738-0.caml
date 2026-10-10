@@ -60,26 +60,26 @@ animations:
 
 animations:
 	control_group = "dfli"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfli_open.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrdzf_483-1/dfli_open.anim"
 	mode = "play_forward"
 	frames_per_tick = 3.0
 
 animations:
 	control_group = "dfli"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfli_close.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrdzf_483-1/dfli_close.anim"
 	mode = "play_reverse"
 	frames_per_tick = 3.0
 
 
 animations:
 	control_group = "dfri"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfri_open.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrdzf_483-1/dfri_open.anim"
 	mode = "play_forward"
 	frames_per_tick = 3.0
 
 animations:
 	control_group = "dfri"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/dfri_close.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrdzf_483-1/dfri_close.anim"
 	mode = "play_reverse"
 	frames_per_tick = 3.0
 

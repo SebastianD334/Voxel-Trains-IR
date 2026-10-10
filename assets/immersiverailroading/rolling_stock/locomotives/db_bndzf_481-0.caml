@@ -145,7 +145,7 @@ animations:
 
 animations:
 	control_group = "gd1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrbdzf_483-1/gd1.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_bnrdzf_483-1/gd1.anim"
 	mode = "play_both"
 	frames_per_tick = 3.0
 
