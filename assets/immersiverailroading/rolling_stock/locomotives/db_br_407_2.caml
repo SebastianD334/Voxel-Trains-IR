@@ -207,51 +207,51 @@ controls =
 		default = 1
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
 animations:
 	control_group = "drl"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/drl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/drl.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
 animations:
 	control_group = "drr"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/drr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/drr.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
 animations:
 	control_group = "gd"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/gdopen.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/gdopen.anim"
 	mode = "play_forward"
 	frames_per_tick = 1.0
 animations:
 	control_group = "gd"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/gdclose.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/gdclose.anim"
 	mode = "play_reverse"
 	frames_per_tick = 1.0
 animations:
 	control_group = "id1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/id1open.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/id1open.anim"
 	mode = "play_forward"
 	frames_per_tick = 1.0
 animations:
 	control_group = "id1"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/id1close.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/id1close.anim"
 	mode = "play_reverse"
 	frames_per_tick = 1.0
 animations:
 	control_group = "id2"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/id2open.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/id2open.anim"
 	mode = "play_forward"
 	frames_per_tick = 1.0
 animations:
 	control_group = "id2"
-	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_7/id2close.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_407_2/id2close.anim"
 	mode = "play_reverse"
 	frames_per_tick = 1.0

@@ -113,31 +113,31 @@ controls =
 		default = 1
 animations:
 	control_group = "dfl"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_6/dfl.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_1/dfl.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
 animations:
 	control_group = "dfr"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_6/dfr.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_1/dfr.anim"
 	mode = "play_both"
 	frames_per_tick = 1.0
 animations:
 	control_group = "gd"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_6/gdopen.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_1/gdopen.anim"
 	mode = "play_forward"
 	frames_per_tick = 1.0
 animations:
 	control_group = "gd"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_6/gdclose.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_1/gdclose.anim"
 	mode = "play_reverse"
 	frames_per_tick = 1.0
 animations:
 	control_group = "id1"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_6/id1open.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_1/id1open.anim"
 	mode = "play_forward"
 	frames_per_tick = 1.0
 animations:
 	control_group = "id1"
-	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_6/id1close.anim"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/db_br_407_1/id1close.anim"
 	mode = "play_reverse"
 	frames_per_tick = 1.0
