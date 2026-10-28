@@ -34,6 +34,17 @@ animations:
 	mode = "play_both"
 	frames_per_tick = 1.0
 widgets =
+	DOOR_3 =
+		ROT =
+			DEGREES = 10
+			POINT =
+				X = -5.8125
+				Y = 2
+				Z = 3.1875
+			AXIS =
+				X = 0
+				Y = 1
+				Z = 0
 	WIDGET_20 =
 		CG = "steps"
 		OFFSET = 1
