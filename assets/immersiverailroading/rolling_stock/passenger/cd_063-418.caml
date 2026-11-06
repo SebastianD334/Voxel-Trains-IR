@@ -1,5 +1,5 @@
 name = ""ČD 063 418/420 « Tornáda »"
-works = "N/A"
+works = "Tatra Studénka wagon"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/passenger/cd_063-418/cd_063-418.obj"
@@ -23,3 +23,14 @@ couplers =
 	rear_offset = -0
 	front_slack = 0
 	rear_slack = 0
+
+animations:
+	control_group = "d1"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/cd_063-418/d1.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/cd_063-418/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0

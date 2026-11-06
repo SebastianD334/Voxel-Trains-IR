@@ -33,16 +33,19 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = sounds/db/db_whistle.ogg
+	horn = sounds/stille.ogg
 	bell = sounds/stille.ogg
 	idle = sounds/stille.ogg
-	running = sounds/db/br_420_drive.ogg
+	running = sounds/cd/tornado_drive.ogg
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png
 	HEADLIGHT_2 =
 		texture = immersiverailroading:textures/no_flare.png
 
-
-
+animations:
+	control_group = "d2"
+	animatrix = "immersiverailroading:models/rolling_stock/passenger/cd_063-418/d2.anim"
+	mode = "play_both"
+	frames_per_tick = 3.0
 
