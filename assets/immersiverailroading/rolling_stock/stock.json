@@ -231,11 +231,15 @@
 		"db_kds_54","db_kds_54-hb",
 		"db_cargo_hbbills_308","db_cargo_hbbins_306","railion_habbiins_344",
 		"db_cargo_laaeffrs_561-1","db_cargo_laaeffrs_561-2",
+		"db_sgns_60","db_sgns_60_shit",
+		"db_sggrs_80-a","db_sggrs_80-b",
 		"db_omm_55-hb","db_omm_55",
 		"samms710", 
 		"samms709_lhb", "samms709_graaff", "sahmmst709_graaff", "sahmms709_okd",
 		"sggrs716_1", "sggrs716_2", 
 		"sggnss_80_xl",
+		"vtg_sgmmns_40",
+		"vtg_sgns_60",
 		"rommenhoeller",
 
 
@@ -252,14 +256,21 @@
 		"tagnppssbbcargo", "tagnppszucker",
 		"uacns932_holcim", 
 		"hupac_t3000e_a", "hupac_t3000e_b", 
+		"aae_sgns_60",
 		
 		// Netherlands_____________________________________________ 
 		"ns_ubcs_3830", 
 
 		// France__________________________________________________ 
 		"laeks427_1", "laeks427_2", 
-		
+		"ermewa_sgmnns_40",
+		"ermewa_sgns_60",
+		"ermewa_sggrs_80-a","ermewa_sggrs_80-b",
+
 		// Miscellaneous___________________________________________ 
+		"eurowagon_sgmmns_40",
+		"eurowagon_sgns_60",
+		"eurowagon_sggrs_80-a","eurowagon_sggrs_80-b",
 		"franz", 
 		"buffer", 
 		"rawie_typ_4_modern","rawie_typ_4_wood1","rawie_typ_4_wood1_rust", "rawie_typ_4_wood2",
