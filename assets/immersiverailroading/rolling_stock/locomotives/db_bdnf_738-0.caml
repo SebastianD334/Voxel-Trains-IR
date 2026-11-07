@@ -4,7 +4,6 @@ works = "AW Karlsruhe"
 modeler = "CEO_of_Dummheit"
 pack = "Voxel Trains"
 model = "immersiverailroading:models/rolling_stock/locomotives/db_bdnf_738/db_bdnf_738.obj"
-overlay = "immersiverailroading:vtgui/ui/db_dbbzfa_761.caml"
 sound_dampening_percentage = 0.9
 properties =
 	max_speed_kmh = 140
@@ -31,7 +30,7 @@ couplers =
 sounds =
 	horn = "sounds/db/br_111_horn.ogg"
 	idle = "sounds/sound/idle.ogg"
-
+overlay = "immersiverailroading:vtgui/ui/karlsruher.caml"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png

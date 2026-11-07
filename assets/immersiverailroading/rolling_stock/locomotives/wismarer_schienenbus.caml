@@ -34,7 +34,7 @@ sounds =
 	horn = sounds/kofhorn.ogg
 	idle = sounds/kofidle.ogg
 	running = sounds/kofdrive.ogg
-
+overlay = "immersiverailroading:vtgui/ui/wismarer.caml"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png

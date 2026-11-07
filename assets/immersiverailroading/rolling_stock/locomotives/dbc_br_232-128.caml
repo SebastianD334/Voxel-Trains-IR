@@ -37,7 +37,7 @@ sounds =
 	horn = sounds/db/br_232_horn.ogg
 	idle = sounds/db/br_232_idle.ogg
 	running = sounds/db/br_232_running.ogg
-
+overlay = "immersiverailroading:vtgui/ui/ludmilla.caml"
 animations:
 	control_group = "fan"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/wfl_br_232-535/fan.anim"

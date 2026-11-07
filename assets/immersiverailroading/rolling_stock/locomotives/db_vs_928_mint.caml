@@ -30,6 +30,7 @@ sounds =
 	horn = "sounds/db/vt_628_horn.ogg"
 	idle = "sounds/db/vt628_idle.ogg"
 	wheels = "sounds/sbb/wagroll.ogg"
+overlay = "immersiverailroading:vtgui/ui/br928.caml"
 lights =
 	HEADLIGHT_1 =
 		texture = immersiverailroading:textures/no_flare.png

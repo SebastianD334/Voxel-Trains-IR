@@ -30,7 +30,7 @@ couplers =
 	rear_offset = -0
 	front_slack = 0
 	rear_slack = 0
-
+overlay = "immersiverailroading:vtgui/ui/koefiii.caml"
 sounds =
 	horn = sounds/db/br_111_horn.ogg
 	idle = sounds/db/br_332_idle.ogg
