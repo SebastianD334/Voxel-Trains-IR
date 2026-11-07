@@ -1,0 +1,23 @@
+element:
+        x = 0
+        y = -30
+        image = "immersiverailroading:vtgui/gauge_digital/background.png"
+        element:
+            # gauge
+            x = 0
+            y = 0
+            image = "immersiverailroading:vtgui/gauge_digital/gauge.png"
+        element:
+            # label
+            x = 30
+            y = 21
+            text =
+                value = stat.units_speed
+                height = 8
+        element:
+            # speed readout
+            x = 30
+            y = 6
+            text =
+                value = stat.speed
+                height = 10
