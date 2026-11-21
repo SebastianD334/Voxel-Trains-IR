@@ -10,3 +10,25 @@ Ni 1.45
 d 1
 Illum 1
 map_Kd texture.png
+
+newmtl first
+Ns 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ni 1.45
+d 1
+Illum 1
+map_Kd first.png
+
+newmtl second
+Ns 0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+Ke 0 0 0
+Ni 1.45
+d 1
+Illum 1
+map_Kd second.png
