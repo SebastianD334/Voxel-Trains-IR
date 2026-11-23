@@ -31,8 +31,9 @@ couplers =
 	front_slack = 0
 	rear_slack = 0
 sounds =
-	horn = "sounds/re460horn.ogg"
-	idle = "sounds/sbb/re460.ogg"
+	horn = "sounds/ice_t_horn.ogg"
+	idle = "sounds/sound/stille.ogg"
+	running = "sounds/sound/idle.ogg"
 	wheels = "sounds/sound/drive.ogg"
 overlay = "immersiverailroading:vtgui/ui/br101.caml"
 
@@ -53,4 +54,25 @@ animations:
 animations:
 	control_group = "hb2"
 	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_146_2/hb2.anim"
+	mode = "play_both"
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_101/idle.anim"
+	mode = "loop"
+	sound = "sounds/db/br_101_idle.ogg"
+
+animations:
+	readout = "engine"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_146_2/lights_off.anim"
+	mode = "play_both"
+	invert = true
+
+animations:
+	readout = "coupled_front"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_101/coupled_front.anim"
+	mode = "play_both"
+animations:
+	readout = "coupled_rear"
+	animatrix = "immersiverailroading:models/rolling_stock/locomotives/db_br_101/coupled_rear.anim"
 	mode = "play_both"
